@@ -1,0 +1,8 @@
+ANALISE PRELIMINAR DOS DADOS- a primeira def 1 o index  é o id das categorias, no df2 nao é pois no df2 os dados faltantes é -1 que representa os faltantes,
+- foi colocado assim para nao dar conflito no int do python : categoria abrangente foi criado na mao ,  que sao as categorias que  sofreram generalizacao  proximidade dos temas ,
+  para posteriormente fazer a clusterizacao  ,      so fiz instagram pois vou generalizar para o resto das categorias , devido ao problema que ocorreu no grupo.    
+   separacao das categorias unicas que nada mais sao do que  uma unica aparicao das categorias, serve para categorias abrangentes e unicas ,    
+       a respeito dos ids de categorias,  os ids da tabela de cima relacionados as categorias  estao com ids diferentes dos ids do datascrap
+        pois  subtrai 1000 de todas as categorias ja que era um numero inutil de existir.   os ids nao forem substituidos  por nome por causa
+         do tamanho do nome que ficaria gigante, ai estou pensando numa forma de colocar essas categorias de forma compreensivel para humanos.  
+  "" analisar melhor a funcao do grafico para  analisar como eu vou mostrar os dados para os humanos de forma a facilitar a compreeensao ``
