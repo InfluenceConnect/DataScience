@@ -14,7 +14,7 @@ Essa pasta visa analisar dados de influenciadores coletados de diferentes plataf
 - **DataAnalytics**: Aqui, os dados processados são analisados e visualizados. Alguns passos importantes incluem:
   - Mapeamento dos IDs dos influenciadores para seus respectivos nichos.
   - Criação de gráficos para entender o engajamento e outras métricas.
-  - Aplicação de métodos de clusterização, como o gráfico Cotolev e a silhueta, para extrair informações sobre nichos.
+  - Aplicação de métodos de clusterização, como o gráfico Cotovelo e a silhueta, para extrair informações sobre nichos.
 
 - **DataPopulateScripts**: Nesta etapa, scripts são criados para popular o banco de dados. Problemas de CRUD são resolvidos, e os dados são enviados para o banco de dados por meio de uma API, sem a necessidade de scripts SQL.
 
