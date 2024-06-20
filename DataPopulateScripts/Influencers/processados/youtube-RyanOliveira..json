@@ -1,0 +1,92 @@
+{
+  "_number": 188,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UChEmvd47U5S-lCbZvUjzGcA",
+    "username": "RyanOliveira.",
+    "title": null,
+    "fullname": "Ryan Oliveira",
+    "avatar_url": "https://yt3.googleusercontent.com/jDXq3d2yrZswoXXbZsbDATNCAMmH4iwV80cExMhbdgJngb66BgEm0b__o5ahMKbwTTQRF0Op=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.72,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.72,
+            "hs_value": 63.985393
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.12,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 1.03,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.03,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 1.03,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6930574
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 312
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7446
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7758
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 280222
+        }
+      }
+    }
+  }
+}

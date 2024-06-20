@@ -1,0 +1,91 @@
+{
+  "_number": 407,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCEjwJWf0jfkx9P-hfY8sLTw",
+    "username": "TzyGames",
+    "title": null,
+    "fullname": "Tzy Games",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_niEOc_YRYlrO6uFkpgUqKcwDldEtIoaNU_bVnPlFgeeTk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.35,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.35,
+            "hs_value": 0.063667
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.44,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.44,
+            "hs_value": null
+          },
+          {
+            "id": "bm",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4080862
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 26
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 24757
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 24783
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 111798
+        }
+      }
+    }
+  }
+}

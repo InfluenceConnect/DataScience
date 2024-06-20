@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "7190571559601488938",
+    "username": "fabianalandim14",
+    "fullname": "fabi landim",
+    "description": "\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\uddf7",
+    "tier": 143,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/7036c7217ff38f881e24205e4d5da2b3~c5_720x720.jpeg",
+    "last_media_time": "2024-06-01",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2024-02-11",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 353402
+    },
+    "hs_value": {
+      "value": 398.489375
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 16.18,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.821226,
+          "similar_min": 4.977925,
+          "similar_max": 6.830569,
+          "value_prev": 12.35
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 266078
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 38599
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 128
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 260
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 82,
+        "prc_better": 97,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 641,
+  "_delta": null
+}

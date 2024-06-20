@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6833299916841141254",
+    "username": "fluxo_rajah",
+    "fullname": "rajah",
+    "description": "Streamer e Influenciadora do @fluxogg\nparcerias@fluxo.gg",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/2a3584cbf31640eb60d447e70b16a3e3~c5_720x720.jpeg",
+    "last_media_time": "2024-05-28",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-07-25",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1481927
+    },
+    "hs_value": {
+      "value": 1461.534596
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 12.83,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 13.91
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 405712
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 35283
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 500
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 521
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 91,
+        "mark": "excellent",
+        "mark_title": "EXCELLENT",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_CL_RATIO",
+                "text": "Very good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 378,
+  "_delta": null
+}

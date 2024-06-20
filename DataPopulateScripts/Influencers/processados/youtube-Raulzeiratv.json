@@ -1,0 +1,92 @@
+{
+  "_number": 937,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCX68OES0EiFTMylVKFoszZg",
+    "username": "Raulzeiratv",
+    "title": null,
+    "fullname": "Raulzeira Tv",
+    "avatar_url": "https://yt3.googleusercontent.com/WNCTUiVYU0wI4rRdhubTxL2ZTXX_UR9ffDvWRIoSn86QYdz9YYP0grx_Mi4oV_VqR5pfXmsK=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.69,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.69,
+            "hs_value": 3.707521
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.53,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2221026
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 60
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2806
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2866
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 77069
+        }
+      }
+    }
+  }
+}

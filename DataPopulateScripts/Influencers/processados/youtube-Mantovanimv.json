@@ -1,0 +1,92 @@
+{
+  "_number": 963,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCyDxq1X2OqwpMFoZ164jXOg",
+    "username": "Mantovanimv",
+    "title": null,
+    "fullname": "Mantovani",
+    "avatar_url": "https://yt3.googleusercontent.com/V7sOE1hNh0plksCCCUvbjYcc_AxPnsfr5pSVRkDNapA7MpanSY2eAZHeziAyuFhAm1Nej70_cA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.5,
+            "hs_value": 0.31509
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 6.17,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2170843
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 12
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1508
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1520
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 22188
+        }
+      }
+    }
+  }
+}

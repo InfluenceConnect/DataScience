@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 45,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "451573056",
+    "username": "nickiminaj",
+    "title": null,
+    "fullname": "Barbie",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/451573056.jpg?w=150&till=1722470340&sign=d77d8913ee65837bfdac1d13cbe54c89",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 36.25,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 229248640
+    },
+    "engagement_avg": {
+      "value": 365848
+    },
+    "authentic_engagement": {
+      "value": 252201
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 151,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCK8QPDq9zKnfSEWQImX5Ebg",
+    "username": "CassioToledo",
+    "title": null,
+    "fullname": "Cassio Toledo - Relaxing Music",
+    "avatar_url": "https://yt3.googleusercontent.com/P4sYw9XquOisAUUH2j9J3MLFg9kBDckIyCqf3CNSzyIPdpJmdpj4fJYsiCg__OL0CPsIUh4T2w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 67.52,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 67.52,
+            "hs_value": 0.141554
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 5.01,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 4.87,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 4.19,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 2.84,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7935151
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 51
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 301
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 352
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 9744
+        }
+      }
+    }
+  }
+}

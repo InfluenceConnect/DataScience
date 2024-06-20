@@ -1,0 +1,92 @@
+{
+  "_number": 101,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCqV7ADkocFVOLxvPGqTEyDw",
+    "username": "catiadamasceno",
+    "title": null,
+    "fullname": "C\u00e1tia Damasceno",
+    "avatar_url": "https://yt3.googleusercontent.com/gsVyo27MoBrFrfPgSZugVEXbRKQ5kbUYCx1hDRe7CTwSAU6C9Hj-ipvMSglIIzVJnBHMMUCqIv4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.65,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.65,
+            "hs_value": 0.119693
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.32,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.55,
+            "hs_value": null
+          },
+          {
+            "id": "nl",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10409131
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 99
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2417
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2516
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 19514.5
+        }
+      }
+    }
+  }
+}

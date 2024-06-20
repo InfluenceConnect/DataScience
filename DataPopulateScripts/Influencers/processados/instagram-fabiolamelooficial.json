@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 922,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1444137219",
+    "username": "fabiolamelooficial",
+    "title": null,
+    "fullname": "Fabiola Melo",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1444137219.jpg?w=150&till=1722470340&sign=55f0675818ba247b47a4775e62239f14",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.22,
+    "blogger_thematics": {
+      "data": [
+        1017
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3242424
+    },
+    "engagement_avg": {
+      "value": 187948
+    },
+    "authentic_engagement": {
+      "value": 140359
+    }
+  }
+}

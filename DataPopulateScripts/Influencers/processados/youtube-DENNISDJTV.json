@@ -1,0 +1,91 @@
+{
+  "_number": 325,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCrPMM16a2XymtrPJwFW4kAQ",
+    "username": "DENNISDJTV",
+    "title": null,
+    "fullname": "DENNIS",
+    "avatar_url": "https://yt3.googleusercontent.com/KNDFdfmnNRNgAwfu4hsGZeOr_wE37U61goYHD6XEmtI8Fu7vLB_tIObQlp6m3E82QqwiC5o14P4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.05,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.05,
+            "hs_value": 0.041407
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.85,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "ie",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4845280
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 451
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 459
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 7716.5
+        }
+      }
+    }
+  }
+}

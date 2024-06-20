@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6664141630784176129",
+    "username": "carolbarragana",
+    "fullname": "Carol Barragana",
+    "description": "Beleza alternativa e maquiagens subversivas \u2728\n\n\ud83e\uddf7contato: comercial@doisum.co",
+    "tier": 141,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/471b667e7cb25c602f151cbfec665753~c5_720x720.jpeg",
+    "last_media_time": "2024-06-03",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2024-02-04",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 171615
+    },
+    "hs_value": {
+      "value": 259.325248
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 17.66,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.883278,
+          "similar_min": 5.013236,
+          "similar_max": 6.903816,
+          "value_prev": 17.39
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 176693
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 30075
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 217
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 271
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 11
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 85,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 726,
+  "_delta": null
+}

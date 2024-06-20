@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "164205348843753472",
+    "username": "omeninodopiseiro",
+    "fullname": "Luan Caetano",
+    "description": "\ud83c\udf35CEARENSE\ud83c\udf35\n\ud83d\udd7a\ud83c\udffcDan\u00e7arino\ud83d\udd7a\ud83c\udffc\n\ud83d\udc46\ud83c\udffcME SIGAM L\u00c1 NO INSTAGRAM\ud83d\udc46\ud83c\udffc",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/cc0fc7effdc4ddeea3a8a2cfc364ade7~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2024-05-14",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 793671
+    },
+    "hs_value": {
+      "value": 134.294882
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 9.2,
+          "mark": "good",
+          "mark_title": "GOOD",
+          "similar": 5.884671,
+          "similar_min": 5.056997,
+          "similar_max": 6.867958,
+          "value_prev": null
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 181783
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19648
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 47
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 329
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 56,
+        "prc_better": 64,
+        "mark": "average",
+        "mark_title": "AVERAGE",
+        "description": {
+          "er": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_ER",
+                "text": "Average audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_GROWTH",
+                "text": "Good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 912,
+  "_delta": null
+}

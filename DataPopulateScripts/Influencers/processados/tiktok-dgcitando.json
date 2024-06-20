@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6902875626996679686",
+    "username": "dgcitando",
+    "fullname": "Dg Citando",
+    "description": "5\u2022 conta nesse site\ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f\ninsta: @dgcitando \u2764\ufe0f\u200d\ud83d\udd25\nCONTA NOVA!",
+    "tier": 143,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/167e92f7ed8d7e25d9492fbfb6f62342~c5_720x720.jpeg",
+    "last_media_time": "2024-05-26",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2024-03-07",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 359636
+    },
+    "hs_value": {
+      "value": 132.492001
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 18.8,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.840341,
+          "similar_min": 4.990803,
+          "similar_max": 6.825409,
+          "value_prev": null
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 129016
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 25232
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 69
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 338
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 5
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 85,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 916,
+  "_delta": null
+}

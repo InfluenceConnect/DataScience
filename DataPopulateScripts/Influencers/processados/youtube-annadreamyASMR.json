@@ -1,0 +1,91 @@
+{
+  "_number": 977,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCe7SFOrT6D_ubcwkQMUG7eA",
+    "username": "annadreamyASMR",
+    "title": null,
+    "fullname": "anna dreamy ASMR",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mAKVfpEFXigouT-T-FsAyqGh5UTO04yTUe2rvUGEq5Xw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.75,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.75,
+            "hs_value": 958.98691
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.72,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.31,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2141075
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 848
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 18692
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 19540
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 204361.5
+        }
+      }
+    }
+  }
+}

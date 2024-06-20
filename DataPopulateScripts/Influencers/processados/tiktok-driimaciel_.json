@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6808680327240172550",
+    "username": "driimaciel_",
+    "fullname": "Adrielly Maciel",
+    "description": "oi, prazer. \n \ud83d\udc67\ud83c\udffb: a menina da distribuidora.\n         \ud83e\udd42\ud83c\udf77\ud83c\udf79\ud83e\uddc3",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/9144f0df465daaf20dffe2609e174779~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2022-10-30",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1936535
+    },
+    "hs_value": {
+      "value": 312.95615
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 5.32,
+          "mark": "average",
+          "mark_title": "AVERAGE",
+          "similar": 6.117799,
+          "similar_min": 5.299669,
+          "similar_max": 7.083806,
+          "value_prev": 4.2
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 396744
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 21377
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 132
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 237
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 14
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 64,
+        "prc_better": 77,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_ER",
+                "text": "Average audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 681,
+  "_delta": null
+}

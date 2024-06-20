@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6926903111752762374",
+    "username": "giuliabenite",
+    "fullname": "Giulia Benite",
+    "description": "eu fa\u00e7o uns filmes a\u00ed ;)",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": true,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/47d53bf2024fd8c184e2f4f6059deddf~c5_720x720.jpeg",
+    "last_media_time": "2024-05-20",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-05-26",
+    "report_data_updated": "2024-02-13",
+    "report_base_updated": "2024-05-26",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4085815
+    },
+    "hs_value": {
+      "value": 199.266481
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 17.39,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.363099,
+          "similar_min": 5.512499,
+          "similar_max": 7.357463,
+          "value_prev": 17.32
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 176358
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 35984
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 311
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 13
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 77,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": null,
+          "account_growth": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_GROWTH",
+                "text": "Good account growth rate"
+              }
+            }
+          },
+          "aqs_comments_likes_ratio": {
+            "mark": "none",
+            "description": {
+              "title": {
+                "key": "AQS_HIDDEN_COMMENTS",
+                "text": "\u0421omments are hidden or restricted"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 796,
+  "_delta": null
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 474,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCDt4dFdsJyjjA8mQULkOLLw",
+    "username": "ratoborrachudo",
+    "title": null,
+    "fullname": "Rato Borrachudo",
+    "avatar_url": "https://yt3.googleusercontent.com/l5abYaxRCYXw1-WGaWCY_TSRo7eTgxuRUoD-dpVVP2Y1CfzK8XvlItHtHI5z_JHUu_XAwr9g-g=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.28,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.28,
+            "hs_value": 0.54121
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.32,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3655041
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 61
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3287
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3348
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 25528
+        }
+      }
+    }
+  }
+}

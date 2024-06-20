@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 924,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "302134774",
+    "username": "callofduty",
+    "title": null,
+    "fullname": "Call of Duty",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/302134774.jpg?w=150&till=1722470340&sign=58b1588ff257068379035666fbf5f9b9",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 30.5,
+    "blogger_thematics": {
+      "data": [
+        1034
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12093544
+    },
+    "engagement_avg": {
+      "value": 49812
+    },
+    "authentic_engagement": {
+      "value": 41425
+    }
+  }
+}

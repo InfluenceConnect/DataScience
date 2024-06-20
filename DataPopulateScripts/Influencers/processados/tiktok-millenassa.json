@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "242679563149774848",
+    "username": "millenassa",
+    "fullname": "Millena",
+    "description": "FOT\u00d3GRAFA\nMe sigam no Instagram \ud83d\udc47\ud83c\udffb",
+    "tier": 143,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/3ae1764ad54865e44693efd4f25a3a99~c5_720x720.jpeg",
+    "last_media_time": "2024-06-03",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-11-23",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 460380
+    },
+    "hs_value": {
+      "value": 5390.62443
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 15.75,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.840341,
+          "similar_min": 4.990803,
+          "similar_max": 6.825409,
+          "value_prev": 20.73
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 361421
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 55282
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 183
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 2515
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 77,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 219,
+  "_delta": null
+}

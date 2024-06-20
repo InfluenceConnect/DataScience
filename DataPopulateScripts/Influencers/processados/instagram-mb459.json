@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 456,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1246537958",
+    "username": "mb459",
+    "title": null,
+    "fullname": "Mario Balotelli Barwuah \ud83c\uddec\ud83c\udded+\ud83c\uddee\ud83c\uddf9=\u26bd\ufe0f",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1246537958.jpg?w=150&till=1722470340&sign=97cd5200a685c80267023760b3cab06b",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "tr",
+    "audience_geo_country_1_prc": 34.25,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12392495
+    },
+    "engagement_avg": {
+      "value": 201796
+    },
+    "authentic_engagement": {
+      "value": 171458
+    }
+  }
+}

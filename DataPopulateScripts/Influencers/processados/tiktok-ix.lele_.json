@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "7128714089530721286",
+    "username": "ix.lele_",
+    "fullname": "\u2363 \u2605 \ud835\udc0b\ud835\udc1e\ud835\udc25\ud835\udc1e \u2605!! \u2363",
+    "description": "\u2605 \ud835\udc0b\ud835\udc1e\ud835\udc25\ud835\udc1e \u2605 | \u272e \ud835\udc1e\ud835\udc27\ud835\udc1f\ud835\udc29 \u272e\n\u2363 \ud835\udc26\ud835\udc21\ud835\udc1a \ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d\ud835\udc2c \u2363\n\ud83c\udde7\ud83c\uddf7",
+    "tier": 137,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/41bb40005776db9f2abf6ce83a611374~c5_720x720.jpeg",
+    "last_media_time": "2024-06-02",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2023-07-29",
+    "report_base_updated": "2024-06-02",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 83623
+    },
+    "hs_value": {
+      "value": 133.172315
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 30.09,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.181403,
+          "similar_min": 5.251627,
+          "similar_max": 7.26715,
+          "value_prev": 24.2
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 74628
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19983
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 251
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 642
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 82,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 913,
+  "_delta": null
+}

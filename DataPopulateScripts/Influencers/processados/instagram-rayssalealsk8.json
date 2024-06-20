@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 536,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1944990242",
+    "username": "rayssalealsk8",
+    "title": null,
+    "fullname": "Rayssa Leal",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1944990242.jpg?w=150&till=1722470340&sign=740f1f1f8eafbae46d5c49ec4f4c71d1",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 61.42,
+    "blogger_thematics": {
+      "data": [
+        1014
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6457781
+    },
+    "engagement_avg": {
+      "value": 288820
+    },
+    "authentic_engagement": {
+      "value": 159946
+    }
+  }
+}

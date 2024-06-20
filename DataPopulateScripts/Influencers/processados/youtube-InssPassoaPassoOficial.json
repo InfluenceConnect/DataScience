@@ -1,0 +1,85 @@
+{
+  "_number": 887,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCXWZMgwl4nqNFgB5HrNDZGA",
+    "username": "InssPassoaPassoOficial",
+    "title": null,
+    "fullname": "Inss Passo a Passo",
+    "avatar_url": "https://yt3.googleusercontent.com/9ju8hZ7s5GFE0mDS41ZE-SPBkLlejiDDpmgYmJOTw8Ojlyx5pFDauscQD0MjTImaVl5LdYvpB1s=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.39,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.39,
+            "hs_value": 0.004527
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.81,
+            "hs_value": null
+          },
+          {
+            "id": "bh",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2304496
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 25
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 331
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 356
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4731
+        }
+      }
+    }
+  }
+}

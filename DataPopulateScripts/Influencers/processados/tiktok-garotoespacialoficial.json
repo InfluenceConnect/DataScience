@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6717711712134923270",
+    "username": "garotoespacialoficial",
+    "fullname": "Garoto Espacial",
+    "description": "",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/89355eacf6beb2b4e00ff823d2837438~c5_720x720.jpeg",
+    "last_media_time": "2024-05-23",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2024-02-12",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1066615
+    },
+    "hs_value": {
+      "value": 629.448942
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 7.28,
+          "mark": "good",
+          "mark_title": "GOOD",
+          "similar": 5.884671,
+          "similar_min": 5.056997,
+          "similar_max": 6.867958,
+          "value_prev": 4.59
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 496228
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 29568
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 326
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 103
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 10
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 64,
+        "prc_better": 79,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_ER",
+                "text": "Average audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 540,
+  "_delta": null
+}

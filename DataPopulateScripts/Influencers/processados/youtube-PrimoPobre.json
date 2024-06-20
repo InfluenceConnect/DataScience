@@ -1,0 +1,91 @@
+{
+  "_number": 797,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCOjXqrOxAdXa04obIQREfCA",
+    "username": "PrimoPobre",
+    "title": null,
+    "fullname": "Primo Pobre",
+    "avatar_url": "https://yt3.googleusercontent.com/8tDXLuhLoffxJR5Sf37MhBu84Ni3KM12uQFHEe-2_OGUq_VMW4mAkRsQBr6mB2msVqPnqw0xZg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.81,
+            "hs_value": 3.641362
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.9,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.74,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2491643
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 194
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4278
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4472
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 31661
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 137,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC3cFOnbfiLe2xLoTPauY4wA",
+    "username": "Marcelodrv",
+    "title": null,
+    "fullname": "Marcelodrv",
+    "avatar_url": "https://yt3.googleusercontent.com/lQX8Xr0YqpLv_kWXxvQfGgJ81OBsxmnDW_AIbXbYMRHVc8TnXFZg7Dvfx4vMfhGlijaphR-FMg0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.51,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.51,
+            "hs_value": 97.694724
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.73,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.52,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8360862
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 152
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 24669
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 24821
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 219829
+        }
+      }
+    }
+  }
+}

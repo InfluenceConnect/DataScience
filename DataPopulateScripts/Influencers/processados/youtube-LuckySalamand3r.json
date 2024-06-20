@@ -1,0 +1,92 @@
+{
+  "_number": 731,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCrR3Pb60RA7lks1zV_LYauw",
+    "username": "LuckySalamand3r",
+    "title": null,
+    "fullname": "Lucky Salamander",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lXWaZMkSG2Xd-6riqtLvnMv0LmtCLZukD4U1tNxG_jq8s=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.21,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.21,
+            "hs_value": 0.060231
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.71,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.15,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2655092
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 37
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1072
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1109
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 12603
+        }
+      }
+    }
+  }
+}

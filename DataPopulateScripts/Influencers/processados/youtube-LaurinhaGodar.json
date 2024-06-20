@@ -1,0 +1,92 @@
+{
+  "_number": 100,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCqeXVpv9hfwxNgO9RaGceUw",
+    "username": "LaurinhaGodar",
+    "title": null,
+    "fullname": "Laurinha e Helena - Clubinho da Laura",
+    "avatar_url": "https://yt3.googleusercontent.com/10bK-O4w4aBZNmhf2H56zMoDGnlA0wYHOCbNC_0U5S_41TXAIeOtFzf0Fz_sAxFfYTWhUuiniw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.37,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.37,
+            "hs_value": 1.108355
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.77,
+            "hs_value": null
+          },
+          {
+            "id": "iq",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "sa",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10449131
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 41
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2175
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2216
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 85096
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": "b26d7bcf93ccc4912815bb3cecedfc1d",
+  "_number": 8,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "6860189",
+    "username": "justinbieber",
+    "title": null,
+    "fullname": "Justin Bieber",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/6860189.jpg?w=150&till=1722470340&sign=90f2283ca2a27617b14e2991e7112078",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 16.81,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 293617827
+    },
+    "engagement_avg": {
+      "value": 2847571
+    },
+    "authentic_engagement": {
+      "value": 2252259
+    }
+  }
+}

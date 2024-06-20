@@ -1,0 +1,92 @@
+{
+  "_number": 91,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC4WvVh0AwJ6K9w1JLepce7A",
+    "username": "MatheusEKauan",
+    "title": null,
+    "fullname": "Matheus e Kauan",
+    "avatar_url": "https://yt3.googleusercontent.com/ixAFxDBcIowE1FWvmxhqFbcvnGutZrDZ_rREH7f9wbvPe3bnPtDT-el6FPpTMv3No2oj36EMGyc=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.07,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.07,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.97,
+            "hs_value": null
+          },
+          {
+            "id": "py",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "cl",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10951092
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 5
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 244
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 249
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2981
+        }
+      }
+    }
+  }
+}

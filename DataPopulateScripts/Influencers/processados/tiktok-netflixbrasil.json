@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6780674060038964229",
+    "username": "netflixbrasil",
+    "fullname": "Netflix Brasil",
+    "description": "\ud83e\udef5 BzBzzBzzzZz vc acabou de ser POLINizado \ud83d\udc1d\ud83d\ude0f",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/11f88e2fc4c8250e7eb363195fb8aed5~c5_720x720.jpeg",
+    "last_media_time": "2024-06-03",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-10-11",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13655232
+    },
+    "hs_value": {
+      "value": 604.688566
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 8.45,
+          "mark": "good",
+          "mark_title": "GOOD",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 8.92
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 268119
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 22374
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 456
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 552
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 93
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 92,
+        "mark": "excellent",
+        "mark_title": "EXCELLENT",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO",
+                "text": "Excellent comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 548,
+  "_delta": null
+}

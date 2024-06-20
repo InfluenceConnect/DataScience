@@ -1,0 +1,89 @@
+{
+  "_number": 479,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCVipFbXwK1lYCyc8eTOLotQ",
+    "username": "PortalWheeling",
+    "title": null,
+    "fullname": "Portal Wheeling ",
+    "avatar_url": "https://yt3.googleusercontent.com/IjqltIAzoByaQAENmDrD3W2ufk9E8JSYTBtoMGxTllrGQWtcMKHzu--1edhBXbpseukTrqQG=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.11,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.11,
+            "hs_value": 2.434549
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.62,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3644981
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 116
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 945
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1061
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 20607
+        }
+      }
+    }
+  }
+}

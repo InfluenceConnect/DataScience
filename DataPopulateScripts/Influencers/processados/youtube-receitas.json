@@ -1,0 +1,92 @@
+{
+  "_number": 853,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCr-FSSGzeh9Q9iuQWDhW_gQ",
+    "username": "receitas",
+    "title": null,
+    "fullname": "Receitas",
+    "avatar_url": "https://yt3.googleusercontent.com/cCkGWL6BU00Vv5HYZjjF88YQn72WOfStuJLoMWlD_jnhbLcrv0grmffT-iun7wagW65XDShOig=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.71,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 85.71,
+            "hs_value": 0.001311
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.3,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 1.3,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 1.3,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 1.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        13,
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2370845
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 319
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 325
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5485.5
+        }
+      }
+    }
+  }
+}

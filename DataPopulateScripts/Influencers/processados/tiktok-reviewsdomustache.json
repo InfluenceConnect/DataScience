@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6791875560537670661",
+    "username": "reviewsdomustache",
+    "fullname": "Mustache",
+    "description": "Comendo, bebendo e viajando pelo \ud83c\udf0e\nmustache@farol.ag",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/ef555b2f1d251beeb98dcc98af9c2669~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2022-06-01",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4242317
+    },
+    "hs_value": {
+      "value": 2909.835271
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 13.51,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.117799,
+          "similar_min": 5.299669,
+          "similar_max": 7.083806,
+          "value_prev": 11.64
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 574236
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 61052
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 151
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 679
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 18
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 73,
+        "prc_better": 90,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 298,
+  "_delta": null
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 768,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCRrqdOG8U12WecJpW2orGrA",
+    "username": "LucasCordeiro",
+    "title": null,
+    "fullname": "Lucas Cordeiro",
+    "avatar_url": "https://yt3.googleusercontent.com/lCQB_qeX2oDjxvPBefNbs78fhagkiqioeYmdwAdUKvEHEikQA_UA3TyXXOCwigLz_YXIfhG2Hg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.8,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.8,
+            "hs_value": 3.20124
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 6.4,
+            "hs_value": null
+          },
+          {
+            "id": "ch",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2574848
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 123
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5658
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5781
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 75550
+        }
+      }
+    }
+  }
+}

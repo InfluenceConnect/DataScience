@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 952,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "23838477",
+    "username": "iwoosung",
+    "title": null,
+    "fullname": "WOOSUNG / \uae40\uc6b0\uc131",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/23838477.jpg?w=150&till=1722470340&sign=e9fce39f78fee96e9e6bcad297590e49",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 16.28,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1793955
+    },
+    "engagement_avg": {
+      "value": 311481
+    },
+    "authentic_engagement": {
+      "value": 243845
+    }
+  }
+}

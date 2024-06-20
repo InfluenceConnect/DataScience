@@ -1,0 +1,86 @@
+{
+  "_number": 159,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCdV6WRjIx3wYCEg4VmVT7KA",
+    "username": "GabrielGF",
+    "title": null,
+    "fullname": "GabrielGF",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lA2n3AC8ZRSjzEc1QkdcYFThVXutqOug27a7JXD8L1mLU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.16,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.16,
+            "hs_value": 0.001402
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 6.54,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.65,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.65,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7640706
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 14
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 136
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 150
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2638
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 53,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCAI8SmRbXgSpP8Zo3xZbxzQ",
+    "username": "OficialHungria",
+    "title": null,
+    "fullname": "Hungria",
+    "avatar_url": "https://yt3.googleusercontent.com/FLSXm0cLK7AoOPdJMamSr32rzuXInyhEB_Bk5CTJldEqop8gst33raILIM8wgyzsKWBKkYIc9A=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.22,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.22,
+            "hs_value": 0.139301
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.76,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          },
+          {
+            "id": "al",
+            "code": null,
+            "prc": 0.08,
+            "hs_value": null
+          },
+          {
+            "id": "aw",
+            "code": null,
+            "prc": 0.08,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13648426
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 34
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1917
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1951
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 12719
+        }
+      }
+    }
+  }
+}

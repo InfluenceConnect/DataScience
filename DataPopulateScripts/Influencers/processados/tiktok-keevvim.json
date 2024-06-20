@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "7139237330607752198",
+    "username": "keevvim",
+    "fullname": "Kevin Sousa",
+    "description": "se identificou, n\u00e9? \n\ud83d\udce7: contatokeevvim@gmail.com",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/4f76ce4ab12b5b1ce839c3f0d536ea72~c5_720x720.jpeg",
+    "last_media_time": "2024-06-01",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2023-12-29",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 937314
+    },
+    "hs_value": {
+      "value": 638.788293
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 27,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.898171,
+          "similar_min": 5.071336,
+          "similar_max": 6.883642,
+          "value_prev": 25.59
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 154864
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 39815
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 371
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 665
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 36
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 87,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 538,
+  "_delta": null
+}

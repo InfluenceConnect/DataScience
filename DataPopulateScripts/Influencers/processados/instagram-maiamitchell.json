@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 865,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "280312624",
+    "username": "maiamitchell",
+    "title": null,
+    "fullname": "Maia Mitchell",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/280312624.jpg?w=150&till=1722470340&sign=7b0dce02d2bfcec21ec21e44837caf61",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 36.89,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10172245
+    },
+    "engagement_avg": {
+      "value": 67201
+    },
+    "authentic_engagement": {
+      "value": 47153
+    }
+  }
+}

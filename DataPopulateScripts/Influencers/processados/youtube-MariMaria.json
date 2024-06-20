@@ -1,0 +1,89 @@
+{
+  "_number": 86,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCcHR0RvLYk33ppkjBw3UaEA",
+    "username": "MariMaria",
+    "title": null,
+    "fullname": "Mari Maria",
+    "avatar_url": "https://yt3.googleusercontent.com/TBK_jEMwjXMR6h3YblXbYeTldWpy1XZk3OcY1W_eOp9_XpvdHOgy51W9_OXZsQblUgg03bQttw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95,
+            "hs_value": 7.735267
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.42,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.25,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11151172
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 55
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6840
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6895
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 86854.5
+        }
+      }
+    }
+  }
+}

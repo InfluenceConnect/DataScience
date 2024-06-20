@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6519075308853793792",
+    "username": "mariahheeusi",
+    "fullname": "Mari\u00e1h Heusi\ud83d\udd0d",
+    "description": "T\u00e1, vamo l\u00e1! \ud83d\udd0d\nEu conto casos criminais \ud83d\udd75\ud83c\udffb\nBaixe o Youcine aqui \ud83d\udc47\ud83c\udffb",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/e4e592ddc593c9939c08b8cadf2f1f7a~c5_720x720.jpeg",
+    "last_media_time": "2024-06-06",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2023-06-02",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6366634
+    },
+    "hs_value": {
+      "value": 523.574087
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 11.82,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.117799,
+          "similar_min": 5.299669,
+          "similar_max": 7.083806,
+          "value_prev": 13.38
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 196833
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 24426
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 457
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 632
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 20
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 85,
+        "prc_better": 98,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_CL_RATIO",
+                "text": "Very good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 579,
+  "_delta": null
+}

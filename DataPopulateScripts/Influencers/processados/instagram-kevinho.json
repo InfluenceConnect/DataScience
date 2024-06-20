@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 164,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "548017775",
+    "username": "kevinho",
+    "title": null,
+    "fullname": "KEVINHO",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/548017775.jpg?w=150&till=1722470340&sign=42693c2cd8c6ef4924d12a0c8042365e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.37,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 27105186
+    },
+    "engagement_avg": {
+      "value": 442684
+    },
+    "authentic_engagement": {
+      "value": 273993
+    }
+  }
+}

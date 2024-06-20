@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6817396058445022214",
+    "username": "abimaelranieri",
+    "fullname": "Abimael Ranieri",
+    "description": "Humor caipira \nCom\u00e9 que oceis t\u00e3o meus querido, s\u00f3 na alegria ?",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/7339245582282915845~c5_720x720.jpeg",
+    "last_media_time": "2024-06-03",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2023-04-27",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 889589
+    },
+    "hs_value": {
+      "value": 207.752575
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 10.02,
+          "mark": "very_good",
+          "mark_title": "VERY_GOOD",
+          "similar": 5.898171,
+          "similar_min": 5.071336,
+          "similar_max": 6.883642,
+          "value_prev": 7.67
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 243112
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 26294
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 79
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 246
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 73,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 786,
+  "_delta": null
+}

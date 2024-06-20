@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6727457340726428678",
+    "username": "fes.ti_",
+    "fullname": "festi",
+    "description": "01 MILH\u00c3OS DE FEDIDO\ud83d\ude2d\ud83d\udc98\ud83d\udc8b\nmeta: 17M \ud83d\ude0d\ncontato:\nfesti@farol.ag",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/7328316091296546821~c5_720x720.jpeg",
+    "last_media_time": "2024-05-25",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-03",
+    "report_data_updated": "2022-06-02",
+    "report_base_updated": "2024-06-01",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1210348
+    },
+    "hs_value": {
+      "value": 5084.155931
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 23,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.898171,
+          "similar_min": 5.071336,
+          "similar_max": 6.883642,
+          "value_prev": 17.34
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 248365
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 53672
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 421
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 3393
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 87,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 227,
+  "_delta": null
+}

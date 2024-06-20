@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6807532129816921093",
+    "username": "maluborgesm",
+    "fullname": "MALU BORGES",
+    "description": "Fashion\nMe sigam no insta maluborgesm",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": true,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/7310203626394222598~c5_720x720.jpeg",
+    "last_media_time": "2024-05-31",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-06-24",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5773898
+    },
+    "hs_value": {
+      "value": 9023.155245
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 10.05,
+          "mark": "very_good",
+          "mark_title": "VERY_GOOD",
+          "similar": 6.117799,
+          "similar_min": 5.299669,
+          "similar_max": 7.083806,
+          "value_prev": 11.19
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 775385
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 107750
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 529
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 551
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 78,
+        "prc_better": 95,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 168,
+  "_delta": null
+}

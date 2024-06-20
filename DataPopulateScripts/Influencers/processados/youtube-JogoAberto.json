@@ -1,0 +1,91 @@
+{
+  "_number": 331,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCZaOZdn-Y-I5ikrofkWBLgQ",
+    "username": "JogoAberto",
+    "title": null,
+    "fullname": "Jogo Aberto",
+    "avatar_url": "https://yt3.googleusercontent.com/e_teE18eBcoIoqKtAiZE008ZY0Q_YKp9eu31QxEcLLveAJ9w6k-ui4bw0ViZvdYvbIMf0KMl=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.96,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.96,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.92,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.92,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.55,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.55,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        22
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4774925
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 268
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 274
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4226
+        }
+      }
+    }
+  }
+}

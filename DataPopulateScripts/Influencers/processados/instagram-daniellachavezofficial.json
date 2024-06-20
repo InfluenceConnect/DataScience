@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 458,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "238109752",
+    "username": "daniellachavezofficial",
+    "title": null,
+    "fullname": "Daniella Chavez",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/238109752.jpg?w=150&till=1722470340&sign=f5f832d4c18f95bbe5c4f9968582127b",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "cl",
+    "audience_geo_country_1_prc": 17.56,
+    "blogger_thematics": {
+      "data": [
+        1020,
+        1039
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 18247217
+    },
+    "engagement_avg": {
+      "value": 136230
+    },
+    "authentic_engagement": {
+      "value": 79619
+    }
+  }
+}

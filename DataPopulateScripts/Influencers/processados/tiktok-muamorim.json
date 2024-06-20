@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6850451339663885318",
+    "username": "muamorim",
+    "fullname": "Murillo Amorim",
+    "description": "Ator l Humor \n\n\u2728me sigam na rede vizinha\u2728\n\nContatomuamorim@gmail.com",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/c6946a2c734ffbfba094d6a374f10f97~c5_720x720.jpeg",
+    "last_media_time": "2024-05-28",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2023-02-17",
+    "report_base_updated": "2024-06-03",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1160676
+    },
+    "hs_value": {
+      "value": 398.650184
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 12.79,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.898171,
+          "similar_min": 5.071336,
+          "similar_max": 6.883642,
+          "value_prev": 16.4
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 162499
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 26379
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 95
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 835
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 7
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 76,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 640,
+  "_delta": null
+}

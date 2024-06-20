@@ -1,0 +1,115 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6905543418157827077",
+    "username": "felipe.dantasf",
+    "fullname": "Felipe Dantas  \ud83d\udd75\ufe0f\ud83d\udea8",
+    "description": "Business: felipedlourencao@gmail.com\n\ud83d\uddde\ufe0fNot\u00edcias\n\ud83d\udcb2Investimentos\n\ud83e\udd16Tecnologia",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/6779cf1dfaf8973631708904de65e7b1~c5_720x720.jpeg",
+    "last_media_time": "2024-05-30",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2022-08-16",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1400568
+    },
+    "hs_value": {
+      "value": 470.113507
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 15.68,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.117799,
+          "similar_min": 5.299669,
+          "similar_max": 7.083806,
+          "value_prev": 13.28
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 121977
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 18664
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1065
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 1000
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 92,
+        "prc_better": 99,
+        "mark": "excellent",
+        "mark_title": "EXCELLENT",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO_ABNORMALLY_HIGH",
+                "text": "Excellent comments to likes ratio, though comments count is abnormally high"
+              }
+            }
+          },
+          "account_growth": null
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 608,
+  "_delta": null
+}

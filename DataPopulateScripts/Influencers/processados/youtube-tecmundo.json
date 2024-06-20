@@ -1,0 +1,92 @@
+{
+  "_number": 409,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCdmGjywrxeOPfC7vDllmSgQ",
+    "username": "tecmundo",
+    "title": null,
+    "fullname": "TecMundo",
+    "avatar_url": "https://yt3.googleusercontent.com/jqXGMl9TX78DN61INno3zkt8XTNckNZPlq7SmoXTsw4Z4aw6_RDtOyOL-eUw70I6EwNH6dmzFg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.21,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.21,
+            "hs_value": 0.104588
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.44,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21,
+        19
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4075107
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 45
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 916
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 961
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 10440
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 946,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwEv0fnF66xyeIT-QW1bmWA",
+    "username": "joaodoce",
+    "title": null,
+    "fullname": "Joao Doce",
+    "avatar_url": "https://yt3.googleusercontent.com/sKoLSnyQoD6Xzie7j7fl_3IwSTlUGnRXjEEJquYdsP-n2mKgY77i1GWanpiPt7eTDM8gIZXv-tE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 31.66,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 31.66,
+            "hs_value": 38.166454
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 23.55,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 4.63,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 3.47,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 2.7,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        7,
+        8
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2205487
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 39
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1738
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1777
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 45137
+        }
+      }
+    }
+  }
+}

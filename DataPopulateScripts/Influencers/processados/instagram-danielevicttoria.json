@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 584,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3712660959",
+    "username": "danielevicttoria",
+    "title": null,
+    "fullname": "Daniele Victt\u00f3ria",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3712660959.jpg?w=150&till=1722470340&sign=91e9a0a3f2875b4ef010b8fa7fcf8de0",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 43.84,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3460559
+    },
+    "engagement_avg": {
+      "value": 458218
+    },
+    "authentic_engagement": {
+      "value": 253202
+    }
+  }
+}

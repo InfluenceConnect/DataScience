@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 424,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "211949886",
+    "username": "thebursin",
+    "title": null,
+    "fullname": "Kerem Bu\u0308rsin",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/211949886.jpg?w=150&till=1722470340&sign=85ac7383cbaae99d34d683975c38513c",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "tr",
+    "audience_geo_country_1_prc": 12.62,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11303230
+    },
+    "engagement_avg": {
+      "value": 247473
+    },
+    "authentic_engagement": {
+      "value": 199147
+    }
+  }
+}

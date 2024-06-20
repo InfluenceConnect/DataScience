@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "7026038128754574341",
+    "username": "amandaticianifranco",
+    "fullname": "Amanda Ticiani Franco",
+    "description": "Me acompanhem no Instagram \ud83d\udc46\ud83c\udffcs\u00f3 clicar \ud83d\udc9c\ud83d\udc9c@amandaticianifranco \u2764\ufe0f",
+    "tier": 141,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/8f90cd4cd72f1c075480d52d3d08ffcc~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2024-06-02",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 187309
+    },
+    "hs_value": {
+      "value": 3559.851589
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 7.86,
+          "mark": "good",
+          "mark_title": "GOOD",
+          "similar": 5.883097,
+          "similar_min": 5.005472,
+          "similar_max": 6.910829,
+          "value_prev": null
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 535033
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 40154
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 834
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 823
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 64,
+        "prc_better": 84,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_ER",
+                "text": "Average audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_GROWTH",
+                "text": "Good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 276,
+  "_delta": null
+}

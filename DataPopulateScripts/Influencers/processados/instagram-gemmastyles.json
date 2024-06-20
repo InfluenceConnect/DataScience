@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 594,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "627934998",
+    "username": "gemmastyles",
+    "title": null,
+    "fullname": "Gemma Styles",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/627934998.jpg?w=150&till=1722470340&sign=b2dca84f3e6fda669a5a70ca3e051488",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 19.59,
+    "blogger_thematics": {
+      "data": [
+        1004
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10413854
+    },
+    "engagement_avg": {
+      "value": 147152
+    },
+    "authentic_engagement": {
+      "value": 114495
+    }
+  }
+}

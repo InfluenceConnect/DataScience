@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6810512148327482373",
+    "username": "pedroator",
+    "fullname": "Pedro Val\u00e9rio",
+    "description": "Desafio de Atua\u00e7\u00e3o \ud83c\udfa5 \ud83c\udfad \u2764\ufe0f\n\n\ud83d\udce9 pvalentim2020@gmail.com\n\nInsta: opedroator",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/d60d6e1bce3987746c3e85aa042c47f5~c5_720x720.jpeg",
+    "last_media_time": "2024-05-28",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2024-03-26",
+    "report_base_updated": "2024-06-02",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1088471
+    },
+    "hs_value": {
+      "value": 112.742278
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 2.63,
+          "mark": "poor",
+          "mark_title": "LOW",
+          "similar": 5.898171,
+          "similar_min": 5.071336,
+          "similar_max": 6.883642,
+          "value_prev": 2.41
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 376342
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9078
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 161
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 169
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 7
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 56,
+        "mark": "average",
+        "mark_title": "AVERAGE",
+        "description": {
+          "er": {
+            "mark": "poor",
+            "description": {
+              "title": {
+                "key": "LOW_ER",
+                "text": "Audience engagement could be improved"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO",
+                "text": "Excellent comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 951,
+  "_delta": null
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 141,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCbTt-KwiEeuefp_HIYwEbnw",
+    "username": "DiogoTiba",
+    "title": null,
+    "fullname": "Diogo Tiba",
+    "avatar_url": "https://yt3.googleusercontent.com/Cgmqs-CbM2QbiwoP6J8D48eZhutSgLnBu9f_MQm1O2uGUMA9LvATzvoR7lhaLHUbrNq-PNW7QaI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.71,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.71,
+            "hs_value": 5.148927
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 5,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 1.43,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8230856
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 60
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1500
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1560
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 63916
+        }
+      }
+    }
+  }
+}

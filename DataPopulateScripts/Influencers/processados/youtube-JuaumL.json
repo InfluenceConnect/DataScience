@@ -1,0 +1,92 @@
+{
+  "_number": 524,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCpg51gHHBvBYsMBhihx5goA",
+    "username": "JuaumL",
+    "title": null,
+    "fullname": "Juaum",
+    "avatar_url": "https://yt3.googleusercontent.com/h3JvjbjXRER8EL_yIBWk2-uMUSPCJZ2SgSctvYKrO8KNsfaT1L11Tms8I3sG1a3BaTrDCT_qLA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.45,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.45,
+            "hs_value": 0.002867
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.73,
+            "hs_value": null
+          },
+          {
+            "id": "bw",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3434956
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 34
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 682
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 716
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5502
+        }
+      }
+    }
+  }
+}

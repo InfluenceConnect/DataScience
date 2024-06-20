@@ -1,0 +1,92 @@
+{
+  "_number": 275,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCgqvjxFsQ3wXODvfKKbABKA",
+    "username": "SikeraJunior",
+    "title": null,
+    "fullname": "Sikera Junior",
+    "avatar_url": "https://yt3.googleusercontent.com/rguUPc50R2mHtYMhcVQyITJXIDBqusZeM-TkI5yQtr_r4RQEXwYsV_3hZGHf2XUoutSQFx5FvIE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.13,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.13,
+            "hs_value": 0.099792
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "no",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5511686
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 98
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2212
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2310
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 24299
+        }
+      }
+    }
+  }
+}

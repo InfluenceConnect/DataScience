@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6792292537459966982",
+    "username": "flaviocastro_r",
+    "fullname": "flavio Rodrigues",
+    "description": ":GOI\u00c2NIA:  \nPUBLI:no Instagram \nme siga no Instagram \ud83d\udc46\n\n      1,8M?",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/7116bd1c557c3d4a47611c4fa7168a1b~c5_720x720.jpeg",
+    "last_media_time": "2024-06-01",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2021-04-04",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1633295
+    },
+    "hs_value": {
+      "value": 3099664.896964
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 13.36,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.117799,
+          "similar_min": 5.299669,
+          "similar_max": 7.083806,
+          "value_prev": 2.62
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2746092
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 333025
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1122
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 32772
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 58,
+        "prc_better": 65,
+        "mark": "average",
+        "mark_title": "AVERAGE",
+        "description": {
+          "er": {
+            "mark": "fair",
+            "description": {
+              "title": {
+                "key": "BELOW_AVERAGE_ER",
+                "text": "Audience engagement is below average"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO",
+                "text": "Excellent comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "LOW_GROWTH_SUBSCRIBERS_DECLINE",
+                "text": "Followers number decline"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 4,
+  "_delta": null
+}

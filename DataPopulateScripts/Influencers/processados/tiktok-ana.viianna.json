@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6564008889360482306",
+    "username": "ana.viianna",
+    "fullname": "Ana Vianna",
+    "description": "Phone | Apps | Haul\n\u2601\ufe0f\ud83c\udfa7\ud83d\udce6\ud83d\udcf1\ud83c\udff7\ufe0f\ud83d\udc8c\nanaviannaoficial@gmail.com",
+    "tier": 142,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/e9f4a2b154650d1e14ed49d9e949469d~c5_720x720.jpeg",
+    "last_media_time": "2024-05-27",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-08-15",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 252585
+    },
+    "hs_value": {
+      "value": 943.731148
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 7.85,
+          "mark": "good",
+          "mark_title": "GOOD",
+          "similar": 5.846691,
+          "similar_min": 4.979156,
+          "similar_max": 6.869226,
+          "value_prev": 8.01
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 369561
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 28953
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 314
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 568
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 7
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 77,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_ER",
+                "text": "Good audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 455,
+  "_delta": null
+}

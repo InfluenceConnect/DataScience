@@ -1,0 +1,89 @@
+{
+  "_number": 967,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCFRI2hVC0UlGTxdvPhVJgjg",
+    "username": "gabimiazzi",
+    "title": null,
+    "fullname": "Gabi Miazzi",
+    "avatar_url": "https://yt3.googleusercontent.com/aSRUQXY6dKK51Yq1E2SFMd4iVF-yWDLE8i0uymydN_VguhdVF8LTkV92bLwUbbdmZIxu5lyayw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.4,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.4,
+            "hs_value": 3396.487654
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.8,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2161618
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 255
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 43858
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 44113
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 381709
+        }
+      }
+    }
+  }
+}

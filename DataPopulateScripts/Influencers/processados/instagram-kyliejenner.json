@@ -1,0 +1,36 @@
+{
+  "_fh": "252592815ca26597760d0b83bd92eae7",
+  "_number": 7,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "12281817",
+    "username": "kyliejenner",
+    "title": null,
+    "fullname": "Kylie",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/12281817.jpg?w=150&till=1722470340&sign=99eae0fb23eb7506dd406d04ac34fdd5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 19.94,
+    "blogger_thematics": {
+      "data": [
+        1021,
+        1039,
+        1020
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 399441967
+    },
+    "engagement_avg": {
+      "value": 2134153
+    },
+    "authentic_engagement": {
+      "value": 1597177
+    }
+  }
+}

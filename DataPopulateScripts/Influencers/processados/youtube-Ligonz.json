@@ -1,0 +1,89 @@
+{
+  "_number": 998,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCmhx7Q1WRB85e7bF-MHcehA",
+    "username": "Ligonz",
+    "title": null,
+    "fullname": "Ligonz",
+    "avatar_url": "https://yt3.googleusercontent.com/HGi3GAqB24IzJNqzRUKorpg5U_a3NKI3F2I5inorCR0y7edkg10UbLfZcFdv3u8GddfYMn8aSEA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.7,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.7,
+            "hs_value": 1.040961
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.56,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2114819
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 104
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2104
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2208
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 24248.5
+        }
+      }
+    }
+  }
+}

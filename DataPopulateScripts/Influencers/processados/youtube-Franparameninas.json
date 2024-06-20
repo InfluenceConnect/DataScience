@@ -1,0 +1,92 @@
+{
+  "_number": 196,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC6MtPHJ6axc8iXPmHYLqC-A",
+    "username": "Franparameninas",
+    "title": null,
+    "fullname": "Fran para meninas",
+    "avatar_url": "https://yt3.googleusercontent.com/w1DhxzGlzG_IvEUGxX5W03AQL7Bnb-tayIl0Nzsl5jSYDXh0mJ20fyoya8kvrkYyokDb8bUM_Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.5,
+            "hs_value": 0.001737
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.52,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          },
+          {
+            "id": "py",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6854470
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 7
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 192
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 199
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 3131
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6880660380927263745",
+    "username": "sindromedisney",
+    "fullname": "sindromedisney",
+    "description": "v\u00eddeos dos seus desenhos e filmes de\nanima\u00e7\u00e3o favoritos!",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/1de064f754d30f92149b024e99bbeb6b~c5_720x720.jpeg",
+    "last_media_time": "2024-05-31",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-03",
+    "report_data_updated": "2023-08-28",
+    "report_base_updated": "2024-06-01",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2421643
+    },
+    "hs_value": {
+      "value": 887015.109408
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 27.16,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 19.5
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1204137
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 380005
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1819
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 17566
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 76,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 11,
+  "_delta": null
+}

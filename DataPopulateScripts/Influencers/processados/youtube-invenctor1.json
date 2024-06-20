@@ -1,0 +1,91 @@
+{
+  "_number": 928,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCHQ5HCmL77sF52QJ-M6i4-Q",
+    "username": "invenctor1",
+    "title": null,
+    "fullname": "Invenctor",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mknKjIiz9SpmmoFOCysSQ7Wa6Ji4TRVy0aB7WvDvpqvFsv=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 70.91,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 70.91,
+            "hs_value": 0.002751
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 4.55,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 3.84,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 2.06,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 1.99,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2235099
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 335
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 341
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 14097.5
+        }
+      }
+    }
+  }
+}

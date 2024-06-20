@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 509,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "198154074",
+    "username": "voguemagazine",
+    "title": null,
+    "fullname": "Vogue",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/198154074.jpg?w=150&till=1722470340&sign=eccb2688c906bf0829bdac2e9ed45ca2",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 30.48,
+    "blogger_thematics": {
+      "data": [
+        1004,
+        1021
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 49351428
+    },
+    "engagement_avg": {
+      "value": 40694
+    },
+    "authentic_engagement": {
+      "value": 31876
+    }
+  }
+}

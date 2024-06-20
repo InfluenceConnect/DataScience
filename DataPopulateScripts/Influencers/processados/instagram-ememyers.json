@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 310,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "42103402365",
+    "username": "ememyers",
+    "title": null,
+    "fullname": "Emma Myers",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/42103402365.jpg?w=150&till=1722470340&sign=43cc7bcb97a46f293817b826b28e0840",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 15.75,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10645926
+    },
+    "engagement_avg": {
+      "value": 430177
+    },
+    "authentic_engagement": {
+      "value": 277466
+    }
+  }
+}

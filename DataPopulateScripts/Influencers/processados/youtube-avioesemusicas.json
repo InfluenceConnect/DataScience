@@ -1,0 +1,91 @@
+{
+  "_number": 655,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCLXl1V6n82Dyg1VhVgSL0nw",
+    "username": "avioesemusicas",
+    "title": null,
+    "fullname": "Avi\u00f5es e M\u00fasicas",
+    "avatar_url": "https://yt3.googleusercontent.com/9iQyyGoyciDF03vjXJ1eCaAMCn2X1__r1-ucPat7uzZFDRJChBUWwipWq2NbHQjWtGZ0iVq0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.4,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.4,
+            "hs_value": 83.867754
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.44,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.79,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2884842
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 226
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 10003
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 10229
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 107512
+        }
+      }
+    }
+  }
+}

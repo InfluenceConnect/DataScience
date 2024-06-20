@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 336,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "28578101",
+    "username": "zefelipecantor",
+    "title": null,
+    "fullname": "Ze\u0301",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/28578101.jpg?w=150&till=1722470340&sign=3a85cc22e67ccdb077d52a35809e1117",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.89,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26691255
+    },
+    "engagement_avg": {
+      "value": 157030
+    },
+    "authentic_engagement": {
+      "value": 96641
+    }
+  }
+}

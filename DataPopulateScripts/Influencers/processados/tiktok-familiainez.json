@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6998670976842761221",
+    "username": "familiainez",
+    "fullname": "fam\u00edlia inez",
+    "description": "N\u00e3o precisa de muita coisa pra ser feliz!\nSegue nas outras redes pra nos ajudar",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/d9bc697a6ec6bebca07b6b3362f18f73~c5_720x720.jpeg",
+    "last_media_time": "2024-06-03",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-07-03",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1673628
+    },
+    "hs_value": {
+      "value": 9536.071746
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 12.27,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 10.71
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1228797
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 128485
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 397
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 207
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 7
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 77,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 162,
+  "_delta": null
+}

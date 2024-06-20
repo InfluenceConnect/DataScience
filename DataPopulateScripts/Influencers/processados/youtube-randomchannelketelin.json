@@ -1,0 +1,89 @@
+{
+  "_number": 514,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCLjv1v1L9q708UFLbxIcvmg",
+    "username": "randomchannelketelin",
+    "title": null,
+    "fullname": "Random Channel Ketelin",
+    "avatar_url": "https://yt3.googleusercontent.com/AzGGhLQzfaYRctNQB2AxIqTyWCw7qAc9KgjPmwNCC7A-aAtOcpZjH6zFtM7adu4OPro55nlVhw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 33.13,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 33.13,
+            "hs_value": 9449.084387
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 19.97,
+            "hs_value": null
+          },
+          {
+            "id": "ph",
+            "code": null,
+            "prc": 6.51,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 4.08,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 3.48,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3451052
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1094
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 17684
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 18778
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 439990
+        }
+      }
+    }
+  }
+}

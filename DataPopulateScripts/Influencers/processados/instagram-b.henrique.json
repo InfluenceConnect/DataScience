@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 684,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3294685830",
+    "username": "b.henrique",
+    "title": null,
+    "fullname": "BH",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3294685830.jpg?w=150&till=1722470340&sign=7bd6b5f0e55c379f58641b0530868a81",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.64,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6046285
+    },
+    "engagement_avg": {
+      "value": 187208
+    },
+    "authentic_engagement": {
+      "value": 131392
+    }
+  }
+}

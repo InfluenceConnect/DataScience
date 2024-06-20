@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6556197598787539983",
+    "username": "yvison_oliveira",
+    "fullname": "Yvison Oliveira",
+    "description": "Welcome | Bem-vindo\n\ud83c\udfac Movies | Nostalgia | TV \ud83c\udfac\n\ud83c\udde7\ud83c\uddf7",
+    "tier": 142,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/7319535624338276357~c5_720x720.jpeg",
+    "last_media_time": "2024-05-30",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2024-03-31",
+    "report_base_updated": "2024-06-03",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 240288
+    },
+    "hs_value": {
+      "value": 105.82275
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 7.89,
+          "mark": "good",
+          "mark_title": "GOOD",
+          "similar": 5.846691,
+          "similar_min": 4.979156,
+          "similar_max": 6.869226,
+          "value_prev": 2.07
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 163068
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 16143
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 291
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 111
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 62,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_ER",
+                "text": "Average audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 980,
+  "_delta": null
+}

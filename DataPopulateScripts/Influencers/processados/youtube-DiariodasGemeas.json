@@ -1,0 +1,92 @@
+{
+  "_number": 494,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC__jn_Ze18H9LrFK99vweNg",
+    "username": "DiariodasGemeas",
+    "title": null,
+    "fullname": "Di\u00e1rio das G\u00eameas ",
+    "avatar_url": "https://yt3.googleusercontent.com/1dkFykQwFG8ZeeZZAGXDvj9gCpSivCB6OMlLno1-wfpFnuMCDx0ye7fk_RtbX9EW4TFU5gVt1Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.91,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.91,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.74,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "pa",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "se",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3575235
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 70
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 74
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1031
+        }
+      }
+    }
+  }
+}

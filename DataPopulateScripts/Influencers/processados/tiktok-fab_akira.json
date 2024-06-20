@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6820440568947065861",
+    "username": "fab_akira",
+    "fullname": "AKiRA",
+    "description": "siga no insta: @fab_akira\nentre no meu grupo Clube AkiDrama",
+    "tier": 143,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/f58e84e75d1c28046044b0bb43350fe1~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2023-12-03",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 391755
+    },
+    "hs_value": {
+      "value": 655.223804
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 13.83,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.821226,
+          "similar_min": 4.977925,
+          "similar_max": 6.830569,
+          "value_prev": 11.6
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 183442
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 36861
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 644
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 325
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 94,
+        "prc_better": 99,
+        "mark": "excellent",
+        "mark_title": "EXCELLENT",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO",
+                "text": "Excellent comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 532,
+  "_delta": null
+}

@@ -1,0 +1,89 @@
+{
+  "_number": 49,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCf_A3IYXSO1f_S6qQk9vWzA",
+    "username": "talesbento",
+    "title": null,
+    "fullname": "Tales Bento",
+    "avatar_url": "https://yt3.googleusercontent.com/KVIOrMknoDqDRayCE78wbSKpL7I8-HCEtinUPe0hnyrtePW9hKJ1tBj2AxqIRmZHYGAyiq92ZQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.94,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.94,
+            "hs_value": 7.243779
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.42,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.42,
+            "hs_value": null
+          },
+          {
+            "id": "nl",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13951540
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 432
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 441
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 12354
+        }
+      }
+    }
+  }
+}

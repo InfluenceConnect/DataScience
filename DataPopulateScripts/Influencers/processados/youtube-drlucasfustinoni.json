@@ -1,0 +1,92 @@
+{
+  "_number": 582,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCjVPaRkoIgq_Whb1QkJjGKg",
+    "username": "drlucasfustinoni",
+    "title": null,
+    "fullname": "Dr Lucas Fustinoni",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n--8m04oICreq8MXiLIHJmjfUjpAQjPpaiRlTzU_t9MBo=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.11,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.11,
+            "hs_value": 0.001509
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.64,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "ie",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21,
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3185676
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 42
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 44
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 463
+        }
+      }
+    }
+  }
+}

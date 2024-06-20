@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6999727203920954374",
+    "username": "garimpandojogos",
+    "fullname": "Garimpando Jogos",
+    "description": "\ud83c\udfae Descubra todo dia um novo jogo\n\ud83d\udce9 garimpandojogos@gmail.com | Rede Sociais \u2b07\ufe0f",
+    "tier": 138,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/b441870efa23b588426906841f498a71~c5_720x720.jpeg",
+    "last_media_time": "2024-05-26",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2024-04-27",
+    "report_base_updated": "2024-06-04",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 95364
+    },
+    "hs_value": {
+      "value": 166.566748
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 13.02,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.09727,
+          "similar_min": 5.171341,
+          "similar_max": 7.155069,
+          "value_prev": 11.27
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 101285
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 8899
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 161
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 1687
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 11
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 84,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 849,
+  "_delta": null
+}

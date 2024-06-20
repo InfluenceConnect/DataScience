@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6985370591663506437",
+    "username": "quacktriste",
+    "fullname": "Miguel",
+    "description": "\ud83c\udde7\ud83c\uddf7| MT\neu n\u00e3o sofro, apenas conte\u00fado \nig: miguelhorii",
+    "tier": 145,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/a7b8a91a4ab9e414d0e55cd75efdfc88~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2024-03-27",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 689418
+    },
+    "hs_value": {
+      "value": 958.483938
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 24.14,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.881748,
+          "similar_min": 5.05473,
+          "similar_max": 6.875318,
+          "value_prev": 26.55
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 132252
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 34660
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 224
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 1867
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 56,
+        "mark": "average",
+        "mark_title": "AVERAGE",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "fair",
+            "description": {
+              "title": {
+                "key": "LOW_GROWTH_SUBSCRIBERS_DECLINE",
+                "text": "Followers number decline"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 452,
+  "_delta": null
+}

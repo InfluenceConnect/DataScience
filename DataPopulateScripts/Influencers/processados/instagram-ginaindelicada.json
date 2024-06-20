@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 546,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "294472698",
+    "username": "ginaindelicada",
+    "title": null,
+    "fullname": "Henrique Lopes (Gina Indelicada)",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/294472698.jpg?w=150&till=1722470340&sign=8842e16e2ce52cc1892fe4548d9e0baf",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.62,
+    "blogger_thematics": {
+      "data": [
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12472552
+    },
+    "engagement_avg": {
+      "value": 141200
+    },
+    "authentic_engagement": {
+      "value": 90962
+    }
+  }
+}

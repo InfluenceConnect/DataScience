@@ -1,0 +1,91 @@
+{
+  "_number": 945,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCpL1kGiAgacw5aNepY3srzg",
+    "username": "UmaCuriosidade",
+    "title": null,
+    "fullname": "Uma Curiosidade",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kU21mSAUyRsgaw5nYgl01ZU94YhD4cndPVDrcyqQ9FmQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.67,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.67,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.24,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.84,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2205487
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 117
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 119
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 7053
+        }
+      }
+    }
+  }
+}

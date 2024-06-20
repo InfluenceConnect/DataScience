@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 700,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "189429846",
+    "username": "roberto_firmino",
+    "title": null,
+    "fullname": "R O B E R T O F I R M I N O",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/189429846.jpg?w=150&till=1722470340&sign=0b1e25a66ecf0929e917b9ccfccf9852",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 22.71,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15576101
+    },
+    "engagement_avg": {
+      "value": 68409
+    },
+    "authentic_engagement": {
+      "value": 51810
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 415,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3853264",
+    "username": "fiuk",
+    "title": null,
+    "fullname": "[+]FIUK",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3853264.jpg?w=150&till=1722470340&sign=d456c6b9b2e30be45e87752ffb038a8d",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.39,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5662552
+    },
+    "engagement_avg": {
+      "value": 514404
+    },
+    "authentic_engagement": {
+      "value": 224609
+    }
+  }
+}

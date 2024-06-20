@@ -1,0 +1,89 @@
+{
+  "_number": 536,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCyrL689DzSp9yrhSCzn1Lfg",
+    "username": "123GOCHALLENGEPortuguese",
+    "title": null,
+    "fullname": "123 GO! CHALLENGE Portuguese",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mzFYpwh7RZTm0SYN3d1zaofep0QPOH-1kQGygPBDBh9Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.79,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.79,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.51,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.09,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 1.26,
+            "hs_value": null
+          },
+          {
+            "id": "pk",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3384038
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 42
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 44
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 3927
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 466,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC5OwlwvsVmf_lXHguB6OYFw",
+    "username": "KARD",
+    "title": null,
+    "fullname": "KARD",
+    "avatar_url": "https://yt3.googleusercontent.com/k8V1Oe7IMjX1N8NXR1fIcC_-GmKkOpERNw6lH3XP7Clcozb_KmmvrHJaZTa5wpohrxvKGdqqg7A=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 19.51,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 19.51,
+            "hs_value": 0.126565
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 16.1,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 5.76,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 4.82,
+            "hs_value": null
+          },
+          {
+            "id": "ph",
+            "code": null,
+            "prc": 4.7,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3714639
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 45
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3149
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3194
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 13766
+        }
+      }
+    }
+  }
+}

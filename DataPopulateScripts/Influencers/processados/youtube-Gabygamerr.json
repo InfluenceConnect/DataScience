@@ -1,0 +1,92 @@
+{
+  "_number": 825,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCCc-GRKfw2rLelRfrUhoMqA",
+    "username": "Gabygamerr",
+    "title": null,
+    "fullname": "Gaby Gamer",
+    "avatar_url": "https://yt3.googleusercontent.com/QSrm4NDHnoDa1YJCZLxEJ8B63nPVjhLm2fjCB9TZ5qOE8A-QFv-bkie0tFtfMkhEmCri_kb9=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.67,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.67,
+            "hs_value": 0.274015
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.37,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.38,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2435050
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 121
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1312
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1433
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 13101.5
+        }
+      }
+    }
+  }
+}

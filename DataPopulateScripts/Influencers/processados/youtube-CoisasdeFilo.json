@@ -1,0 +1,91 @@
+{
+  "_number": 319,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC87jMcoR9sMe2rBs2TiHaSg",
+    "username": "CoisasdeFilo",
+    "title": null,
+    "fullname": "Coisas de Fil\u00f3",
+    "avatar_url": "https://yt3.googleusercontent.com/oernjdA91F9FNRxKCoZOIC33vLy5l1bH8mee04Z8nGeJG2ZJU7hhPoS_pIY9eZveevKMY-CP-g=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.41,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.41,
+            "hs_value": 0.106557
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.2,
+            "hs_value": null
+          },
+          {
+            "id": "se",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "ch",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4944664
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 130
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 746
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 876
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4907
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 759,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "207279304",
+    "username": "jessiej",
+    "title": null,
+    "fullname": "Jessie J",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/207279304.jpg?w=150&till=1722470340&sign=34cf4d43ad132fcfc1298e8bbdbf7964",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 23.27,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1044,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13986100
+    },
+    "engagement_avg": {
+      "value": 63950
+    },
+    "authentic_engagement": {
+      "value": 42005
+    }
+  }
+}

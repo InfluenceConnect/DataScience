@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 667,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1574083",
+    "username": "snoopdogg",
+    "title": null,
+    "fullname": "snoopdogg",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1574083.jpg?w=150&till=1722470340&sign=c048a0da6e4c2b9077e8be09e50fbd3b",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 43.75,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 87357142
+    },
+    "engagement_avg": {
+      "value": 13932
+    },
+    "authentic_engagement": {
+      "value": 9900
+    }
+  }
+}

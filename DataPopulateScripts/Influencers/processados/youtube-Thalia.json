@@ -1,0 +1,91 @@
+{
+  "_number": 157,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCgyFSSvdNv3MC_atQPqM_XA",
+    "username": "Thalia",
+    "title": null,
+    "fullname": "Thalia",
+    "avatar_url": "https://yt3.googleusercontent.com/-sCqXuSscyj7g5GeT5jLWQ0OWiwqM0BFt-2TwzlIxj3D3I7pF4GfoCr8DczmP5SjgBJoBPmYSA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 24.17,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 24.17,
+            "hs_value": 4.020042
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 20.98,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 10.89,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 7.7,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 5.84,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7674918
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 128
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1550
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1678
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 44702
+        }
+      }
+    }
+  }
+}

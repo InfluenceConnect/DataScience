@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 391,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "50097981040",
+    "username": "noisecrente",
+    "title": null,
+    "fullname": "N\u00f3is \u00e9 Crente [Oficial]",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/50097981040.jpg?w=150&till=1722470340&sign=4ef80b6a3d71a51ca4e2b010ab52b07a",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.12,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1375099
+    },
+    "engagement_avg": {
+      "value": 2344841
+    },
+    "authentic_engagement": {
+      "value": 1782146
+    }
+  }
+}

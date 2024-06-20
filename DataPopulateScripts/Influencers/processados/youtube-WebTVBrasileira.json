@@ -1,0 +1,91 @@
+{
+  "_number": 850,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC0LlPl_mWhIFqVxcH1l3xpQ",
+    "username": "WebTVBrasileira",
+    "title": null,
+    "fullname": "WebTVBrasileira",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kuU3D_ETtu2REBnV_E2ZyHl30BbImEZ0NpyDxp4D5ES6k=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.21,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.21,
+            "hs_value": 50.178214
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 3.34,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 1.05,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.7,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2374845
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 34
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1757
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1791
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 20892
+        }
+      }
+    }
+  }
+}

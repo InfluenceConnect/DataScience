@@ -1,0 +1,92 @@
+{
+  "_number": 328,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCSeTIAELP_jWhlmfZbzmPxw",
+    "username": "DougFilmes",
+    "title": null,
+    "fullname": "Doug Filmes",
+    "avatar_url": "https://yt3.googleusercontent.com/LFYhrbhQRKqa67DZ1dcNwXxkNpzjvSvlXl7CBe4rbwrS8Fz6caS5YhmAUK-RIgRyGZ4Gb0hLog=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.93,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.93,
+            "hs_value": 0.01487
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.09,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4804306
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 63
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 545
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 608
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 6460
+        }
+      }
+    }
+  }
+}

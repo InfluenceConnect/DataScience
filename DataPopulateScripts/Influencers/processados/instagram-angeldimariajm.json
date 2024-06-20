@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 260,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3102790526",
+    "username": "angeldimariajm",
+    "title": null,
+    "fullname": "A\u0301ngel Di Mari\u0301a",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3102790526.jpg?w=150&till=1722470340&sign=8d3abe9fad58b6bc1974809e739abff9",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "ar",
+    "audience_geo_country_1_prc": 16.88,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26709981
+    },
+    "engagement_avg": {
+      "value": 219841
+    },
+    "authentic_engagement": {
+      "value": 166485
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 179,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UClN6OLbLp1YjTSwDOkEM2dA",
+    "username": "DayanSiebra",
+    "title": null,
+    "fullname": "Dayan Siebra",
+    "avatar_url": "https://yt3.googleusercontent.com/ixjOOZBqCtOrj-r2ul1QPlLA5WnuopNHxEGirazkpAs1bQqffobK_7KuO73ZSG2U2Mpvj2EkYg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.63,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.63,
+            "hs_value": 0.00262
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.59,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.2,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.8,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14,
+        21
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7230313
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 743
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 752
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 7277.5
+        }
+      }
+    }
+  }
+}

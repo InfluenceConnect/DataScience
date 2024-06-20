@@ -1,0 +1,92 @@
+{
+  "_number": 747,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCaycGxaoGRDeBbkfAZ4mqGQ",
+    "username": "LucasAndKibo",
+    "title": null,
+    "fullname": "Lucas and Kibo",
+    "avatar_url": "https://yt3.googleusercontent.com/slTJHAByf4tpZZLrXKUu67E2wDVy5gJtOr6LzuSX8_ZhMez6YQhORk6iOW26ywZ914uAsSP1Eg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 18.78,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 18.78,
+            "hs_value": 883.846735
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 13.71,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 8.63,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 6.09,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 5.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2621209
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 591
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 31987
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 32578
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 368886.5
+        }
+      }
+    }
+  }
+}

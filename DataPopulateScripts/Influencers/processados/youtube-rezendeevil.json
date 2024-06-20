@@ -1,0 +1,91 @@
+{
+  "_number": 9,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCbTVTephX30ZhQF5zwFppBg",
+    "username": "rezendeevil",
+    "title": null,
+    "fullname": "rezendeevil",
+    "avatar_url": "https://yt3.googleusercontent.com/TX93DoEJrvJi10f8WrPOej9VS0YrMUmuRt_tzT6Kj5A3qBvFx6iOspfirq42jXDUo6cmRcVQ-A=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.27,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.27,
+            "hs_value": 58.876743
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.94,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.06,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 33444599
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 313
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 12813
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 13126
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 194650
+        }
+      }
+    }
+  }
+}

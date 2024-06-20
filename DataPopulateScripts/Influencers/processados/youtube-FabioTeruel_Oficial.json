@@ -1,0 +1,92 @@
+{
+  "_number": 144,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC0sbKm54x3c7Uc38aKi1cVQ",
+    "username": "FabioTeruel_Oficial",
+    "title": null,
+    "fullname": "F\u00e1bio Teruel",
+    "avatar_url": "https://yt3.googleusercontent.com/_3DfCjigQvMUBHtIOc3SeVEMPO9YghJjEc-N2S0Kvz1geDuI8tyK4an_HdPwt-zVaSaG1W7uuw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.83,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.83,
+            "hs_value": 657.328492
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.85,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 1.44,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.96,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8170805
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 5800
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19983
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 25783
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 83382
+        }
+      }
+    }
+  }
+}

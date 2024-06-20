@@ -1,0 +1,91 @@
+{
+  "_number": 702,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC2bWVm4BwRM2vK8y6vldhlQ",
+    "username": "kravmagacaveira",
+    "title": null,
+    "fullname": "Krav Maga Self Defense - Master Wesley Gimenez",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kCxrwgq9ZSjbIMughn9odju2q2FXffPsF0tEA2u6E4hkA5=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.12,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.12,
+            "hs_value": 0.075504
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.83,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.7,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2750619
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 29
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1408
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1437
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 11316
+        }
+      }
+    }
+  }
+}

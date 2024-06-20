@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "7020179409953440773",
+    "username": "forneckisabela",
+    "fullname": "isa forneck",
+    "description": "tiktoknaobanipfv \ncontato: isaforneckt@gmail.com\nminha m\u00fasica \u2b07\ufe0f",
+    "tier": 145,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/a5ab93a8f7713f0a8483b02c9fb3d9d1~c5_720x720.jpeg",
+    "last_media_time": "2024-05-31",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2024-04-29",
+    "report_base_updated": "2024-06-02",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 588372
+    },
+    "hs_value": {
+      "value": 167.358516
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 17.29,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.881748,
+          "similar_min": 5.05473,
+          "similar_max": 6.875318,
+          "value_prev": 15.84
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 141236
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 26043
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 114
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 341
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 14
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 75,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_GROWTH",
+                "text": "Good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 845,
+  "_delta": null
+}

@@ -1,0 +1,80 @@
+{
+  "_number": 301,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCAZeOz5_rwYN3oSLHrOKE7Q",
+    "username": "MisterRua69",
+    "title": null,
+    "fullname": "MisterRua",
+    "avatar_url": "https://yt3.googleusercontent.com/_7f7VCXcxzKnt6-n5il7lSgkqgg2dYf5sguAi91L1CMqQ2NRWcZ0782yuahIyc7T4MvcgaNgNg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.24,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.24,
+            "hs_value": 0.047557
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.38,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.38,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5230449
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 13
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 963
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 976
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 28878.5
+        }
+      }
+    }
+  }
+}

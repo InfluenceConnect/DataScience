@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 485,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "555433357",
+    "username": "karadenizli.maceraci",
+    "title": null,
+    "fullname": "KARADEN\u0130ZL\u0130 MACERACI - R\u0131dvan",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/555433357.jpg?w=150&till=1722470340&sign=e7e05988d26e7f5ea7065f897f1741a6",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "tr",
+    "audience_geo_country_1_prc": 32.49,
+    "blogger_thematics": {
+      "data": [
+        1025,
+        1035
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6022356
+    },
+    "engagement_avg": {
+      "value": 366793
+    },
+    "authentic_engagement": {
+      "value": 301592
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 554,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1062386399",
+    "username": "anamosconi",
+    "title": null,
+    "fullname": "Ana Mosconi",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1062386399.jpg?w=150&till=1722470340&sign=c1166c3611e6e40281ec0667d18a9647",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.28,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1039
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8145350
+    },
+    "engagement_avg": {
+      "value": 212370
+    },
+    "authentic_engagement": {
+      "value": 126336
+    }
+  }
+}

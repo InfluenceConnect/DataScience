@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 385,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "318541700",
+    "username": "jottape",
+    "title": null,
+    "fullname": "Jottape\u0302",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/318541700.jpg?w=150&till=1722470340&sign=e65b2429bd220176f9daa0f04cb66457",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.36,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7460756
+    },
+    "engagement_avg": {
+      "value": 451884
+    },
+    "authentic_engagement": {
+      "value": 250872
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 872,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCIRseertPt5kAzr40COpH6A",
+    "username": "FEURIPE",
+    "title": null,
+    "fullname": "FEURIPE",
+    "avatar_url": "https://yt3.googleusercontent.com/3NeYCvZTd29WeONHQcYVdkJL6NPVqWJo2N5qAhjIGnENobS-_iIApkL-mEXJDK_XOpVqCM6ntfE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.25,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.25,
+            "hs_value": 124.081458
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.47,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.79,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2330925
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 522
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9685
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 10207
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 238406
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 534,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "5691060494",
+    "username": "ricoof",
+    "title": null,
+    "fullname": "Rico Melquiades \ud83d\udd25",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/5691060494.jpg?w=150&till=1722470340&sign=8e4a3b4939ff82595f07cb3e238665e2",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.68,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10398881
+    },
+    "engagement_avg": {
+      "value": 184227
+    },
+    "authentic_engagement": {
+      "value": 108388
+    }
+  }
+}

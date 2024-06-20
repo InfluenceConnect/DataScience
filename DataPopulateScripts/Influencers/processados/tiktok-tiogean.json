@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "20732106",
+    "username": "tiogean",
+    "fullname": "Gean Sampaio",
+    "description": "o dia-a-dia de um prof dentro da escola \nEduca\u00e7\u00e3o f\u00edsica e inclus\u00e3o \ud83e\ude75\ud83d\udc9b\u2764\ufe0f\ud83e\udde9",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/9eefa43d68058a5039312faf67061968~c5_720x720.jpeg",
+    "last_media_time": "2024-05-29",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-10-21",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1582315
+    },
+    "hs_value": {
+      "value": 1061.494439
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 14.19,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 8.3
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 276103
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 37618
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 676
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 346
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 71,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_GROWTH",
+                "text": "Average account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 436,
+  "_delta": null
+}

@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6793408777350906885",
+    "username": "crisspaiva",
+    "fullname": "Criss Paiva",
+    "description": "humorista | roteirista | atriz | podcaster\n\ud83d\udc9c blessed.thankful.happy \ud83e\udd81",
+    "tier": 144,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/841f33ede3646508de1c186974e792c8~c5_720x720.jpeg",
+    "last_media_time": "2024-05-18",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-03",
+    "report_data_updated": "2024-02-17",
+    "report_base_updated": "2024-06-01",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 567798
+    },
+    "hs_value": {
+      "value": 155776.359301
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 9.44,
+          "mark": "very_good",
+          "mark_title": "VERY_GOOD",
+          "similar": 5.83823,
+          "similar_min": 4.985752,
+          "similar_max": 6.836572,
+          "value_prev": 6.19
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 953862
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 88181
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1453
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 17067
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 82,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 33,
+  "_delta": null
+}

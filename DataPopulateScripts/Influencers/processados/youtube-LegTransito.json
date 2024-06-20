@@ -1,0 +1,91 @@
+{
+  "_number": 463,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCYTYtXo30ES3g5iWQ1DT_Wg",
+    "username": "LegTransito",
+    "title": null,
+    "fullname": "LegTransito Ronaldo Cardoso",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k22JD6N7X-pxlqX42qBj89JVQFAH2gD9S1n5aboIwhCD4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.75,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.75,
+            "hs_value": 0.299117
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "cl",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "gr",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        9
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3724898
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 71
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1285
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1356
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 25373
+        }
+      }
+    }
+  }
+}

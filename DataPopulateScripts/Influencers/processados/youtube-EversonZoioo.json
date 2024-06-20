@@ -1,0 +1,92 @@
+{
+  "_number": 58,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UChPa3fnlI3RKuzEbeEPKRFw",
+    "username": "EversonZoioo",
+    "title": null,
+    "fullname": "Everson Zoio",
+    "avatar_url": "https://yt3.googleusercontent.com/KnLJCCI40GPpB1-z5cQdzcSlShj8fjVlLc-20zPNQCf8yW88hyuXP4VBKCDiVEgxol8j_N1HXQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.17,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.17,
+            "hs_value": 3.580439
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.76,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13151592
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 234
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4482
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4716
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 53614
+        }
+      }
+    }
+  }
+}

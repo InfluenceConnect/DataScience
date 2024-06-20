@@ -1,0 +1,89 @@
+{
+  "_number": 916,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwM4g999Q94nkJr4gC881AA",
+    "username": "IsraelcomAline",
+    "title": null,
+    "fullname": "Israel com a Aline",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kK48stNHUSVWroYKWyU4VRtNPLgRsjq-RaYxNTLkJFlv0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.63,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.63,
+            "hs_value": 3034.88194
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.07,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.73,
+            "hs_value": null
+          },
+          {
+            "id": "ch",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2251110
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1850
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 38892
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 40742
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 368976.5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 662,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCTeuEMYybdsJXTR7dOiGLYg",
+    "username": "Pilhado",
+    "title": null,
+    "fullname": "Pilhado",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k35-JEHY8y1WN1Vpf6L-w5NYHu10mgSmwBVmw8uDIPr54=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.08,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.08,
+            "hs_value": 312.796155
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.86,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.19,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.51,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        22
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2854777
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1050
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 22234
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 23284
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 97202.5
+        }
+      }
+    }
+  }
+}

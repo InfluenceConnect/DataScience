@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 38,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "8713286",
+    "username": "sabrinacarpenter",
+    "title": null,
+    "fullname": "Sabrina Carpenter",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/8713286.jpg?w=150&till=1722470340&sign=4ab1d1e65bb8545e571f0c0eb6ebf4c5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 20.16,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 34962148
+    },
+    "engagement_avg": {
+      "value": 2665994
+    },
+    "authentic_engagement": {
+      "value": 2091957
+    }
+  }
+}

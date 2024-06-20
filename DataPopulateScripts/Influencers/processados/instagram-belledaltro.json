@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 693,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3120867109",
+    "username": "belledaltro",
+    "title": null,
+    "fullname": "Belle",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3120867109.jpg?w=150&till=1722470340&sign=a91f35f72f0623cadc2378ecbfd2ca02",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.05,
+    "blogger_thematics": {
+      "data": [
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3363822
+    },
+    "engagement_avg": {
+      "value": 332497
+    },
+    "authentic_engagement": {
+      "value": 216522
+    }
+  }
+}

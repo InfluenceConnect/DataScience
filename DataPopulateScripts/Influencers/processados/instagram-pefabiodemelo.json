@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 671,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "19000383",
+    "username": "pefabiodemelo",
+    "title": null,
+    "fullname": "F\u00e1bio de Melo",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/19000383.jpg?w=150&till=1722470340&sign=5d9fb5788d6a57fd4878b445381ebb60",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 78.68,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26038959
+    },
+    "engagement_avg": {
+      "value": 46187
+    },
+    "authentic_engagement": {
+      "value": 34925
+    }
+  }
+}

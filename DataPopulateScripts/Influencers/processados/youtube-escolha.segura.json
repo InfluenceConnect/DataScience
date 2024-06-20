@@ -1,0 +1,91 @@
+{
+  "_number": 947,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCDUdvPnNWjQCif_GnrhUE6Q",
+    "username": "escolha.segura",
+    "title": null,
+    "fullname": "EscolhaSegura",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kq7P5x1THGce9y4VbVSpT5tBKj-MvA8EHqui6cMnxQQIk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.75,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.75,
+            "hs_value": 0.513259
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.73,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.73,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        7
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2205112
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 85
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1471
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1556
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 25649
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 216,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC-Tvz0FJd6xRvVDw_4dc_GQ",
+    "username": "gelliclash",
+    "title": null,
+    "fullname": "Gelli Clash",
+    "avatar_url": "https://yt3.googleusercontent.com/ghdJZ7hgJrgAYJL_eApv6bCn9ouoRUgrHxXBjf0J19E-HkJp5lTURipwH4nM3rEcbu4nzRnZNQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.55,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.55,
+            "hs_value": 0.993669
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.98,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.77,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6385036
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 116
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2305
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2421
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 24970
+        }
+      }
+    }
+  }
+}

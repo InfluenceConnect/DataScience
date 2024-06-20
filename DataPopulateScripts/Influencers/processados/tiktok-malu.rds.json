@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6798287001324012550",
+    "username": "malu.rds",
+    "fullname": "malu",
+    "description": "s\u00f3 conte\u00fado gente \namo meu namorado!",
+    "tier": 119,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/e8ebaa2144afac6aad9751c087133301~c5_720x720.jpeg",
+    "last_media_time": "2024-06-01",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2023-03-04",
+    "report_base_updated": "2024-06-02",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 23947
+    },
+    "hs_value": {
+      "value": 145.495111
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 20.22,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 7.161194,
+          "similar_min": 6.119955,
+          "similar_max": 8.388799,
+          "value_prev": 16.07
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 88737
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19267
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 94
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 757
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 11
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 89,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 893,
+  "_delta": null
+}

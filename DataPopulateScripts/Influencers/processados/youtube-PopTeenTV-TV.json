@@ -1,0 +1,91 @@
+{
+  "_number": 951,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCNyv46EnCgc9hT7EWUXBuPg",
+    "username": "PopTeenTV-TV",
+    "title": null,
+    "fullname": "Pop Teen TV",
+    "avatar_url": "https://yt3.googleusercontent.com/TrZqkbUgqwPyzrIUC2ldH_lr1iW44Sf3KMpRpUohmjX-BxkXjJF4lR7OG8rrsWkN5mCwXqAULw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.24,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.24,
+            "hs_value": 57.784934
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 5.69,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 1.22,
+            "hs_value": null
+          },
+          {
+            "id": "sv",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        23
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2201487
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 271
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 14173
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 14444
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 250465.5
+        }
+      }
+    }
+  }
+}

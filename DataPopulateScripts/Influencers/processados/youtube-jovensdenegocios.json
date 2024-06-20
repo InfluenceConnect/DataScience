@@ -1,0 +1,91 @@
+{
+  "_number": 852,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC6pkw1C4ha1cmU9aDJ8OxUw",
+    "username": "jovensdenegocios",
+    "title": null,
+    "fullname": "Jovens de Neg\u00f3cios",
+    "avatar_url": "https://yt3.googleusercontent.com/xZthrPo6kAfdcGYZ1t557iEUqJypTHaut09pkdclfFrR6-tBxcI1UoS5PaDIW6YTIfemL9v6=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.58,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.58,
+            "hs_value": 176.34672
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.62,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.19,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2374046
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1095
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 15382
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 16477
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 104698.5
+        }
+      }
+    }
+  }
+}

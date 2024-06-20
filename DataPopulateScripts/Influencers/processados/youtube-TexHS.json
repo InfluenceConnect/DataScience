@@ -1,0 +1,92 @@
+{
+  "_number": 228,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCH2958aySlHIuMzpUE8Xe9A",
+    "username": "TexHS",
+    "title": null,
+    "fullname": "Tex HS",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kEBkI6HQ_yyGUeFimd-BxwJwCjJdUS-VMmECutDu_B6so=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.08,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.08,
+            "hs_value": 146.243943
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.64,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.13,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        25,
+        23
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6210850
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 755
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 8206
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 8961
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 312066.5
+        }
+      }
+    }
+  }
+}

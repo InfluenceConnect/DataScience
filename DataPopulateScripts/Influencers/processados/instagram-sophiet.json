@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 304,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "38847721",
+    "username": "sophiet",
+    "title": null,
+    "fullname": "S O P H I E T U R N E R",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/38847721.jpg?w=150&till=1722470340&sign=7b708eb0c8d731f7952245698dbd144f",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 24.88,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14137088
+    },
+    "engagement_avg": {
+      "value": 329020
+    },
+    "authentic_engagement": {
+      "value": 247074
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 16,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCYtaoJSk9iIrFxx8eZB15ag",
+    "username": "RobinHoodGamer1",
+    "title": null,
+    "fullname": "Robin Hood Gamer",
+    "avatar_url": "https://yt3.googleusercontent.com/OhCQz0_OyJnwDHt1LyrINzouuz_vYa9WQLKlbwuEnHLbMyEsnXRk99yJqZxdn3z9Vpyw8nBk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.25,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.25,
+            "hs_value": 183.063691
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.26,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.23,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "cy",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 20948522
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 335
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7982
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 8317
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 253627
+        }
+      }
+    }
+  }
+}

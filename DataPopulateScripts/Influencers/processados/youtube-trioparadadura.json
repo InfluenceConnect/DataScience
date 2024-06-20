@@ -1,0 +1,91 @@
+{
+  "_number": 941,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC10bc436tdXaMUpENud-daQ",
+    "username": "trioparadadura",
+    "title": null,
+    "fullname": "Trio Parada Dura",
+    "avatar_url": "https://yt3.googleusercontent.com/5FPB6QyyhirAATCE1VPdgkJhCoRvnpWtt0m_L-pNZweK3lBJ7i-cjWV4eATA2ZsK6KwmfJCNnw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.74,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.74,
+            "hs_value": 0.010222
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.02,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.81,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2214928
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 219
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 223
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4012
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_number": 12,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC371icpvZj2oQaocL0i9L-g",
+    "username": "DUDUeCAROL",
+    "title": null,
+    "fullname": "DUDU e CAROL",
+    "avatar_url": "https://yt3.googleusercontent.com/JAP3iHPou_mFHmiS9GpdBi6282u3aXB0_MAl73B3pme_E4YvR_eV-GUCiVyxcu-ye2Ll7E8B6w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.69,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.69,
+            "hs_value": 292.170766
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.39,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.06,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 24650936
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 522
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4667
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5189
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 167517
+        }
+      }
+    }
+  }
+}

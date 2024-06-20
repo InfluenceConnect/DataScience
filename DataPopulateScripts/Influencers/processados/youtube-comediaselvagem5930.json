@@ -1,0 +1,92 @@
+{
+  "_number": 108,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCrKj1r2Q7UIeltxsUneeZyQ",
+    "username": "comediaselvagem5930",
+    "title": null,
+    "fullname": "COM\u00c9DIA SELVAGEM",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kpF8MWj05aoRIpcZYE6XN9iijKiztfPnWwwktZbSnXQxje=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.15,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.15,
+            "hs_value": 1339.549367
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.91,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.78,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9834629
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 372
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 24249
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 24621
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 271729
+        }
+      }
+    }
+  }
+}

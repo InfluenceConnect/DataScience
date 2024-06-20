@@ -1,0 +1,92 @@
+{
+  "_number": 827,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCr-BdJEeyDNlPodHF1pUKOg",
+    "username": "SoDicasNaturais",
+    "title": null,
+    "fullname": "S\u00f3 Dicas Naturais",
+    "avatar_url": "https://yt3.googleusercontent.com/1tdPj9huhOyLp8mMOWdImURCls3L7AfCNhvOjj2g4_L9wYU7VDtJsRtIdceLXaOw6EhZJPWxEQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.76,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.76,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.62,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14,
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2435011
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 15
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 301
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 316
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2238
+        }
+      }
+    }
+  }
+}

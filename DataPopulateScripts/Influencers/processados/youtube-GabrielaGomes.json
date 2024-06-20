@@ -1,0 +1,91 @@
+{
+  "_number": 952,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCQtV5cbVULWM6rANGB87XRw",
+    "username": "GabrielaGomes",
+    "title": null,
+    "fullname": "Gabriela Gomes",
+    "avatar_url": "https://yt3.googleusercontent.com/ClSHgp27fmxIFu9I0I2hX-ooV1av9FSN_gGJbuvVbLn1LDes8PVLdvj4qdc38yv4kjrMjPc8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.28,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.28,
+            "hs_value": 0.002334
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.53,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.6,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2201112
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 125
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 128
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 681
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 54,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1408289748",
+    "username": "jongsuk0206",
+    "title": null,
+    "fullname": "\uc774\uc885\uc11d",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1408289748.jpg?w=150&till=1722470340&sign=0562a8a5c16f543d701007bb1e722559",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 18.86,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26709650
+    },
+    "engagement_avg": {
+      "value": 2079001
+    },
+    "authentic_engagement": {
+      "value": 1780514
+    }
+  }
+}

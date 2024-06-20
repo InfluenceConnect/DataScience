@@ -1,0 +1,92 @@
+{
+  "_number": 212,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCWqp_otGswgVvFjX0CB-HzQ",
+    "username": "IShowGameR",
+    "title": null,
+    "fullname": "IShow",
+    "avatar_url": "https://yt3.googleusercontent.com/A9ivULxEOEadE7GQIpiBmX5MRrDrH8BCj0lhwaTJcgOCPHw0Nx6AbyzqRPjhbb3KV-qERbBq=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.03,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.03,
+            "hs_value": 5.257022
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 5.69,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.78,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6568694
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 195
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5181
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5376
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 45706
+        }
+      }
+    }
+  }
+}

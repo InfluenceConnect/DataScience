@@ -1,0 +1,35 @@
+{
+  "_fh": "3f5a5ccc3e2cf97e3364568e5d1eeb39",
+  "_number": 4,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "6380930",
+    "username": "kendalljenner",
+    "title": null,
+    "fullname": "Kendall",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/6380930.jpg?w=150&till=1722470340&sign=14a7a19105e4c9bc3ada6e57d2efc5eb",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 21.55,
+    "blogger_thematics": {
+      "data": [
+        1039,
+        1021
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 293441915
+    },
+    "engagement_avg": {
+      "value": 3635184
+    },
+    "authentic_engagement": {
+      "value": 2845437
+    }
+  }
+}

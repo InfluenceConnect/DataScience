@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 533,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "309248834",
+    "username": "nicolasotamendi30",
+    "title": null,
+    "fullname": "Twitter Oficial: @Notamendi30",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/309248834.jpg?w=150&till=1722470340&sign=58385a383904d76e852e457a8fa6b543",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "ar",
+    "audience_geo_country_1_prc": 46.33,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8631495
+    },
+    "engagement_avg": {
+      "value": 214953
+    },
+    "authentic_engagement": {
+      "value": 165204
+    }
+  }
+}

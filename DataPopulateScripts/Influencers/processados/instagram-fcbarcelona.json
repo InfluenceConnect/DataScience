@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 42,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "260375673",
+    "username": "fcbarcelona",
+    "title": null,
+    "fullname": "FC Barcelona",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/260375673.jpg?w=150&till=1722470340&sign=be9f716b19f579e3168060fd94d987bb",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 7.73,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 127624080
+    },
+    "engagement_avg": {
+      "value": 693839
+    },
+    "authentic_engagement": {
+      "value": 573374
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 203,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC6nYtmaMh43WUQW5YeopuNg",
+    "username": "EuvoceEnos",
+    "title": null,
+    "fullname": "Eu voc\u00ea e n\u00f3s",
+    "avatar_url": "https://yt3.googleusercontent.com/YwSTLd28Mxelx5CQmJ_CSanGZxewYQtMR9ix92aDgwQewJs5J5_JiyiW1FroWdfGs9J95bH9CIY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.13,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.13,
+            "hs_value": 63.159269
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.18,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6740855
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 212
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6680
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6892
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 129294
+        }
+      }
+    }
+  }
+}

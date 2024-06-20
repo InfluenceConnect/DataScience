@@ -1,0 +1,92 @@
+{
+  "_number": 586,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UChsb03kH_dNRh2-wE8GkeaA",
+    "username": "MundoDesconhecidoTMOficial",
+    "title": null,
+    "fullname": "Mundo Desconhecido",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nCFkF3o2WBiGkDkbV1i_tsA_3ILB7FEjwsY5yl6rqDTmw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.65,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.65,
+            "hs_value": 0.030127
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.73,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.94,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21,
+        18
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3184582
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 16
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1374
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1390
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 9539
+        }
+      }
+    }
+  }
+}

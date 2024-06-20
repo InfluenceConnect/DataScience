@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6938849094992708613",
+    "username": "betomartinne",
+    "fullname": "BetoMartinne",
+    "description": "Bem vindo!\u2728\nCAIXA POSTAL: cep: 12010970 N\u00b0 15 (Alberto)",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/740e52bed6542488f01fdbba0fa60d55~c5_720x720.jpeg",
+    "last_media_time": "2024-06-04",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-08-29",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1740887
+    },
+    "hs_value": {
+      "value": 124.287126
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 23.46,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 25.01
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 103788
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 21308
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 385
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 177
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 18
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 88,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO",
+                "text": "Excellent comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_GROWTH",
+                "text": "Good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 938,
+  "_delta": null
+}

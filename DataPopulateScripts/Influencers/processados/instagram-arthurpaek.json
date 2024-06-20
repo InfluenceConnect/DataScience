@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 738,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "2331704745",
+    "username": "arthurpaek",
+    "title": null,
+    "fullname": "Arthur Paek",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/2331704745.jpg?w=150&till=1722470340&sign=ebfb7d4acc54216a750f3d4c7518d120",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 71.69,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4124693
+    },
+    "engagement_avg": {
+      "value": 233038
+    },
+    "authentic_engagement": {
+      "value": 169266
+    }
+  }
+}

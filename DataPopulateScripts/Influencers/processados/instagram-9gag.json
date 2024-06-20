@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 464,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "259220806",
+    "username": "9gag",
+    "title": null,
+    "fullname": "9GAG: Go Fun The World",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/259220806.jpg?w=150&till=1722470340&sign=8d5a36f1f07b92d03dcdd05050031b61",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 9.68,
+    "blogger_thematics": {
+      "data": [
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 56807517
+    },
+    "engagement_avg": {
+      "value": 42785
+    },
+    "authentic_engagement": {
+      "value": 35513
+    }
+  }
+}

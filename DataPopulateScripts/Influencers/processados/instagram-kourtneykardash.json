@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 19,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "145821237",
+    "username": "kourtneykardash",
+    "title": null,
+    "fullname": "Kourtney Kardashian Barker",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/145821237.jpg?w=150&till=1722470340&sign=fb9e639d88ba4d3ec3a9dceff9532e58",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 32.17,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 223313057
+    },
+    "engagement_avg": {
+      "value": 967150
+    },
+    "authentic_engagement": {
+      "value": 708339
+    }
+  }
+}

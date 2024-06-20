@@ -1,0 +1,92 @@
+{
+  "_number": 732,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCbUdZw0S8Z3reVV9SKZJRbg",
+    "username": "chefao-chx",
+    "title": null,
+    "fullname": "Chef\u00e3o CHX",
+    "avatar_url": "https://yt3.googleusercontent.com/nHmBY8kEr1yGYEg_msTIxVlpsn7iY7CEM9Xez92XWdYHUXGLUw4FDMjGnu_fFyJZE2aNSgsbdw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.17,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.17,
+            "hs_value": 0.004219
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2655092
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 16
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 473
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 489
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5574.5
+        }
+      }
+    }
+  }
+}

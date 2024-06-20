@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 472,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "12521530722",
+    "username": "andersonneiff",
+    "title": null,
+    "fullname": "Anderson Neiff",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/12521530722.jpg?w=150&till=1722470340&sign=ddc357dc34503aca1dadb5f0dcbf411e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 87.31,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6724464
+    },
+    "engagement_avg": {
+      "value": 355858
+    },
+    "authentic_engagement": {
+      "value": 231899
+    }
+  }
+}

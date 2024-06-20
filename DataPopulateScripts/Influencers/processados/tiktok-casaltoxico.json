@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "125112698329051136",
+    "username": "casaltoxico",
+    "fullname": "\u2728 Casal T\u00f3xico \u2728",
+    "description": "Papais de primeira viagem \u2728\nffmeganni@gmail.com \ud83d\udce7",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": true,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/6a4f3d58485c070df09bccfa0ac62d83~c5_720x720.jpeg",
+    "last_media_time": "2024-05-30",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2022-10-27",
+    "report_base_updated": "2024-06-03",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6764726
+    },
+    "hs_value": {
+      "value": 381.293682
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 13.75,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 8.76
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 294140
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 34568
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 134
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 241
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 66,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_ER",
+                "text": "Good audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_GROWTH",
+                "text": "Good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 650,
+  "_delta": null
+}

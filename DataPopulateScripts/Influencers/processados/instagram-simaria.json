@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 606,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "145582518",
+    "username": "simaria",
+    "title": null,
+    "fullname": "Simaria",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/145582518.jpg?w=150&till=1722470340&sign=6483b0e7e3f157ae46dbe1c0023ef2cb",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.64,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 27196139
+    },
+    "engagement_avg": {
+      "value": 55916
+    },
+    "authentic_engagement": {
+      "value": 34261
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 123,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCCJC7YIZytEccbU0AWQIBHA",
+    "username": "falaidearo",
+    "title": null,
+    "fullname": "Falaidearo",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mb5apvk5maN4LVQMMs4s21200XB7XMj5mTqp1CxaCg3qc=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.72,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.72,
+            "hs_value": 178.109141
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.47,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "dk",
+            "code": null,
+            "prc": 0.08,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9191070
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 200
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 28031
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 28231
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 327299
+        }
+      }
+    }
+  }
+}

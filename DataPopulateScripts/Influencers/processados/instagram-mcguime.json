@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 491,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "28817713",
+    "username": "mcguime",
+    "title": null,
+    "fullname": "MC GUIME",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/28817713.jpg?w=150&till=1722470340&sign=5733995ff9b1e1cd9453669e733334b4",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.73,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10057154
+    },
+    "engagement_avg": {
+      "value": 212553
+    },
+    "authentic_engagement": {
+      "value": 123306
+    }
+  }
+}

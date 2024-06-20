@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 315,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "29833349541",
+    "username": "i_m_hendery",
+    "title": null,
+    "fullname": "Hi\ud83d\udc49\ud83c\udffbim Hendery\ud83d\udc48\ud83c\udffb",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/29833349541.jpg?w=150&till=1722470340&sign=10e1998c47054483ebf168cab8bfb669",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 21.64,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7119936
+    },
+    "engagement_avg": {
+      "value": 648355
+    },
+    "authentic_engagement": {
+      "value": 540406
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 140,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC79eapXXSE9LPoeG_J7hF7Q",
+    "username": "Velhote",
+    "title": null,
+    "fullname": "Velhote",
+    "avatar_url": "https://yt3.googleusercontent.com/1VykbadxLA7OKIAk-Xw5Y5ki5UuVo67ARt0TKL0WhdsVT-V4H2wyMvUKCJ0dZ23JWvCl7q0P=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.14,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.14,
+            "hs_value": 0.059313
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.75,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        23
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8270891
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6546
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6546
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 190997
+        }
+      }
+    }
+  }
+}

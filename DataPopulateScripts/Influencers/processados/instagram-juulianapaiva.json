@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 918,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "244463172",
+    "username": "juulianapaiva",
+    "title": null,
+    "fullname": "Juliana Paiva",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/244463172.jpg?w=150&till=1722470340&sign=94c91ab902a08e622010a3cf5fa2aa6f",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.19,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13110962
+    },
+    "engagement_avg": {
+      "value": 46323
+    },
+    "authentic_engagement": {
+      "value": 30283
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_number": 305,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCAmiE11hyW3iPdtQ9clqvtg",
+    "username": "canal90",
+    "title": null,
+    "fullname": "Canal 90",
+    "avatar_url": "https://yt3.googleusercontent.com/FsofrqCjmdppg41T6QzpGhU6qfXA4XCw2sAJSk8ct4Z08QYm8g-rhq68NgApey6GMFBv5yNaNw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.68,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.68,
+            "hs_value": 266.131001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.82,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5170946
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 400
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 18197
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 18597
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 237279
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 24,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCuz_0MPcY5O0vsIfFPKFpGg",
+    "username": "LucanPevidor",
+    "title": null,
+    "fullname": "Lucan Pevidor",
+    "avatar_url": "https://yt3.googleusercontent.com/lRFqeSOnaKjmXaqkY-dCAOgfAfnhST66quR9LzkT2DlEItP0ZtUSeOoR903zbJPaFd4CMP1v=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.62,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.62,
+            "hs_value": 1784.170849
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.48,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "ec",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 18612476
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 77
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 37621
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 37698
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 972474
+        }
+      }
+    }
+  }
+}

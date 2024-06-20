@@ -1,0 +1,92 @@
+{
+  "_number": 351,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC0odmP6ffEw3iVwTEyt-UKA",
+    "username": "EduPrimitivo",
+    "title": null,
+    "fullname": "Edu Primitivo",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nSD5J7ZFzcgyVZpTqR7e6z2IFFvTMwHj4YKc8ag8YMkaw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.22,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.22,
+            "hs_value": 171.012198
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.2,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.17,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4624636
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 171
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 13520
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 13691
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 167529
+        }
+      }
+    }
+  }
+}

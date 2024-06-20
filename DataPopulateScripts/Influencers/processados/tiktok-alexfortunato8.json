@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6813445855670191110",
+    "username": "alexfortunato8",
+    "fullname": "Alex Fortunato",
+    "description": "core\u00f3grafo.\nme segue no Instagram galera..\ud83d\udc47\ud83c\udffe",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/8d30b8d07ad699a2dce0a8202d9bebf7~c5_720x720.jpeg",
+    "last_media_time": "2024-06-02",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2024-03-25",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1337679
+    },
+    "hs_value": {
+      "value": 178.411822
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 8.7,
+          "mark": "good",
+          "mark_title": "GOOD",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 8.53
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 123370
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6993
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 552
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 1516
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 70,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_ER",
+                "text": "Good audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO_ABNORMALLY_HIGH",
+                "text": "Good comments to likes ratio, though comments count is abnormally high"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_GROWTH",
+                "text": "Good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 831,
+  "_delta": null
+}

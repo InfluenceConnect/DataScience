@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 979,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "850196122",
+    "username": "anygabriellyofficial",
+    "title": null,
+    "fullname": "Any Gabrielly",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/850196122.jpg?w=150&till=1722470340&sign=2b4037457e2ceb55b8da388e369a60ea",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 69.18,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1041,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6808227
+    },
+    "engagement_avg": {
+      "value": 79063
+    },
+    "authentic_engagement": {
+      "value": 54451
+    }
+  }
+}

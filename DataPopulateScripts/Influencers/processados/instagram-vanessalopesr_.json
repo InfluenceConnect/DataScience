@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 455,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "357729780",
+    "username": "vanessalopesr_",
+    "title": null,
+    "fullname": "Vanessa Lopes",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/357729780.jpg?w=150&till=1722470340&sign=b84405072f491e732d5493a3d571412a",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 78.33,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15087475
+    },
+    "engagement_avg": {
+      "value": 169587
+    },
+    "authentic_engagement": {
+      "value": 115725
+    }
+  }
+}

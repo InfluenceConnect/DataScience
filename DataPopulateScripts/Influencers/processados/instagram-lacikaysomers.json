@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 418,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "178210985",
+    "username": "lacikaysomers",
+    "title": null,
+    "fullname": "Laci Kay Somers",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/178210985.jpg?w=150&till=1722470340&sign=6ffcf75ec8b348fda424c00811f28e59",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 30.8,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1039,
+        1002
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12210568
+    },
+    "engagement_avg": {
+      "value": 232516
+    },
+    "authentic_engagement": {
+      "value": 123573
+    }
+  }
+}

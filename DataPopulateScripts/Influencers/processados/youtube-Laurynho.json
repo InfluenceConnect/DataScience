@@ -1,0 +1,91 @@
+{
+  "_number": 749,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCD2G1MRKXgQjKQko1-kCfZQ",
+    "username": "Laurynho",
+    "title": null,
+    "fullname": "Laurynho",
+    "avatar_url": "https://yt3.googleusercontent.com/QK6ziZ-1gmn7OYpRVItTeYxImimepfNtT_p30kGfraSjLT4owMDh0jNYzh49_gluKj-KOD_9-dc=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.89,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.89,
+            "hs_value": 0.00109
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2620911
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 5
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 432
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 437
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8241
+        }
+      }
+    }
+  }
+}

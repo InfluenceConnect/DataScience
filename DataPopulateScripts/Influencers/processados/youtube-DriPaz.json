@@ -1,0 +1,92 @@
+{
+  "_number": 669,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCqI4t5FQR7_wefENT1OEPKw",
+    "username": "DriPaz",
+    "title": null,
+    "fullname": "Dri Paz",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l4bVdx30DQqdFOTJ2qoQRxhAu4GYMB51Ck2WxfS1yu0OE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.4,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.4,
+            "hs_value": 0.020045
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.7,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.84,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.51,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.51,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2835029
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 44
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 700
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 744
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 7017
+        }
+      }
+    }
+  }
+}

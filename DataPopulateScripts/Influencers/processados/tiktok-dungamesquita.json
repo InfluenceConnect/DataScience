@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6710751376399877125",
+    "username": "dungamesquita",
+    "fullname": "dunga",
+    "description": "Humorista\nIG: dunga.mesquita\n\ud83c\udf32Manaus -Am\nv\u00eddeo completo\ud83d\udc47",
+    "tier": 137,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/df538b089240adbc05d2ec8a64a4b0b8~c5_720x720.jpeg",
+    "last_media_time": "2024-05-29",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-03",
+    "report_data_updated": "2024-04-04",
+    "report_base_updated": "2024-06-01",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 88498
+    },
+    "hs_value": {
+      "value": 105.148655
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 11.76,
+          "mark": "very_good",
+          "mark_title": "VERY_GOOD",
+          "similar": 6.181403,
+          "similar_min": 5.251627,
+          "similar_max": 7.26715,
+          "value_prev": 7.23
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 174858
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 22522
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 80
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 187
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 7
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 83,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_ER",
+                "text": "Good audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 983,
+  "_delta": null
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 380,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCBFLqK7PAP9DQ3JpIrWFI7w",
+    "username": "Pipocando",
+    "title": null,
+    "fullname": "Pipocando",
+    "avatar_url": "https://yt3.googleusercontent.com/VIJ0Wayk12E_RnH3eeG5IfEUnWNQD4nV_ZZJDuHLGmbeEphJjDy-a1P5v49PxTkIBPOUaZyQSw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.65,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.65,
+            "hs_value": 0.016105
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.81,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4295153
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 11
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1248
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1259
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 13385
+        }
+      }
+    }
+  }
+}

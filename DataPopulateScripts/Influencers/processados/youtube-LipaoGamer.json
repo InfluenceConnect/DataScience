@@ -1,0 +1,92 @@
+{
+  "_number": 62,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCHuZmQ0lSW8TG81dVZZh5rw",
+    "username": "LipaoGamer",
+    "title": null,
+    "fullname": "LipaoGamer",
+    "avatar_url": "https://yt3.googleusercontent.com/uBi9-XKfBxdnjPlcp-kYnhsYju6-Pkv4S_bnifel51a78--LQacH80N3aFOUgs9cWJfhi3AJNY4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.58,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.58,
+            "hs_value": 6.884603
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.46,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12848422
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 97
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4467
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4564
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 129342
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 28,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCqjjyPUghDSSKFBABM_CXMw",
+    "username": "anitta",
+    "title": null,
+    "fullname": "Anitta",
+    "avatar_url": "https://yt3.googleusercontent.com/XlIrx1-J3CtNFlPv88K0XTVAp4H4cAoWZ1uwgFy0n9-Ww0MaPxafdmJs45neLMDbuERiIunw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 87.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 87.5,
+            "hs_value": 34.360305
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.56,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 1.14,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.14,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 1.04,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 17749554
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 141
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4373
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4514
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 31935.5
+        }
+      }
+    }
+  }
+}

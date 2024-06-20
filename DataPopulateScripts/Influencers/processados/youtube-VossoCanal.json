@@ -1,0 +1,92 @@
+{
+  "_number": 181,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCMPPsRQg12IYk2V7vOfx-9A",
+    "username": "VossoCanal",
+    "title": null,
+    "fullname": "Vosso Canal",
+    "avatar_url": "https://yt3.googleusercontent.com/yM6Ef_SN0JKeETk49eb6qAR0H1cPr_wZ80xQhnjbOlC_vg2W07dhWpJBCVNul0Rb2qlLcuD8KA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.98,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.98,
+            "hs_value": 0.97535
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.66,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.83,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7214878
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 39
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2070
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2109
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 35831.5
+        }
+      }
+    }
+  }
+}

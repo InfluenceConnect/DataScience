@@ -1,0 +1,91 @@
+{
+  "_number": 6,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCNUQK9mQoqi4yNXw2_Rj6SA",
+    "username": "gr6explode",
+    "title": null,
+    "fullname": "GR6 EXPLODE",
+    "avatar_url": "https://yt3.googleusercontent.com/eBZvBSImITFiV8TMjVmebvJ0chh9Io60oJafnWMYCkqT02cJcfQRpVSR2AAJCbz3FhrL9RWTyQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.82,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.82,
+            "hs_value": 7.115796
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.14,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 40743696
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 64
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3331
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3395
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 72490
+        }
+      }
+    }
+  }
+}

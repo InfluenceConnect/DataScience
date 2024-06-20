@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 401,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3942916701",
+    "username": "jackblack",
+    "title": null,
+    "fullname": "Jack Black",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3942916701.jpg?w=150&till=1722470340&sign=c48b95f20e5cdb6846c26ac2f09db7c7",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 36.25,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14339829
+    },
+    "engagement_avg": {
+      "value": 211420
+    },
+    "authentic_engagement": {
+      "value": 152879
+    }
+  }
+}

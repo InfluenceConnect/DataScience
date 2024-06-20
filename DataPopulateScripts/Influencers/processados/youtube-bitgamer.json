@@ -1,0 +1,92 @@
+{
+  "_number": 520,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCHggIF2Ee-OqgIgtYihoBiQ",
+    "username": "bitgamer",
+    "title": null,
+    "fullname": "Bitgamer",
+    "avatar_url": "https://yt3.googleusercontent.com/VG0VYbSLD0oskQlSxP9B_1cxMAfYFa3lXEO5wxRJa-Hy-m14EA3-CLNa_V2hKXYMc4TZCNBZQg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.41,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.41,
+            "hs_value": 16.680021
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.37,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.92,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3441011
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 206
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5677
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5883
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 120397.5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fh": null,
+  "_number": 846,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "16914343",
+    "username": "noahurrea",
+    "title": null,
+    "fullname": "Noah",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/16914343.jpg?w=150&till=1722470340&sign=6943b963228ec07524a65aa240fbbe58",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 63.16,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1027,
+        1032,
+        1002
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4159163
+    },
+    "engagement_avg": {
+      "value": 176944
+    },
+    "authentic_engagement": {
+      "value": 126735
+    }
+  }
+}

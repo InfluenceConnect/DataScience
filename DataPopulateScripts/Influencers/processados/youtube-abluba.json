@@ -1,0 +1,92 @@
+{
+  "_number": 348,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCZdGGezVPemvBNiUdM6GUIg",
+    "username": "abluba",
+    "title": null,
+    "fullname": "Abluba Desenhos Animados",
+    "avatar_url": "https://yt3.googleusercontent.com/_ekRYksn9Klt9o3wy_JvWsVLF7eehfQaOkYJKyDi-CmE-eCXJzrTkbWUFzTS2GDm9KUDsHRdZlc=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.17,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.17,
+            "hs_value": 0.012595
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.74,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.74,
+            "hs_value": null
+          },
+          {
+            "id": "al",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4664966
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1731
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1731
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 58498
+        }
+      }
+    }
+  }
+}

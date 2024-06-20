@@ -1,0 +1,89 @@
+{
+  "_number": 857,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCn_brbCS3S2NJP5NueYAvyg",
+    "username": "nerdshow",
+    "title": null,
+    "fullname": "Nerd Show",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kpy7V9bcc_ynXaAVa2YppY9a8bmL3qNT5aKF_y4Lr5ePk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.62,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.62,
+            "hs_value": 15.08709
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2365137
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 338
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9148
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 9486
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 74658
+        }
+      }
+    }
+  }
+}

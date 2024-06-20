@@ -1,0 +1,91 @@
+{
+  "_number": 122,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC4t2mdI8uAiJDJSRjiWJT1Q",
+    "username": "GabrielaRochaOficial",
+    "title": null,
+    "fullname": "Gabriela Rocha",
+    "avatar_url": "https://yt3.googleusercontent.com/HO4DK3DMKOSiJCBmKE48TcoMPdxoYFSOf4VsErfo1ap_QDNT2M7IQrDalUXOrrcH4HB-llGnPQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.34,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.34,
+            "hs_value": 2.379585
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.48,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.48,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.61,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.61,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9204977
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 88
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3802
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3890
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 30959
+        }
+      }
+    }
+  }
+}

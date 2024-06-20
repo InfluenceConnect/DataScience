@@ -1,0 +1,91 @@
+{
+  "_number": 820,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCk8XGxi7fsTqQQRVq9LSraw",
+    "username": "UFCBR",
+    "title": null,
+    "fullname": "UFC Brasil",
+    "avatar_url": "https://yt3.googleusercontent.com/p1dL-DPtUpWI51DQTYTa364faR40xw7TMnNmInyk53xHYIcn7iFwzkrVu27kuRbU4U4OjesC=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.04,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.04,
+            "hs_value": 0.034739
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.41,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        22
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2440941
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 27
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 922
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 949
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 19719
+        }
+      }
+    }
+  }
+}

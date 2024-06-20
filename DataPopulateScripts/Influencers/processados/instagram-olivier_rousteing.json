@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 579,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "218549275",
+    "username": "olivier_rousteing",
+    "title": null,
+    "fullname": "Olivier Rousteing",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/218549275.jpg?w=150&till=1722470340&sign=559519bc1987d1d83621f9ef2b2b4e33",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 17.41,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10028101
+    },
+    "engagement_avg": {
+      "value": 156245
+    },
+    "authentic_engagement": {
+      "value": 102130
+    }
+  }
+}

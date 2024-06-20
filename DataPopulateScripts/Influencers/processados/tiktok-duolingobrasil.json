@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6891644457742369794",
+    "username": "duolingobrasil",
+    "fullname": "Duolingo Brasil \ud83c\udde7\ud83c\uddf7",
+    "description": "Ensino de idiomas gratuito para todo o mundo. \nDrive do #EditanLily \ud83d\udc47",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/f478a601bcd8ba2e88fd9edda23f2b1b~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2022-10-25",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4982668
+    },
+    "hs_value": {
+      "value": 1572.554198
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 10.65,
+          "mark": "very_good",
+          "mark_title": "VERY_GOOD",
+          "similar": 6.117799,
+          "similar_min": 5.299669,
+          "similar_max": 7.083806,
+          "value_prev": 8.62
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 328036
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 30573
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1123
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 445
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 18
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 90,
+        "prc_better": 99,
+        "mark": "excellent",
+        "mark_title": "EXCELLENT",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO_ABNORMALLY_HIGH",
+                "text": "Excellent comments to likes ratio, though comments count is abnormally high"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 371,
+  "_delta": null
+}

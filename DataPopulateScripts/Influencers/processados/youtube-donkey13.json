@@ -1,0 +1,92 @@
+{
+  "_number": 294,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UClnBetgiuE2rj4o58OhAWCQ",
+    "username": "donkey13",
+    "title": null,
+    "fullname": "DONKEY13",
+    "avatar_url": "https://yt3.googleusercontent.com/bNzyJdZ0yOG3BNsg-wGA9NLqqkiw4DN1UtEfb3fF2cTKa951juiZ9CSf2V40vc7AX33mc9_MDwI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.31,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.31,
+            "hs_value": 10.078985
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.93,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.55,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.11,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5331130
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 145
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5278
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5423
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 116825
+        }
+      }
+    }
+  }
+}

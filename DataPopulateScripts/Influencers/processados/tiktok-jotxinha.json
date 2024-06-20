@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6817846770715132933",
+    "username": "jotxinha",
+    "fullname": "O\u2002DESEMPREGADO \ud83d\udc8b",
+    "description": "Paran\u00f3ias e desabafos \ud83d\udc85\ud83c\udffb\n\ud83d\udce9 jotxinha@stagedigital.com.br\nInsta: @jotxiinha\nSE",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/50e54c9c8dd819fc9dd3c22f01ec81d7~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-06",
+    "report_data_updated": "2023-08-31",
+    "report_base_updated": "2024-06-06",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1258777
+    },
+    "hs_value": {
+      "value": 1949.855139
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 17.44,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.884671,
+          "similar_min": 5.056997,
+          "similar_max": 6.867958,
+          "value_prev": 18.43
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 184194
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 33268
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 474
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 2708
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 13
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 95,
+        "prc_better": 99,
+        "mark": "excellent",
+        "mark_title": "EXCELLENT",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_CL_RATIO",
+                "text": "Very good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 348,
+  "_delta": null
+}

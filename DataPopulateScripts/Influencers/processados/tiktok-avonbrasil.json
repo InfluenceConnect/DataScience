@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "252293240979406848",
+    "username": "avonbrasil",
+    "fullname": "Avon Brasil",
+    "description": "Esse \u00e9 o perfil oficial da Dona Avon no Tiktok, n\u00e3o aceitem fakes! \ud83d\udc81\u200d\u2640\ufe0f\u2728",
+    "tier": 146,
+    "is_public": true,
+    "is_verified": true,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/d8b9011d493ddfdb89b6f4abec73dc12~c5_720x720.jpeg",
+    "last_media_time": "2024-06-01",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-08-21",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 954767
+    },
+    "hs_value": {
+      "value": 161.492305
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 0.87,
+          "mark": "poor",
+          "mark_title": "LOW",
+          "similar": 5.898171,
+          "similar_min": 5.071336,
+          "similar_max": 6.883642,
+          "value_prev": 0.91
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 684039
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6707
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 41
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 311
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 16
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 40,
+        "mark": "average",
+        "mark_title": "AVERAGE",
+        "description": {
+          "er": {
+            "mark": "poor",
+            "description": {
+              "title": {
+                "key": "LOW_ER",
+                "text": "Audience engagement could be improved"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 863,
+  "_delta": null
+}

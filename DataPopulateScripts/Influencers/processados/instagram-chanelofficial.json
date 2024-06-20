@@ -1,0 +1,37 @@
+{
+  "_fh": null,
+  "_number": 696,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "695995017",
+    "username": "chanelofficial",
+    "title": null,
+    "fullname": "CHANEL",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/695995017.jpg?w=150&till=1722470340&sign=c1f2b246e58f9a07b1ce48a19ce68ffe",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 12.59,
+    "blogger_thematics": {
+      "data": [
+        1021,
+        1000,
+        1007,
+        1020
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 59945092
+    },
+    "engagement_avg": {
+      "value": 17854
+    },
+    "authentic_engagement": {
+      "value": 14230
+    }
+  }
+}

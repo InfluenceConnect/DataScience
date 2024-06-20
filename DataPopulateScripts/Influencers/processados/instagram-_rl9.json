@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 225,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "963986569",
+    "username": "_rl9",
+    "title": null,
+    "fullname": "Robert Lewandowski",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/963986569.jpg?w=150&till=1722470340&sign=411a1275fa665d23e0936694183aea5d",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "pl",
+    "audience_geo_country_1_prc": 15.64,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 35538822
+    },
+    "engagement_avg": {
+      "value": 202201
+    },
+    "authentic_engagement": {
+      "value": 162224
+    }
+  }
+}

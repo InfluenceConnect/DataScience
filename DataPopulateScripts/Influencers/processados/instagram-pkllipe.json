@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 748,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "25887867",
+    "username": "pkllipe",
+    "title": null,
+    "fullname": "Pk",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/25887867.jpg?w=150&till=1722470340&sign=b515b86592a5b2876d89413c099566a6",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 76.57,
+    "blogger_thematics": {
+      "data": [
+        1042,
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7168977
+    },
+    "engagement_avg": {
+      "value": 129223
+    },
+    "authentic_engagement": {
+      "value": 91707
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 79,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCF5WzS-iBJRfp_EcFI-GT1w",
+    "username": "ReceitasdePai",
+    "title": null,
+    "fullname": "Receitas de Pai",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l7Wf_gSYvGMQ8hsVMTb2VO6xrXqIqcH0ofJaMVldCivIPD=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.82,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.82,
+            "hs_value": 36.700602
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.44,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11843930
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 290
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9084
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 9374
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 176162
+        }
+      }
+    }
+  }
+}

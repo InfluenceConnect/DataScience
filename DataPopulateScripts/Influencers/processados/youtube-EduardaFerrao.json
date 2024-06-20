@@ -1,0 +1,91 @@
+{
+  "_number": 699,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC7_nnou08iYdhJDDb_Lhqhw",
+    "username": "EduardaFerrao",
+    "title": null,
+    "fullname": "Eduarda Ferr\u00e3o",
+    "avatar_url": "https://yt3.googleusercontent.com/slPJZI_RmdSfIHvxjWI7ehEGvux5FHL4kaWOzMWzkQSuGhVUYQZ0mPufEKcFq7Yrftv5v3xvCg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.21,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.21,
+            "hs_value": 0.220713
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 6.9,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2755163
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 65
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1490
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1555
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 27285
+        }
+      }
+    }
+  }
+}

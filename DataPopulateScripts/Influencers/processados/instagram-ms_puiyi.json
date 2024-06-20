@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 235,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "864686480",
+    "username": "ms_puiyi",
+    "title": null,
+    "fullname": "Siew Pui Yi \ud83e\udd0d",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/864686480.jpg?w=150&till=1722470340&sign=24a14f8792cb0470cac03ebfdcd35fc1",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 10.96,
+    "blogger_thematics": {
+      "data": [
+        1048
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26245738
+    },
+    "engagement_avg": {
+      "value": 257416
+    },
+    "authentic_engagement": {
+      "value": 161837
+    }
+  }
+}

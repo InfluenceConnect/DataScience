@@ -1,0 +1,89 @@
+{
+  "_number": 336,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCQWIZv-cqlC507ls2EmC6GA",
+    "username": "GigieDiego",
+    "title": null,
+    "fullname": "GIGI E DIEGO",
+    "avatar_url": "https://yt3.googleusercontent.com/yO7uISvH4Ipm4h3lX8uveHqjoZVqEHrqwcsc5Vhu0s3gB2fECkjXwUp2cvyZQE8NF2vOXJXdpw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.33,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.33,
+            "hs_value": 0.014767
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.67,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 1.11,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.11,
+            "hs_value": null
+          },
+          {
+            "id": "uy",
+            "code": null,
+            "prc": 0.56,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4751087
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 628
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 637
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 16103
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 572,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "2421050",
+    "username": "gucci",
+    "title": null,
+    "fullname": "GUCCI",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/2421050.jpg?w=150&till=1722470340&sign=32f64749b51c514a8207493fad0e17e9",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 14.93,
+    "blogger_thematics": {
+      "data": [
+        1000,
+        1007,
+        1021
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 52371159
+    },
+    "engagement_avg": {
+      "value": 30685
+    },
+    "authentic_engagement": {
+      "value": 24515
+    }
+  }
+}

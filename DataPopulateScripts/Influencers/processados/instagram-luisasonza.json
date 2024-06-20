@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 243,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "287914102",
+    "username": "luisasonza",
+    "title": null,
+    "fullname": "LU\u00cdSA SONZA",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/287914102.jpg?w=150&till=1722470340&sign=0fa09685791003a1cb3c7f5ce84f014e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.04,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 31729864
+    },
+    "engagement_avg": {
+      "value": 205348
+    },
+    "authentic_engagement": {
+      "value": 132068
+    }
+  }
+}

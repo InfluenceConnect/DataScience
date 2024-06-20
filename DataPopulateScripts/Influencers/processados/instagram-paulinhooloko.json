@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 360,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "4316958173",
+    "username": "paulinhooloko",
+    "title": null,
+    "fullname": "PAULINHO O LOKO",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/4316958173.jpg?w=150&till=1722470340&sign=27ce7ef27ac87b214218c8fabe1659f5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.8,
+    "blogger_thematics": {
+      "data": [
+        1017,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6059637
+    },
+    "engagement_avg": {
+      "value": 619280
+    },
+    "authentic_engagement": {
+      "value": 462974
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 173,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCV8vyJ4d_NFtfLBift3Uehg",
+    "username": "RitmodosFluxosByDetonaFunk",
+    "title": null,
+    "fullname": "Ritmo dos Fluxos By Detona Funk",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mvcET2Zbi7q74iI3SiGNmy44M-uSNFe4IMxaIx2pw1WNg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.05,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.05,
+            "hs_value": 0.006752
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.65,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          },
+          {
+            "id": "jm",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          },
+          {
+            "id": "my",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7381036
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 244
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 252
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 6210
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 797,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "240773322",
+    "username": "bianapolitano",
+    "title": null,
+    "fullname": "Bia Napolitano",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/240773322.jpg?w=150&till=1722470340&sign=a69fdc8f60b0d063e6b92ab676e494b3",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.75,
+    "blogger_thematics": {
+      "data": [
+        1042,
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4321048
+    },
+    "engagement_avg": {
+      "value": 190569
+    },
+    "authentic_engagement": {
+      "value": 124375
+    }
+  }
+}

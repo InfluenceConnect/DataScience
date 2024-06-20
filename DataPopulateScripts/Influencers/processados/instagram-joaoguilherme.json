@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 352,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "293454782",
+    "username": "joaoguilherme",
+    "title": null,
+    "fullname": "J\u0489",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/293454782.jpg?w=150&till=1722470340&sign=c341aa9bc20657e1262c59f3d2e7f180",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.88,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1032,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16948210
+    },
+    "engagement_avg": {
+      "value": 223886
+    },
+    "authentic_engagement": {
+      "value": 134004
+    }
+  }
+}

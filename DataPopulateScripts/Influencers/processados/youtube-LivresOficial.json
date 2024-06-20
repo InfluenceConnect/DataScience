@@ -1,0 +1,91 @@
+{
+  "_number": 782,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCyVOqV2i6pYRSKGwDmlTCdA",
+    "username": "LivresOficial",
+    "title": null,
+    "fullname": "Livres Oficial",
+    "avatar_url": "https://yt3.googleusercontent.com/j1jdxcbh0qRXv8z22sq0ZS6aB5oFVvs4DvUFmDCKMi-8r5zoQZSHUuAl88KV2fQm7PgdZ0QSzTA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.27,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.27,
+            "hs_value": 0.001
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2525079
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 5
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 99
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 104
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1010
+        }
+      }
+    }
+  }
+}

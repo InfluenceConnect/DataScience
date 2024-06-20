@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 769,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "5233657",
+    "username": "meghantrainor",
+    "title": null,
+    "fullname": "Meghan Trainor",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/5233657.jpg?w=150&till=1722470340&sign=57970b9c605936b9b6b5139de0fb4ad7",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 34.73,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 18259580
+    },
+    "engagement_avg": {
+      "value": 47742
+    },
+    "authentic_engagement": {
+      "value": 33774
+    }
+  }
+}

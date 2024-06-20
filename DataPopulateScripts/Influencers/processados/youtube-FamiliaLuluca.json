@@ -1,0 +1,92 @@
+{
+  "_number": 715,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCO9LPWL-UtupgPug7Ad6nSA",
+    "username": "FamiliaLuluca",
+    "title": null,
+    "fullname": "Fam\u00edlia Luluca",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nXFo0wyvYWCGkCf95TgWjHcJ4TgHLWOaFGLc0J1HjYq-Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.18,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.18,
+            "hs_value": 2.935989
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.68,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.47,
+            "hs_value": null
+          },
+          {
+            "id": "al",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2715419
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 148
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2048
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2196
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 88443
+        }
+      }
+    }
+  }
+}

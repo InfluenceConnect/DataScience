@@ -1,0 +1,91 @@
+{
+  "_number": 810,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC3AtknmeNbwTKY-efoh25wg",
+    "username": "fazendoemcasa",
+    "title": null,
+    "fullname": "Doing at Home - Recipes For You",
+    "avatar_url": "https://yt3.googleusercontent.com/NYHHII-MarbPCCn_XHoTd9S_EKZ4p3o1D0J8Vt6BtFKly-tjh9N-_lHwtriJPH1Zxasj7qiH=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.2,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.2,
+            "hs_value": 0.369825
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.17,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 1.45,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          },
+          {
+            "id": "gr",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2464419
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 132
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1506
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1638
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 15022
+        }
+      }
+    }
+  }
+}

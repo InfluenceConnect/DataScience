@@ -1,0 +1,91 @@
+{
+  "_number": 273,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCAaX9NjMCos_Qwz3n41eUgg",
+    "username": "andrerieu",
+    "title": null,
+    "fullname": "Andr\u00e9 Rieu",
+    "avatar_url": "https://yt3.googleusercontent.com/WON0-Y-iE_J-wkjIGSdZvCeSMhXGEQebj_M0GwlcH3lpYf411GQyeWIieAGaG5-tLA_NV1rr6w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 17.77,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 17.77,
+            "hs_value": 96.194622
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 15.96,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 5.42,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 4.67,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 4.52,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5551064
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 314
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6254
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6568
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 350096
+        }
+      }
+    }
+  }
+}

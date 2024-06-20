@@ -1,0 +1,89 @@
+{
+  "_number": 370,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCVM8Jz1fKsMxr6cyuuF4KUA",
+    "username": "limelchert",
+    "title": null,
+    "fullname": "Lilian Melchert",
+    "avatar_url": "https://yt3.googleusercontent.com/8cS02gWQmz50cgupCaPlgWI2ZH4JGFL34_3Qzf0JCHA42kpmH6BO5iBbCuB8IdV6apa96KhH=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.4,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.4,
+            "hs_value": 0.966088
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.39,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4454986
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 121
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2907
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3028
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 17522
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 242,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCoIrFSMG4kt0hNF6KBgga0w",
+    "username": "DinahMoraesoficial",
+    "title": null,
+    "fullname": "Dinah Moraes",
+    "avatar_url": "https://yt3.googleusercontent.com/zMBEF141WxJoP_sVtJLtF1M3kJrbcqI1UJnFqcCK6MDomsNFpLBYxY5pdENcOnC9usoRvf5NIOY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.29,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.29,
+            "hs_value": 0.088962
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.86,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6041125
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 37
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1225
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1262
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 14177
+        }
+      }
+    }
+  }
+}

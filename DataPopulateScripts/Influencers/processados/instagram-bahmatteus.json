@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 801,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1191867743",
+    "username": "bahmatteus",
+    "title": null,
+    "fullname": "MATTEUS AMARAL",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1191867743.jpg?w=150&till=1722470340&sign=c77cd2fced1b531ca42ad532985dc7c7",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 77.36,
+    "blogger_thematics": {
+      "data": [
+        1015
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5365959
+    },
+    "engagement_avg": {
+      "value": 158632
+    },
+    "authentic_engagement": {
+      "value": 114166
+    }
+  }
+}

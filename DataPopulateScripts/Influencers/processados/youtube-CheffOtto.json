@@ -1,0 +1,91 @@
+{
+  "_number": 211,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCJfc2mKSqVmlXTR3wBTwTrg",
+    "username": "CheffOtto",
+    "title": null,
+    "fullname": "CheffOtto",
+    "avatar_url": "https://yt3.googleusercontent.com/emBHCAGaoxwfxrnXKcJDhMvLBJ3gr0w49XR6QoKoUEVpqMx2W9ypUEkYdD2RGL1LnsSXd3QYWTY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.81,
+            "hs_value": 17284.560715
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.36,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.13,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          },
+          {
+            "id": "bd",
+            "code": null,
+            "prc": 0.11,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6590928
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1820
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 115563
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 117383
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1103774
+        }
+      }
+    }
+  }
+}

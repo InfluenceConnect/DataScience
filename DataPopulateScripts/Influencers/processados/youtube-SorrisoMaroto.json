@@ -1,0 +1,92 @@
+{
+  "_number": 371,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UClqmzNx7-xd-5_MzdSotYKw",
+    "username": "SorrisoMaroto",
+    "title": null,
+    "fullname": "Sorriso Maroto",
+    "avatar_url": "https://yt3.googleusercontent.com/vkcJfWI-9UdVyrSRCroGiQmKYqfviK5OEdV_xMW5oI9pp-2tDPyHNUzZjTfd_2akp_iFKWPN-Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.76,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.76,
+            "hs_value": 0.044399
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "uy",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4411281
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 27
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1337
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1364
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 11848
+        }
+      }
+    }
+  }
+}

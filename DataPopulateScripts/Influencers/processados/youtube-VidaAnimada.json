@@ -1,0 +1,92 @@
+{
+  "_number": 862,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCClUygTGVcMR6qQRdlJYA0w",
+    "username": "VidaAnimada",
+    "title": null,
+    "fullname": "Vida Animada",
+    "avatar_url": "https://yt3.googleusercontent.com/lRZQzhJQBSncP5f3M2rtEzmMs6CnoATAkdDOe-W-j8Z7kWWbIzUj5DuVaGoS_CglQNZeg596wQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.71,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.71,
+            "hs_value": 111.009377
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.95,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2345398
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 93
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 12249
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 12342
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 97059.5
+        }
+      }
+    }
+  }
+}

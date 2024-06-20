@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6956631043920233477",
+    "username": "_mingua",
+    "fullname": "Rhaldney Guilherme",
+    "description": "Curiosidades, Hist\u00f3rias e Besteiras.",
+    "tier": 145,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/7317300757936963590~c5_720x720.jpeg",
+    "last_media_time": "2024-05-29",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-03",
+    "report_data_updated": "2023-05-16",
+    "report_base_updated": "2024-05-31",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 722985
+    },
+    "hs_value": {
+      "value": 172.117377
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 17.57,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.881748,
+          "similar_min": 5.05473,
+          "similar_max": 6.875318,
+          "value_prev": 17.93
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 108117
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 18173
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 198
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 678
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 18
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 89,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_CL_RATIO",
+                "text": "Very good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 839,
+  "_delta": null
+}

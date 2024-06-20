@@ -1,0 +1,91 @@
+{
+  "_number": 34,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwxPVHGzxCMWDieEHYgVWsw",
+    "username": "JuAraujo",
+    "title": null,
+    "fullname": "Ju Ara\u00fajo",
+    "avatar_url": "https://yt3.googleusercontent.com/wYUYgQHZ-hpVgxvlCVj5tbmWsFNY7yHFRG7NlXG6k9ZNzboiCSzBfxSFZedTfPDTBgW8QSwS=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.14,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.14,
+            "hs_value": 0.020143
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "py",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "bd",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15710988
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 11
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 636
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 647
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 17032.5
+        }
+      }
+    }
+  }
+}

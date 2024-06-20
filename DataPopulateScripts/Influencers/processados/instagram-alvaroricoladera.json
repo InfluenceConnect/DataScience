@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 933,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "2327893197",
+    "username": "alvaroricoladera",
+    "title": null,
+    "fullname": "A\u0301lvaro Rico",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/2327893197.jpg?w=150&till=1722470340&sign=428e85063ac033ecd7f4d0c057469a36",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "mx",
+    "audience_geo_country_1_prc": 13.61,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5297004
+    },
+    "engagement_avg": {
+      "value": 109979
+    },
+    "authentic_engagement": {
+      "value": 65876
+    }
+  }
+}

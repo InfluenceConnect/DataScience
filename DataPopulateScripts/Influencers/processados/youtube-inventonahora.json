@@ -1,0 +1,92 @@
+{
+  "_number": 45,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCR3vcUrhFUdzagng58ueI2w",
+    "username": "inventonahora",
+    "title": null,
+    "fullname": "Invento na Hora",
+    "avatar_url": "https://yt3.googleusercontent.com/PX4_fMrAQW6tpnUkxNhEdWWV733_v1d-nKM03nWrGNmh7hb2RTNYDLNKd4FwhqjFuocq_K61xg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.79,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.79,
+            "hs_value": 835.999123
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.6,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.15,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14241361
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 437
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 37322
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 37759
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 407255.5
+        }
+      }
+    }
+  }
+}

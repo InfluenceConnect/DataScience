@@ -1,0 +1,92 @@
+{
+  "_number": 813,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCVse66mti9GN2SWF2eh_SCg",
+    "username": "FREITASZ",
+    "title": null,
+    "fullname": "FREITAS",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_knx5WsYetdy3arCn-9tnMwRbUsMPX2qWFMljO4iIkJFME=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.21,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.21,
+            "hs_value": 3123.22214
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.91,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2460866
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 779
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 32912
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 33691
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 398292
+        }
+      }
+    }
+  }
+}

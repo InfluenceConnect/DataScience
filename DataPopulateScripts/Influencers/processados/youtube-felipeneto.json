@@ -1,0 +1,89 @@
+{
+  "_number": 2,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCV306eHqgo0LvBf3Mh36AHg",
+    "username": "felipeneto",
+    "title": null,
+    "fullname": "Felipe Neto",
+    "avatar_url": "https://yt3.googleusercontent.com/6ZD9tnqPePlBfwJR9ffYrHYdqO7VR9jpuo12lNBzE2B3vlZDBkFe982b1rqWewIkHNAunmMOULQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.53,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.53,
+            "hs_value": 6988.859497
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.87,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.71,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 46355164
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1100
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 68791
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 69891
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 719971
+        }
+      }
+    }
+  }
+}

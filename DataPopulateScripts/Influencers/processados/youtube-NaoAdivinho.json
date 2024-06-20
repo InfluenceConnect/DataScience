@@ -1,0 +1,91 @@
+{
+  "_number": 600,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCtjGoeeemrRzYxUAGSXQb7g",
+    "username": "NaoAdivinho",
+    "title": null,
+    "fullname": "N\u00e3o Adivinho ",
+    "avatar_url": "https://yt3.googleusercontent.com/ZNEcSyMVDasUo5fsKvM0rVboKcoD0-26NFZKW5YIlbGC7k_zMo7nuUPMrPM0-VtOPS-mmZWuGXU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.26,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.26,
+            "hs_value": 16.427334
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.31,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.75,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3104384
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 362
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6160
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6522
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 56936
+        }
+      }
+    }
+  }
+}

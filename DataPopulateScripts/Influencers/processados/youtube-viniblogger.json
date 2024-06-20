@@ -1,0 +1,71 @@
+{
+  "_number": 918,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCzf-Q3sL6Jt-Qqy7-i3Eqxw",
+    "username": "viniblogger",
+    "title": null,
+    "fullname": "Viniblogger",
+    "avatar_url": "https://yt3.googleusercontent.com/AnAEMDJA_7j0zY3VUU9Ry_fFcWLObWRjMp-PgHrzgAONhwVq4_3omxqO4UwvWTn8vuLRPcALkAk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.44,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.44,
+            "hs_value": 21874.958129
+          },
+          {
+            "id": "fj",
+            "code": null,
+            "prc": 2.56,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2250705
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 613
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 285928
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 286541
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2127838
+        }
+      }
+    }
+  }
+}

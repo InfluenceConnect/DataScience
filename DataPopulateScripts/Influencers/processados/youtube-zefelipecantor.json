@@ -1,0 +1,91 @@
+{
+  "_number": 127,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCe1HjlqnaxERsqpw0ZnLXvA",
+    "username": "zefelipecantor",
+    "title": null,
+    "fullname": "Z\u00e9 Felipe",
+    "avatar_url": "https://yt3.googleusercontent.com/Kp7-o6bPmWcums7Rj48AFKozqCaNqhdocZoBqS945hQ45UAjVvDJyaPaat6Pll-zp1w7AVt0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.84,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.84,
+            "hs_value": 0.138938
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9075368
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 25
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1282
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1307
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 14073
+        }
+      }
+    }
+  }
+}

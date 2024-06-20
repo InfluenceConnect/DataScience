@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6801244908717982725",
+    "username": "juliapuzzuoli",
+    "fullname": "Julia Puzzuoli",
+    "description": "OIEE SEJA BEM VINDO \ud83c\udde7\ud83c\uddf7\u2764\ufe0f\n\njuliapuzzuoli@brasileradigital.com.br",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/9a1667dad46f11c8fb801980edb0c7cf~c5_720x720.jpeg",
+    "last_media_time": "2024-06-05",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2023-08-04",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13801290
+    },
+    "hs_value": {
+      "value": 915.677503
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 10.51,
+          "mark": "very_good",
+          "mark_title": "VERY_GOOD",
+          "similar": 6.117799,
+          "similar_min": 5.299669,
+          "similar_max": 7.083806,
+          "value_prev": 10.57
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 449455
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 41493
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 78
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 413
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 12
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 59,
+        "prc_better": 67,
+        "mark": "average",
+        "mark_title": "AVERAGE",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "LOW_GROWTH_SUBSCRIBERS_DECLINE",
+                "text": "Followers number decline"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 461,
+  "_delta": null
+}

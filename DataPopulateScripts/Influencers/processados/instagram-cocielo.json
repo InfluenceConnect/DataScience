@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 158,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "397233241",
+    "username": "cocielo",
+    "title": null,
+    "fullname": "Ju\u0301lio Cocielo Estaniecki",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/397233241.jpg?w=150&till=1722470340&sign=cd36c9fa049674073e7bd56ff5998d01",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.33,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 23892006
+    },
+    "engagement_avg": {
+      "value": 522209
+    },
+    "authentic_engagement": {
+      "value": 382278
+    }
+  }
+}

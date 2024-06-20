@@ -1,0 +1,92 @@
+{
+  "_number": 771,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCmabTeuD7Z0LHVwZXoUb2JA",
+    "username": "DrGabrielAzzini1",
+    "title": null,
+    "fullname": "Dr. Gabriel Azzini",
+    "avatar_url": "https://yt3.googleusercontent.com/LKgnwdawgN-hZRPN1nHuZdvHqzh9coNjsfUfMCTmsXq00xBXFp0VDrY6U0iM_4Fn2rTJSptXEA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.88,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.88,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.86,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.62,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 1.16,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.7,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14,
+        21
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2555180
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 284
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 292
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2121
+        }
+      }
+    }
+  }
+}

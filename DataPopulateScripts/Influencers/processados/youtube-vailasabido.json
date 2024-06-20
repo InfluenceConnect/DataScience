@@ -1,0 +1,92 @@
+{
+  "_number": 788,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCDAlod8Yjrpg5y0MRMUUFJg",
+    "username": "vailasabido",
+    "title": null,
+    "fullname": "Vai L\u00e1 Sabido",
+    "avatar_url": "https://yt3.googleusercontent.com/2AI4-yR3S-IkQ9BruZEpNAW7vciS3WqFcR4IKCXqMhqfR6ZG-ZW6ZerzQpyuPHW5MzEFUj7GuQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.44,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.44,
+            "hs_value": 0.008711
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.64,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2515087
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 913
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 922
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 6982
+        }
+      }
+    }
+  }
+}

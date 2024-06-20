@@ -1,0 +1,92 @@
+{
+  "_number": 691,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCkTelZOF0v7VOuTrt0JVWGA",
+    "username": "tejota-gamer",
+    "title": null,
+    "fullname": "Tj Gamer",
+    "avatar_url": "https://yt3.googleusercontent.com/mCL83KfuCB77JJQ_Hbvwe3YMsllUhlbmRhNE6VAmTrJnThspdCcJuM5mbc64ay2Y_U-GZyBiQrw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.29,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.29,
+            "hs_value": 0.002446
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.45,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.37,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          },
+          {
+            "id": "bw",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2765539
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 294
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 295
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2644
+        }
+      }
+    }
+  }
+}

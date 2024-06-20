@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 939,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "18255663995",
+    "username": "malupaiixao",
+    "title": null,
+    "fullname": "Malu \ud83d\ude47\ud83c\udffb\u200d\u2640\ufe0f",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/18255663995.jpg?w=150&till=1722470340&sign=9b60d6c18f484b41ae16160a97a1ba67",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.72,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1473413
+    },
+    "engagement_avg": {
+      "value": 393634
+    },
+    "authentic_engagement": {
+      "value": 303534
+    }
+  }
+}

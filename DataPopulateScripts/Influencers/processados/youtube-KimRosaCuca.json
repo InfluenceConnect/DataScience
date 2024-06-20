@@ -1,0 +1,89 @@
+{
+  "_number": 153,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCMc-r8lDh-bbN_bhVz8ySEg",
+    "username": "KimRosaCuca",
+    "title": null,
+    "fullname": "Kim RosaCuca",
+    "avatar_url": "https://yt3.googleusercontent.com/jq0HdbSg291gsznuoOEKhvFxQLkncRTI9RvQh17cKxjob0pZqHQjZfjr1kcPqTMihL2hmNQZIQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.07,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.07,
+            "hs_value": 0.013964
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.02,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7875245
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 49
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 559
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 608
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5104
+        }
+      }
+    }
+  }
+}

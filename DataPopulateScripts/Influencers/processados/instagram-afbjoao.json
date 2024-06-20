@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 880,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "239345282",
+    "username": "afbjoao",
+    "title": null,
+    "fullname": "\ud83d\udc51",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/239345282.jpg?w=150&till=1722470340&sign=ed3b17d0a9effbf15d542bcac8c0152b",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 74.4,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1127705
+    },
+    "engagement_avg": {
+      "value": 599438
+    },
+    "authentic_engagement": {
+      "value": 250831
+    }
+  }
+}

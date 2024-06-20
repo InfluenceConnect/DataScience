@@ -1,0 +1,91 @@
+{
+  "_number": 784,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCiLb0XHjvUs7t1LUFMXpifQ",
+    "username": "japaonossodecadadia",
+    "title": null,
+    "fullname": "Jap\u00e3o Nosso De Cada Dia",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m9o_VscMx_79Isaac186mzxQgHCPuKmKgvyTkiZCVObaQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.78,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.78,
+            "hs_value": 2.278057
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 3.07,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.98,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.7,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2524958
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 66
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3408
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3474
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 30742
+        }
+      }
+    }
+  }
+}

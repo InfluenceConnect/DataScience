@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6670861292326928385",
+    "username": "weenatikuna",
+    "fullname": "We'e'ena TIKUNA",
+    "description": "Me segue \ud83d\udc46para conhecer mais sobre n\u00f3s ind\u00edgenas",
+    "tier": 145,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/9711e1cbecb2cbe308304438c25fa1c8~c5_720x720.jpeg",
+    "last_media_time": "2024-05-30",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2024-06-01",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 609028
+    },
+    "hs_value": {
+      "value": 105.901026
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 9.46,
+          "mark": "very_good",
+          "mark_title": "VERY_GOOD",
+          "similar": 5.881748,
+          "similar_min": 5.05473,
+          "similar_max": 6.875318,
+          "value_prev": 8.28
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 130485
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 11179
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 199
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 527
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 88,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_ER",
+                "text": "Good audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO",
+                "text": "Excellent comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 979,
+  "_delta": null
+}

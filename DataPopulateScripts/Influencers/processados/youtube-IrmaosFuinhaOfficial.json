@@ -1,0 +1,89 @@
+{
+  "_number": 996,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCWO367uvnCB49gyvuJzn97Q",
+    "username": "IrmaosFuinhaOfficial",
+    "title": null,
+    "fullname": "Fuinha",
+    "avatar_url": "https://yt3.googleusercontent.com/9pZ4o3dSIodC8dyOsi7V-eQgbL_j-sLqtbX6svd777n3Qu4mT-P3WGxKjiqz3AnztMLzplLUWw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.96,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.96,
+            "hs_value": 0.011373
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.15,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.92,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2114875
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 19
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 723
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 742
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8279
+        }
+      }
+    }
+  }
+}

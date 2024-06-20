@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 629,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "5759349317",
+    "username": "menotody_",
+    "title": null,
+    "fullname": "Meno Tody \ud83c\udde7\ud83c\uddf7\ud83e\ude78",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/5759349317.jpg?w=150&till=1722470340&sign=8af1acfae58fe1f3f741f4138509841e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.88,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3084033
+    },
+    "engagement_avg": {
+      "value": 448784
+    },
+    "authentic_engagement": {
+      "value": 328292
+    }
+  }
+}

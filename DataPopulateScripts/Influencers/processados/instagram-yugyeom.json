@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 416,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1174724232",
+    "username": "yugyeom",
+    "title": null,
+    "fullname": "KYUM",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1174724232.jpg?w=150&till=1722470340&sign=1e460c019d4adb52112705aac6ab3064",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "th",
+    "audience_geo_country_1_prc": 23.94,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1002,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12373222
+    },
+    "engagement_avg": {
+      "value": 230124
+    },
+    "authentic_engagement": {
+      "value": 194716
+    }
+  }
+}

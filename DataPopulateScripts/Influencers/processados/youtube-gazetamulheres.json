@@ -1,0 +1,91 @@
+{
+  "_number": 657,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCDtVoSwSwQgwhcC89Nlz5Vg",
+    "username": "gazetamulheres",
+    "title": null,
+    "fullname": "Mulheres",
+    "avatar_url": "https://yt3.googleusercontent.com/tyTRgYAiRpi1NJc6QNIJ5ojD5P4H8P8z1BejaE-vmLU9pKgEr65MxdbjeuxhJomQHW-8lT2eiA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 89.89,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 89.89,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 4.49,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 2.25,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 1.12,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 1.12,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2874728
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 178
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 182
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 3005
+        }
+      }
+    }
+  }
+}

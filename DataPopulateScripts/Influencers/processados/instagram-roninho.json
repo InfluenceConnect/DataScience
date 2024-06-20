@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 767,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "315205274",
+    "username": "roninho",
+    "title": null,
+    "fullname": "Roninho",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/315205274.jpg?w=150&till=1722470340&sign=85faa1b46a9d911ea121fbb729a4a792",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.09,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5231891
+    },
+    "engagement_avg": {
+      "value": 173802
+    },
+    "authentic_engagement": {
+      "value": 96186
+    }
+  }
+}

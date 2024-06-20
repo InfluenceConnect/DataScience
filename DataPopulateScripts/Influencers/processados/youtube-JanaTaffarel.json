@@ -1,0 +1,89 @@
+{
+  "_number": 278,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCO-9Uf_aIFZ2mJF4ws8wOgQ",
+    "username": "JanaTaffarel",
+    "title": null,
+    "fullname": "Jana Taffarel",
+    "avatar_url": "https://yt3.googleusercontent.com/PEdWxONxEMaNZR6D4BrWtgIHfVtoqnMDh4AxacOtjt_2uKMilk1f1IBF6JnJiutYTDMCGUl9=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.95,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.95,
+            "hs_value": 0.409375
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.93,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5495121
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 41
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1900
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1941
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 20765
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 4,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC3KQ5GWANYF8lChqjZpXsQw",
+    "username": "whindersson",
+    "title": null,
+    "fullname": "whinderssonnunes",
+    "avatar_url": "https://yt3.googleusercontent.com/TykfQRvsFi3EgRkfsSDFUqbRWAE0MOd9tYu4ySoiHcQhPs4sUYQ0X-nk-2G41Ez-9MWDz59k=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.42,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.42,
+            "hs_value": 45.583505
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.46,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.97,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 44752657
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 52
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7725
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7777
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 64879
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 775,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "890887639",
+    "username": "marigonzalez",
+    "title": null,
+    "fullname": "Mari Gonzalez",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/890887639.jpg?w=150&till=1722470340&sign=74feb03a3fd25cb9cedc2c790e7eb370",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.08,
+    "blogger_thematics": {
+      "data": [
+        1039
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10034745
+    },
+    "engagement_avg": {
+      "value": 85782
+    },
+    "authentic_engagement": {
+      "value": 53489
+    }
+  }
+}

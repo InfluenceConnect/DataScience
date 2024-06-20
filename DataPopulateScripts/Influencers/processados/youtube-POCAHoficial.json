@@ -1,0 +1,91 @@
+{
+  "_number": 700,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCyn5v8rTOP85lT8VwKyj6RA",
+    "username": "POCAHoficial",
+    "title": null,
+    "fullname": "POCAH",
+    "avatar_url": "https://yt3.googleusercontent.com/3o1kpglC5GS438XaazShwtU2bwYG36dt4yfqItYZGXJjgCvtWsoVZWOJzrFH_fyWUcVsJQws=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.22,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.22,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.87,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.36,
+            "hs_value": null
+          },
+          {
+            "id": "py",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2754912
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 126
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 130
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1416
+        }
+      }
+    }
+  }
+}

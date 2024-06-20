@@ -1,0 +1,91 @@
+{
+  "_number": 912,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UClGt31UbcgINSaH1ZHuFLxA",
+    "username": "HugoeGuilhermeOficial",
+    "title": null,
+    "fullname": "Hugo e Guilherme",
+    "avatar_url": "https://yt3.googleusercontent.com/--ittaoXQQNw-pdxDTfDsIr6PxVTRua9OeUGkLrfI8NYpfcH-3JA7YjD1Cf8ZhiTclxtToV38ZI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.3,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.3,
+            "hs_value": 0.007486
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2264860
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 15
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 518
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 533
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5465
+        }
+      }
+    }
+  }
+}

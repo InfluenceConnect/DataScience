@@ -1,0 +1,91 @@
+{
+  "_number": 304,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCFk6v5VFTO8vUUK8og2eotg",
+    "username": "ninabaiocchi",
+    "title": null,
+    "fullname": "Nina Baiocchi",
+    "avatar_url": "https://yt3.googleusercontent.com/IHChn-HWhhPx58q-lZr-RgupBIm9jay5aRvBWeN_122S64SzuAwhU6TtaTSIyaw2H9eKy8a8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.49,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.49,
+            "hs_value": 2439.681915
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.83,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.92,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        5
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5201660
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 216
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 25743
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 25959
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 201707.5
+        }
+      }
+    }
+  }
+}

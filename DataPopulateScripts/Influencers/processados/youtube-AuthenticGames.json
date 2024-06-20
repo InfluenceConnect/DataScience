@@ -1,0 +1,92 @@
+{
+  "_number": 20,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCIPA6iWNaoetaa1T46RkzXw",
+    "username": "AuthenticGames",
+    "title": null,
+    "fullname": "AuthenticGames",
+    "avatar_url": "https://yt3.googleusercontent.com/AFXkHr6exjVdAgyv3gOfg7tmICAjyEHgcdakU8aUkTTtB1Yjau8X36kx04ragAaNV4rrdjGvlA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.45,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.45,
+            "hs_value": 29.543758
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.46,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.11,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 20148749
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1100
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 13169
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 14269
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 91601
+        }
+      }
+    }
+  }
+}

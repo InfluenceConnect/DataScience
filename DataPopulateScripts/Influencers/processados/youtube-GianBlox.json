@@ -1,0 +1,89 @@
+{
+  "_number": 896,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC3YZtP2W5-JH0j66-dYKuYg",
+    "username": "GianBlox",
+    "title": null,
+    "fullname": "GianBlox",
+    "avatar_url": "https://yt3.googleusercontent.com/WFFpga2ueOnC-wxQdodrk_gV68qsANhUUwiHpaZKdNKWTKIRjdHPdPRKzg1sm5zuLzNqP4yZ6g=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.77,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.77,
+            "hs_value": 0.006958
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.43,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.13,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2285293
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 34
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 229
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 263
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4201
+        }
+      }
+    }
+  }
+}

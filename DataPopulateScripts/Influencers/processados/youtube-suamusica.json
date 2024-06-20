@@ -1,0 +1,92 @@
+{
+  "_number": 995,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCWh6Rqp-mO38iPJbAVNflvQ",
+    "username": "suamusica",
+    "title": null,
+    "fullname": "Sua M\u00fasica",
+    "avatar_url": "https://yt3.googleusercontent.com/jWc_QeFBZpXzJHA0lkUtviTsR6Y1_O4lVPhK2jlVLuiKMwo_KVdZT4lGFMgmOtrleHLpsO-HJQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.99,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.99,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.56,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "ch",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2114875
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 57
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 57
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1000
+        }
+      }
+    }
+  }
+}

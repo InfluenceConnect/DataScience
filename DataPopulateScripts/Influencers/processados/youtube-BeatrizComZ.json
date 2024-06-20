@@ -1,0 +1,92 @@
+{
+  "_number": 723,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC0_8slT66mMMIkb4eKTxuBg",
+    "username": "BeatrizComZ",
+    "title": null,
+    "fullname": "Beatriz Com Z ",
+    "avatar_url": "https://yt3.googleusercontent.com/LQlBxASAXf4qvyJFTzs0zZ-5uawNYle2R19HhIPSb4bxRWl4wI_UgSu2LEGqTP8L59T02P_8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 86.4,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 86.4,
+            "hs_value": 54.460168
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 10,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.9,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2680023
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 275
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 10322
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 10597
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 319100
+        }
+      }
+    }
+  }
+}

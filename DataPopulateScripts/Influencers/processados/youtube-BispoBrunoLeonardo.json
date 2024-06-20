@@ -1,0 +1,91 @@
+{
+  "_number": 14,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCVNouUw3d3l5JYVCxhAQXKA",
+    "username": "BispoBrunoLeonardo",
+    "title": null,
+    "fullname": "Bispo Bruno Leonardo",
+    "avatar_url": "https://yt3.googleusercontent.com/ff5T2Cfur5GSYgfSVVzA-Jlt9KhmBMeRqurC04DtI5X9ZBzBW1VzkJ54NeBj8fuSBcTAuS5j=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.3,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.3,
+            "hs_value": 28498654.065285
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.48,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.74,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.74,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.74,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 22016890
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 398500
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 517706
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 916206
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1466357
+        }
+      }
+    }
+  }
+}

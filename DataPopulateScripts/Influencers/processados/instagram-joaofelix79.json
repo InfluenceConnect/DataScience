@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 246,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "782022358",
+    "username": "joaofelix79",
+    "title": null,
+    "fullname": "Joa\u0303o Fe\u0301lix",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/782022358.jpg?w=150&till=1722470340&sign=d2da7c6cba51632c519d3bb52d0a2e90",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "pt",
+    "audience_geo_country_1_prc": 17.26,
+    "blogger_thematics": {
+      "data": [
+        1013,
+        1015
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12360212
+    },
+    "engagement_avg": {
+      "value": 515112
+    },
+    "authentic_engagement": {
+      "value": 371866
+    }
+  }
+}

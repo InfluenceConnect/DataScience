@@ -1,0 +1,91 @@
+{
+  "_number": 291,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCyWWjIBWGl8hg1EfYysCgKQ",
+    "username": "familiaerlaniaevalentinapontes",
+    "title": null,
+    "fullname": "Fam\u00edlia Erlania e Valentina Pontes",
+    "avatar_url": "https://yt3.googleusercontent.com/z_ScFz1A9cTlufTLz76Vgy16wFsWM93oNY7RPdPZqArUo097eHayRjRorDEbeBurB8f_jFNl4Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.26,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.26,
+            "hs_value": 0.009206
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.87,
+            "hs_value": null
+          },
+          {
+            "id": "ai",
+            "code": null,
+            "prc": 0.75,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.75,
+            "hs_value": null
+          },
+          {
+            "id": "se",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5374957
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 248
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 250
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5113
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 721,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCOUqW2QqiOFK9fXA5cAOENA",
+    "username": "CanaldoPericao",
+    "title": null,
+    "fullname": "Canal do Peric\u00e3o",
+    "avatar_url": "https://yt3.googleusercontent.com/dRHOvjXqmjHtPu5xtoe11em2LFI-2II62PzxvZuJWhZSz9JQAftBFCerklO82ZXoU_P5aFLADw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.19,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.19,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.83,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2685295
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 5
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 213
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 218
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1668
+        }
+      }
+    }
+  }
+}

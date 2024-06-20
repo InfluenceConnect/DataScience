@@ -1,0 +1,92 @@
+{
+  "_number": 881,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCUfoZwtE_cT4rcWpPGPt0YA",
+    "username": "NicolasGermano",
+    "title": null,
+    "fullname": "Nicolas Germano",
+    "avatar_url": "https://yt3.googleusercontent.com/ui8C27b32ob_p2L9tBD8y3S99CmMUzeBdD_QVthvAcEfrxOVbwC0lIAvIuaVvqJ4pvDQTXF-=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.28,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.28,
+            "hs_value": 0.36049
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.7,
+            "hs_value": null
+          },
+          {
+            "id": "pr",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "cl",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2314856
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 386
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 394
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 9467.5
+        }
+      }
+    }
+  }
+}

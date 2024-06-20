@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6860946009335137285",
+    "username": "samarajoffe_",
+    "fullname": "joffe!i",
+    "description": "\ud83c\udf1e\n\nig: samarajoffe",
+    "tier": 114,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/fa8e59d1526b36b835526fc1bbbddb4a~c5_720x720.jpeg",
+    "last_media_time": "2024-05-28",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2023-06-08",
+    "report_base_updated": "2024-06-04",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 18934
+    },
+    "hs_value": {
+      "value": 4567.59122
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 24.25,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 7.294936,
+          "similar_min": 6.230066,
+          "similar_max": 8.501047,
+          "value_prev": 18.79
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 285356
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 55348
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 307
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 2585
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 89,
+        "prc_better": 89,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 240,
+  "_delta": null
+}

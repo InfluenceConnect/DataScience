@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 387,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "4543594905",
+    "username": "turkuazkitchen",
+    "title": null,
+    "fullname": "Betul Tunc",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/4543594905.jpg?w=150&till=1722470340&sign=2aa54882d3a4d18ec72fdc06064640d2",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 15.22,
+    "blogger_thematics": {
+      "data": [
+        1019
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10442559
+    },
+    "engagement_avg": {
+      "value": 316750
+    },
+    "authentic_engagement": {
+      "value": 249140
+    }
+  }
+}

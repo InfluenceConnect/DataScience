@@ -1,0 +1,92 @@
+{
+  "_number": 421,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCu0vroGSTLJZNT1vnW10CFA",
+    "username": "JonatanSantosYT",
+    "title": null,
+    "fullname": "Jonatan Santos",
+    "avatar_url": "https://yt3.googleusercontent.com/Gyl_muUcf6U7SwYSlT-LeIim9tXf3NPV_JV2KyXzZKmb59BpS4YF1oGQYPJbzBi9ZebQe_vXaw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.88,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.88,
+            "hs_value": 1.248789
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.28,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "cn",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3990844
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 90
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2085
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2175
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 39082
+        }
+      }
+    }
+  }
+}

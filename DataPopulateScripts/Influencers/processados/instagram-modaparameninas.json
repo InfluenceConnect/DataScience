@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 742,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "210513425",
+    "username": "modaparameninas",
+    "title": null,
+    "fullname": "Moda Para Meninas - FASHION",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/210513425.jpg?w=150&till=1722470340&sign=164c6007744d42420d89a3e3cdac7c34",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 75.95,
+    "blogger_thematics": {
+      "data": [
+        1021
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8910832
+    },
+    "engagement_avg": {
+      "value": 105968
+    },
+    "authentic_engagement": {
+      "value": 53820
+    }
+  }
+}

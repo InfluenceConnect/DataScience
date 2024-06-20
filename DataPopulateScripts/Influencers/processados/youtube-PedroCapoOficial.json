@@ -1,0 +1,91 @@
+{
+  "_number": 184,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC6goaPmi9oiGf3IVrVb6AmQ",
+    "username": "PedroCapoOficial",
+    "title": null,
+    "fullname": "Pedro Cap\u00f3",
+    "avatar_url": "https://yt3.googleusercontent.com/0z2Gb2dtFGLp-UeVFs4CzCLsqKTjs54PN9F9AkNnWWHdxxHb9J9zAAs-vfIRkuamqVk2ocHEUw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 11.89,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 11.89,
+            "hs_value": 0.005015
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 11.56,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 11.4,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 10.59,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 7,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7164901
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 14
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 345
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 359
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5169
+        }
+      }
+    }
+  }
+}

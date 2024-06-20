@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 330,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "462752227",
+    "username": "porsche",
+    "title": null,
+    "fullname": "Porsche",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/462752227.jpg?w=150&till=1722470340&sign=b69a81a4b3871aa570d5c65bd798afff",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 16.73,
+    "blogger_thematics": {
+      "data": [
+        1018
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 31296327
+    },
+    "engagement_avg": {
+      "value": 134526
+    },
+    "authentic_engagement": {
+      "value": 112584
+    }
+  }
+}

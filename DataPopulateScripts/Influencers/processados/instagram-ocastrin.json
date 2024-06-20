@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 812,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "8560664726",
+    "username": "ocastrin",
+    "title": null,
+    "fullname": "oCastrin",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/8560664726.jpg?w=150&till=1722470340&sign=363af30b9a2240a7c3fc39c9230e627b",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 76.53,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3007131
+    },
+    "engagement_avg": {
+      "value": 260291
+    },
+    "authentic_engagement": {
+      "value": 194389
+    }
+  }
+}

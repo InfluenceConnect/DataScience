@@ -1,0 +1,91 @@
+{
+  "_number": 891,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCIpylxq_JDl2YpvTpN11p9Q",
+    "username": "FLAZOEIRO",
+    "title": null,
+    "fullname": "FLAZOEIRO",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lDWcjkl5CRXbZr7C0UX0_LMnvHWP-vcbKvJ-8H_0Or01Y=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.93,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.93,
+            "hs_value": 360.233882
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.77,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        22
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2295144
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1000
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 23486
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 24486
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 162634
+        }
+      }
+    }
+  }
+}

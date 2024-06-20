@@ -1,0 +1,89 @@
+{
+  "_number": 696,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UClQfWNWk9UsUj317ce5FtXg",
+    "username": "Sobrevivencialismo",
+    "title": null,
+    "fullname": "Sobrevivencialismo",
+    "avatar_url": "https://yt3.googleusercontent.com/TDeJI8yc2AFwM75Z9Z8cbKFpBUaAMXigxwNYlUSmYIfbcXn9ltu8XphCk-GXrL_BYtPCWhPHFw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.98,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.98,
+            "hs_value": 4.143241
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.57,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.5,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2765124
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 182
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3106
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3288
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 23917
+        }
+      }
+    }
+  }
+}

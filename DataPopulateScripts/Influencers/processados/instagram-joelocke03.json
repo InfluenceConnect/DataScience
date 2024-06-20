@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 274,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "6226612705",
+    "username": "joelocke03",
+    "title": null,
+    "fullname": "Joe Locke",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/6226612705.jpg?w=150&till=1722470340&sign=6013f627d928f2268952c823696f24d0",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 16.55,
+    "blogger_thematics": {
+      "data": [
+        1032,
+        1052
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3996221
+    },
+    "engagement_avg": {
+      "value": 1362304
+    },
+    "authentic_engagement": {
+      "value": 845283
+    }
+  }
+}

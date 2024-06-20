@@ -1,0 +1,91 @@
+{
+  "_number": 107,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCFjrDmEnxrG5TRGVO0TPHLA",
+    "username": "desimpedidos",
+    "title": null,
+    "fullname": "Desimpedidos",
+    "avatar_url": "https://yt3.googleusercontent.com/wutaOhFFdTr1CHkS7qYuIfAvbrkdKIHG_A0ORVChxg-NcIoAdsSSTTtTitllm3GB6mgCbgXMCQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.86,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.86,
+            "hs_value": 0.300827
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.61,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          },
+          {
+            "id": "az",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9845531
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 12
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1455
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1467
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 29302
+        }
+      }
+    }
+  }
+}

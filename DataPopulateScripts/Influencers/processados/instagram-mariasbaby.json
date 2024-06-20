@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 431,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "44289741293",
+    "username": "mariasbaby",
+    "title": null,
+    "fullname": "Maria Alice e Maria Flor",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/44289741293.jpg?w=150&till=1722470340&sign=719754ad47be3e2ca38b112411a7c8d6",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.55,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7480861
+    },
+    "engagement_avg": {
+      "value": 357743
+    },
+    "authentic_engagement": {
+      "value": 224221
+    }
+  }
+}

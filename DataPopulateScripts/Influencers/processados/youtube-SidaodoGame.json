@@ -1,0 +1,92 @@
+{
+  "_number": 706,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCNKRJBAHTjnK3y0ThOg1uNw",
+    "username": "SidaodoGame",
+    "title": null,
+    "fullname": "Sid\u00e3o do Game",
+    "avatar_url": "https://yt3.googleusercontent.com/lKdTSUZlvKn9suBLponrqo1V2lG82cJRzROJK48kdQhau5P5CZIlXplLPo8Fn2M0fZjeiahqnA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.98,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.98,
+            "hs_value": 2.373342
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.69,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.19,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2735005
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 173
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5467
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5640
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 44575
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 858,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCjaDGiQf5_ok8m7w_wkTDJA",
+    "username": "karolstefanini",
+    "title": null,
+    "fullname": "TipoDela - Karol Stefanini",
+    "avatar_url": "https://yt3.googleusercontent.com/GhdrEDsZZnxnNRDYXTkauoEAJ4Qr-F-bLfUZ7LOIG8yHD5bbQapcbOd7iz78EmQvG4YcbqC3gHY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.02,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.02,
+            "hs_value": 1.381333
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.32,
+            "hs_value": null
+          },
+          {
+            "id": "py",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "zw",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        7
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2361137
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 30
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3664
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3694
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 59216
+        }
+      }
+    }
+  }
+}

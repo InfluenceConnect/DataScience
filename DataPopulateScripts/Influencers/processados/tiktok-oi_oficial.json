@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6738790169220891653",
+    "username": "oi_oficial",
+    "fullname": "Oi_Oficial",
+    "description": "a Oi t\u00e1 on! E com a melhor experi\u00eancia de fibra \ud83d\udc9a",
+    "tier": 139,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/6f383b9df6e871d558d7fe62761c8f70~c5_720x720.jpeg",
+    "last_media_time": "2024-03-14",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-03-30",
+    "report_data_updated": "2024-03-26",
+    "report_base_updated": "2024-03-20",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 118735
+    },
+    "hs_value": {
+      "value": 699.698737
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 0.71,
+          "mark": "poor",
+          "mark_title": "LOW",
+          "similar": 5.94327,
+          "similar_min": 5.080084,
+          "similar_max": 6.939281,
+          "value_prev": 0.19
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1166846
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9141
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 612
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 44
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 51,
+        "mark": "average",
+        "mark_title": "AVERAGE",
+        "description": {
+          "er": {
+            "mark": "poor",
+            "description": {
+              "title": {
+                "key": "LOW_ER",
+                "text": "Audience engagement could be improved"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO",
+                "text": "Excellent comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 520,
+  "_delta": null
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 977,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1799709381",
+    "username": "bakharnabieva",
+    "title": null,
+    "fullname": "Bakhar Nabieva",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1799709381.jpg?w=150&till=1722470340&sign=9f3321cc5f9f6155f9cd3c62606e8820",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 24.84,
+    "blogger_thematics": {
+      "data": [
+        1023
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5456971
+    },
+    "engagement_avg": {
+      "value": 98127
+    },
+    "authentic_engagement": {
+      "value": 63479
+    }
+  }
+}

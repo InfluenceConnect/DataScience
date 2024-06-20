@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 438,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "53125697",
+    "username": "gabrielfarias",
+    "title": null,
+    "fullname": "Zinho \ud83e\udd23",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/53125697.jpg?w=150&till=1722470340&sign=0f2b6d07ca32222c4f2b4427a916f8da",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 74.35,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1011,
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5726872
+    },
+    "engagement_avg": {
+      "value": 459591
+    },
+    "authentic_engagement": {
+      "value": 280055
+    }
+  }
+}

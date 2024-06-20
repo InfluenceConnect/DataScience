@@ -1,0 +1,91 @@
+{
+  "_number": 111,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCNMHZujkcJXErDXhLSGNVdA",
+    "username": "DeiveLeonardoo",
+    "title": null,
+    "fullname": "Deive Leonardo",
+    "avatar_url": "https://yt3.googleusercontent.com/bg7u3UyPhHSqsCnlcPYYOk0BsTVakF6s7A1d4Vm23ASuaj6g37UOQxte4KBMII3u7s9JBZi1gDI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.12,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.12,
+            "hs_value": 166.721729
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.51,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9771153
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 590
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 18402
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 18992
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 72974
+        }
+      }
+    }
+  }
+}

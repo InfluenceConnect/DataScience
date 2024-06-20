@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 844,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "35707732",
+    "username": "asabopp",
+    "title": null,
+    "fullname": "Asa Butterfield",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/35707732.jpg?w=150&till=1722470340&sign=a3bd9731a34ffd1eccba5c15cfa686c2",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 11.95,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5153132
+    },
+    "engagement_avg": {
+      "value": 140776
+    },
+    "authentic_engagement": {
+      "value": 107443
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 148,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCzK_0O9NZeH9T5_zCWVQQoQ",
+    "username": "PieroStart",
+    "title": null,
+    "fullname": "Piero Start",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kixTCVuFrKMw4G0oa_Z-emGBzW70GsTbRdmpzbbvRzRiI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.27,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.27,
+            "hs_value": 487.833695
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.17,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 2.78,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 1.39,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.39,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8040786
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 702
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 10806
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 11508
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 888419.5
+        }
+      }
+    }
+  }
+}

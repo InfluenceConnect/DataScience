@@ -1,0 +1,91 @@
+{
+  "_number": 89,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCNmBUECIkUyPr2hxIAT3vzw",
+    "username": "lucasranngel",
+    "title": null,
+    "fullname": "Lucas Rangel",
+    "avatar_url": "https://yt3.googleusercontent.com/PTVawLpAmShRkqWAX1J6gBSHWBEWbds47p9FzTYJlr_ynpopUX1D3I-DyWtH_4Gt-fRltld5pw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.81,
+            "hs_value": 82.856471
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.61,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11048867
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 283
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 26260
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 26543
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 332130
+        }
+      }
+    }
+  }
+}

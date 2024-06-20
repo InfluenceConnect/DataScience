@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 290,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "23678829",
+    "username": "nikefootball",
+    "title": null,
+    "fullname": "Nike Football (Soccer)",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/23678829.jpg?w=150&till=1722470340&sign=5ef233ff1955a24f2e04879b309f428a",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 14.84,
+    "blogger_thematics": {
+      "data": [
+        1013,
+        1007
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 46313151
+    },
+    "engagement_avg": {
+      "value": 107531
+    },
+    "authentic_engagement": {
+      "value": 87677
+    }
+  }
+}

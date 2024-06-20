@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 190,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1584172338",
+    "username": "yejinhand",
+    "title": null,
+    "fullname": "\uc190\uc608\uc9c4",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1584172338.jpg?w=150&till=1722470340&sign=c6cadcf1c4df3c8d46ce1e69df553fe9",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "ph",
+    "audience_geo_country_1_prc": 16.41,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8739888
+    },
+    "engagement_avg": {
+      "value": 1037881
+    },
+    "authentic_engagement": {
+      "value": 854364
+    }
+  }
+}

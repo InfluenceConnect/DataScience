@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 462,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "16917874",
+    "username": "lakers",
+    "title": null,
+    "fullname": "Los Angeles Lakers",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/16917874.jpg?w=150&till=1722470340&sign=fe2ea535b3941f87a009f59303e1bffe",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 44.2,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 24626972
+    },
+    "engagement_avg": {
+      "value": 99704
+    },
+    "authentic_engagement": {
+      "value": 77365
+    }
+  }
+}

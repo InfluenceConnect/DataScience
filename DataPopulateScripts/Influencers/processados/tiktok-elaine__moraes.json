@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6940997279172854789",
+    "username": "elaine__moraes",
+    "fullname": "\u2606\u1d00 \u0299\u0280\u1d1cx\u1d00 \u1d04\u026a\u0262\u1d00\u0274\u1d00\u2606Oficial",
+    "description": "Sacerdotisa de Umbanda\ud83c\udffaFeiticeira\ud83e\udd89Osun\ud83d\udc9b Egr\u00e9gora de Padilha\ud83c\udf39\u2b07\ufe0f",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/484c6a48ccca24094a59453d36c1b2d7~c5_720x720.jpeg",
+    "last_media_time": "2024-06-03",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2024-05-24",
+    "report_base_updated": "2024-06-04",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2460422
+    },
+    "hs_value": {
+      "value": 110.76831
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 14.2,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 17.28
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 93273
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 10670
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 849
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 264
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 25
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 82,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_CL_RATIO_ABNORMALLY_HIGH",
+                "text": "Very good comments to likes ratio, though comments count is abnormally high"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_GROWTH",
+                "text": "Very good account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 958,
+  "_delta": null
+}

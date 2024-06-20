@@ -1,0 +1,92 @@
+{
+  "_number": 736,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCsuHTmaYOim2oHxjyEf4nAg",
+    "username": "NightExtreme1",
+    "title": null,
+    "fullname": "NightExtreme",
+    "avatar_url": "https://yt3.googleusercontent.com/OkLFige7ET4qswkVU8jpMhRkRwR8CHmK3Ue_MA7i-0hhts-8DBhKQ0S2ShaE5iGmaJgRa4gOVw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.15,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.15,
+            "hs_value": 8.303111
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.2,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.71,
+            "hs_value": null
+          },
+          {
+            "id": "pl",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "by",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2644700
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 238
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3184
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3422
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 84118
+        }
+      }
+    }
+  }
+}

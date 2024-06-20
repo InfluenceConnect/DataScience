@@ -1,0 +1,92 @@
+{
+  "_number": 653,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC-yA8YhrAgpFp4aVHRaNyMA",
+    "username": "CoreDasAntigas",
+    "title": null,
+    "fullname": "Core",
+    "avatar_url": "https://yt3.googleusercontent.com/YtR46AfSz9iKJ9ZN6nyDkdCfaupWz4-aOBvqyW52-lECPPG8BHrCSCbw3mQ8c3v0bx21RZqQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.45,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.45,
+            "hs_value": 31.876667
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.57,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          },
+          {
+            "id": "be",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2890585
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 369
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7861
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 8230
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 75271.5
+        }
+      }
+    }
+  }
+}

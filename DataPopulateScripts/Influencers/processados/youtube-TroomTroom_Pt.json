@@ -1,0 +1,91 @@
+{
+  "_number": 66,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCgCQlMYN2XypwYC2wcR32bA",
+    "username": "TroomTroom_Pt",
+    "title": null,
+    "fullname": "Troom Troom PT",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lQ4pzajNcK84drk3zeL0ecfCFWjotnUKKqe29jU1FCc3A=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 87.77,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 87.77,
+            "hs_value": 0.2393
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 6.99,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.75,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12745800
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 22
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1260
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1282
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 46591.5
+        }
+      }
+    }
+  }
+}

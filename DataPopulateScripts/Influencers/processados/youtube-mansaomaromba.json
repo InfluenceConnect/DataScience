@@ -1,0 +1,92 @@
+{
+  "_number": 510,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC-j9NRGq1F0xRA3MIHtV0Vg",
+    "username": "mansaomaromba",
+    "title": null,
+    "fullname": "MANS\u00c3O MAROMBA",
+    "avatar_url": "https://yt3.googleusercontent.com/8p_TF2F_vY9P-QEEIDT-0zP62ylpYamDsD82NP9ktCLhqVFcbqZzKKSt4vHSVNOj3bY24AlnCg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.66,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.66,
+            "hs_value": 0.221039
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.11,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.03,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3494705
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 84
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1070
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1154
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 10639
+        }
+      }
+    }
+  }
+}

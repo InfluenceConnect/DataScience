@@ -1,0 +1,91 @@
+{
+  "_number": 154,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCugD1HAP3INAiXo70S_sAFQ",
+    "username": "pabllovittar",
+    "title": null,
+    "fullname": "Pabllo Vittar",
+    "avatar_url": "https://yt3.googleusercontent.com/fqF-oTKBMxLDLKaqWcoA90mYP_cKvgYEherR1sxe2q-QS8KU7_EJFu6qupv5hnViQ08_XULY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.59,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.59,
+            "hs_value": 1.076469
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.22,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.89,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.65,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7814902
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 71
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2595
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2666
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 21745
+        }
+      }
+    }
+  }
+}

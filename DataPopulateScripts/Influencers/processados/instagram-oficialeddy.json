@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 619,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "375273021",
+    "username": "oficialeddy",
+    "title": null,
+    "fullname": "Eddy Jr",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/375273021.jpg?w=150&till=1722470340&sign=1e9799b421e94ad4ca422139ad0386a2",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.91,
+    "blogger_thematics": {
+      "data": [
+        1036,
+        1017
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1335165
+    },
+    "engagement_avg": {
+      "value": 1062864
+    },
+    "authentic_engagement": {
+      "value": 621170
+    }
+  }
+}

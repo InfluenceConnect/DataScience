@@ -1,0 +1,91 @@
+{
+  "_number": 981,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC52Ql_o7tYJfSobudv_BqYA",
+    "username": "SauSampaio",
+    "title": null,
+    "fullname": "Sau Sampaio",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_myXtdd1a_oC3O8QrjvK_P4UQ4x52J5gqwpTS9ndcWkVw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.02,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.02,
+            "hs_value": 17.6453
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.07,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.78,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2134877
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 30
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3859
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3889
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 34893
+        }
+      }
+    }
+  }
+}

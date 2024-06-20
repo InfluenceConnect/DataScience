@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 287,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "35044651",
+    "username": "wanda_nara",
+    "title": null,
+    "fullname": "Wanda Nara",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/35044651.jpg?w=150&till=1722470340&sign=b91826191bd45e61d74b960fbe72a36d",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "ar",
+    "audience_geo_country_1_prc": 26.1,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 17034708
+    },
+    "engagement_avg": {
+      "value": 295564
+    },
+    "authentic_engagement": {
+      "value": 197536
+    }
+  }
+}

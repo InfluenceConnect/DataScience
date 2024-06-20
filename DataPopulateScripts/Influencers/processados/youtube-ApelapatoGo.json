@@ -1,0 +1,89 @@
+{
+  "_number": 651,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCtpnpcN0iBupTk3MtWPzZrQ",
+    "username": "ApelapatoGo",
+    "title": null,
+    "fullname": "Apelapato999",
+    "avatar_url": "https://yt3.googleusercontent.com/EK3KhR3qG2s6Y8NbGU9biMDQQ4ct_MmQm5fkhITWd_IWTRgjxVQj6xSq0Ri-50I9HXeUuIN7Yg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.58,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 84.58,
+            "hs_value": 73.799324
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 4.4,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.45,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 1.35,
+            "hs_value": null
+          },
+          {
+            "id": "bd",
+            "code": null,
+            "prc": 0.85,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2895155
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 482
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 482
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 232973
+        }
+      }
+    }
+  }
+}

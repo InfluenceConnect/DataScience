@@ -1,0 +1,123 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6723729393984406534",
+    "username": "ingrid_camboim",
+    "fullname": "INGRID CAMBOIM \ud83e\ude77",
+    "description": "Atriz ga\u00facha vivendo em S\u00e3o Paulo\ud83d\udccd\n\ud83c\udfac imito cenas e personagens \u2728",
+    "tier": 126,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/4ac7cf4da612f03aa920ad6c1b43756c~c5_720x720.jpeg",
+    "last_media_time": "2024-06-02",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2024-05-22",
+    "report_base_updated": "2024-06-04",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 34574
+    },
+    "hs_value": {
+      "value": 327.212856
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 12.33,
+          "mark": "very_good",
+          "mark_title": "VERY_GOOD",
+          "similar": 6.879553,
+          "similar_min": 5.858129,
+          "similar_max": 8.049414,
+          "value_prev": 6.8
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 177965
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 26920
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 119
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 564
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 95,
+        "prc_better": 95,
+        "mark": "excellent",
+        "mark_title": "EXCELLENT",
+        "description": {
+          "er": {
+            "mark": "very_good",
+            "description": {
+              "title": {
+                "key": "VERY_GOOD_ER",
+                "text": "Very good engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO",
+                "text": "Excellent comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 675,
+  "_delta": null
+}

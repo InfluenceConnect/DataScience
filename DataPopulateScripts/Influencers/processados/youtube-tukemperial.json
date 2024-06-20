@@ -1,0 +1,92 @@
+{
+  "_number": 808,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCPNIejzGsqqPDNuSRwvCrjg",
+    "username": "tukemperial",
+    "title": null,
+    "fullname": "TukEmperial",
+    "avatar_url": "https://yt3.googleusercontent.com/K5RpvBjF1yauAzrU4DRJfI9NkqncsuMt7r41UJ8I4TjJva3SavQzYuolidOpVciS01LQpl8AQg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.84,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.84,
+            "hs_value": 1.46748
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.09,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        4,
+        7
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2464866
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 194
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2016
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2210
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 31441
+        }
+      }
+    }
+  }
+}

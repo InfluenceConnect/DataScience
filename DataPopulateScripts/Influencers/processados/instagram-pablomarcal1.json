@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 372,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3441443082",
+    "username": "pablomarcal1",
+    "title": null,
+    "fullname": "Pablo Marc\u0327al",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3441443082.jpg?w=150&till=1722470340&sign=21d815a23ad5fca346888f1b738776f5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.3,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1005
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10607264
+    },
+    "engagement_avg": {
+      "value": 343697
+    },
+    "authentic_engagement": {
+      "value": 255990
+    }
+  }
+}

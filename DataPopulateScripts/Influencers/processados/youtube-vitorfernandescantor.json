@@ -1,0 +1,91 @@
+{
+  "_number": 824,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCRjeI9tHx0nfVLaucEaFbLg",
+    "username": "vitorfernandescantor",
+    "title": null,
+    "fullname": "Vitor Fernandes",
+    "avatar_url": "https://yt3.googleusercontent.com/6hj_AsFofi5ionkvs-QGCnI-l5iirWNtw7zI9_ElfaEsgLqkfiYpyR2Ok3ot722XndUAM5R8AA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.64,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.64,
+            "hs_value": 0.003885
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "bz",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "pl",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        9
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2435050
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 20
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 403
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 423
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 3380
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 780,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "329410749",
+    "username": "eulucasviana",
+    "title": null,
+    "fullname": "Lucas Viana",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/329410749.jpg?w=150&till=1722470340&sign=665cbd4ad8d08c3ab6c6854fb57a971a",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.56,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8834333
+    },
+    "engagement_avg": {
+      "value": 116134
+    },
+    "authentic_engagement": {
+      "value": 48242
+    }
+  }
+}

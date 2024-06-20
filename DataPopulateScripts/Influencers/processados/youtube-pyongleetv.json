@@ -1,0 +1,91 @@
+{
+  "_number": 147,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCy-pRSIMMBsp-AZlV4go3vw",
+    "username": "pyongleetv",
+    "title": null,
+    "fullname": "Pyong Lee",
+    "avatar_url": "https://yt3.googleusercontent.com/pZAtWly8iJDeDokEKlqr2hTpqGxD_2c-HmemAqN9F0jO-HV1ksmV42ZszsxB4WwmP_6si-4yeg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.5,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.15,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.73,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "nl",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8054847
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 154
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 163
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2388
+        }
+      }
+    }
+  }
+}

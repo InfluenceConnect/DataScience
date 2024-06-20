@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 412,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "2261853621",
+    "username": "donatella_versace",
+    "title": null,
+    "fullname": "Donatella Versace",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/2261853621.jpg?w=150&till=1722470340&sign=b5f4d407106428c84a156db31efc2842",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 17.76,
+    "blogger_thematics": {
+      "data": [
+        1021
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12152924
+    },
+    "engagement_avg": {
+      "value": 237988
+    },
+    "authentic_engagement": {
+      "value": 167313
+    }
+  }
+}

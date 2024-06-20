@@ -1,0 +1,89 @@
+{
+  "_number": 591,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCUSKHWPgQl1ixaal1vysMyw",
+    "username": "Fluxo",
+    "title": null,
+    "fullname": "Fluxo",
+    "avatar_url": "https://yt3.googleusercontent.com/6mErTYFaqc8lEca0Xc90_TSnVHpX-TnmZm9XV0LTWeNsvw2PfhY_c7_GYI9QxkvS5015HfuF-w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.13,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.13,
+            "hs_value": 0.198279
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.38,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.6,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3150932
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 13
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1250
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1263
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 10328.5
+        }
+      }
+    }
+  }
+}

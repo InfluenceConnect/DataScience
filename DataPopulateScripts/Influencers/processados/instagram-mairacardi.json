@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 868,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "9999895",
+    "username": "mairacardi",
+    "title": null,
+    "fullname": "Ma\u00edra Cardi",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/9999895.jpg?w=150&till=1722470340&sign=c7433cd8d7e87cd24b08406681ca395c",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.4,
+    "blogger_thematics": {
+      "data": [
+        1023,
+        1031
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8990544
+    },
+    "engagement_avg": {
+      "value": 77603
+    },
+    "authentic_engagement": {
+      "value": 47876
+    }
+  }
+}

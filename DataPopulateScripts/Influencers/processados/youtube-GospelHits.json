@@ -1,0 +1,91 @@
+{
+  "_number": 804,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCpEqZVV2Is_smzYqhwcshng",
+    "username": "GospelHits",
+    "title": null,
+    "fullname": "Gospel Hits",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k0RW44n9uqwcAbj5fC-eV1GkcRaZ6dpt49I5TRvQPv_w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 89.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 89.81,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.7,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.85,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.93,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.93,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2474715
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 78
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 82
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1360
+        }
+      }
+    }
+  }
+}

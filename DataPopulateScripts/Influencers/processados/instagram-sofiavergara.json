@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 419,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "239727980",
+    "username": "sofiavergara",
+    "title": null,
+    "fullname": "Sofia Vergara",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/239727980.jpg?w=150&till=1722470340&sign=d1a6c07d9d0f47d58422200f8dba59e2",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 24.05,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 34859576
+    },
+    "engagement_avg": {
+      "value": 80808
+    },
+    "authentic_engagement": {
+      "value": 58546
+    }
+  }
+}

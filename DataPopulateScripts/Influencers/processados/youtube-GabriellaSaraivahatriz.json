@@ -1,0 +1,91 @@
+{
+  "_number": 289,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC2m1QsAWpTuf6RxnDwE46Jw",
+    "username": "GabriellaSaraivahatriz",
+    "title": null,
+    "fullname": "Gabriella Saraivah",
+    "avatar_url": "https://yt3.googleusercontent.com/nVlxtL6CYnpJbMgGbbDpo2JDm_SKMiITtlJ-8zGLgIzYtP3yePkgC0RmcXuLsmHTmeI1QS5TJW4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.29,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.29,
+            "hs_value": 8.725496
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.86,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.43,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5390876
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 140
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7644
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7784
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 68050
+        }
+      }
+    }
+  }
+}

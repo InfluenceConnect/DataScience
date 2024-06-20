@@ -1,0 +1,91 @@
+{
+  "_number": 823,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCGrFb8-hQp4iy8bgsE5Rmfg",
+    "username": "anawoycick",
+    "title": null,
+    "fullname": "Ana Woycick",
+    "avatar_url": "https://yt3.googleusercontent.com/sPq4rQ1SKfK4Zybt1dnBp84Qv-fD9hkNQaqm74hjkq2OWQTAok5IwkZMwjSv39I2vDL863IPZg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.15,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.15,
+            "hs_value": 59.545942
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.41,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.25,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2435071
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 119
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7833
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7952
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 78700
+        }
+      }
+    }
+  }
+}

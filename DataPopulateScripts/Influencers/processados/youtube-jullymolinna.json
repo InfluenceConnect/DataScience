@@ -1,0 +1,89 @@
+{
+  "_number": 202,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCjTVNkbx5megxlnl1spy2jg",
+    "username": "jullymolinna",
+    "title": null,
+    "fullname": "Jully Molinna",
+    "avatar_url": "https://yt3.googleusercontent.com/08RDlrkEExQ86f5WIoIEwZYYNA7lLNnKJk1Gr81G-NSJjMhGk3CuuZiTiL1mNYL--YDW7raEww=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.39,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.39,
+            "hs_value": 19.94889
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.03,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6755514
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 24
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3651
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3675
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 46875
+        }
+      }
+    }
+  }
+}

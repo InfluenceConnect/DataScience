@@ -1,0 +1,91 @@
+{
+  "_number": 419,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC9mR0F9CEF4mwtdmU0XptCg",
+    "username": "GienLiu",
+    "title": null,
+    "fullname": "Gien Liu ",
+    "avatar_url": "https://yt3.googleusercontent.com/RKwje8-bzeyXOtWj1FdqVOeX0rHfagoVIk3X4oHWTnfqXhjmTRc8E07llCTx0ZlZeSKuBQ_PBg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.44,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.44,
+            "hs_value": 7.058753
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.91,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.13,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.69,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4001682
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 48
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7609
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7657
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 75814.5
+        }
+      }
+    }
+  }
+}

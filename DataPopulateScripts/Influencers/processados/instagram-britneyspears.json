@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 439,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "12246775",
+    "username": "britneyspears",
+    "title": null,
+    "fullname": "XILA MARIA RIVER RED",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/12246775.jpg?w=150&till=1722470340&sign=2ff345978cd591645af018a941169e13",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 32.24,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 42260117
+    },
+    "engagement_avg": {
+      "value": 61011
+    },
+    "authentic_engagement": {
+      "value": 45044
+    }
+  }
+}

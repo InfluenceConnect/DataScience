@@ -1,0 +1,92 @@
+{
+  "_number": 406,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCa_9UcdkGqPh1PsU7NT61mg",
+    "username": "Silkonce",
+    "title": null,
+    "fullname": "Silkonce ",
+    "avatar_url": "https://yt3.googleusercontent.com/XNW-SJ7FdDg_hkXw0dRCP-knu-5wC33GtowIColhp7CxstTdRQ31yKf2kEw3EGx-upLK-_RbtVs=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.81,
+            "hs_value": 0.386482
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.95,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.95,
+            "hs_value": null
+          },
+          {
+            "id": "bb",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4085256
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 80
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1366
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1446
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 40418.5
+        }
+      }
+    }
+  }
+}

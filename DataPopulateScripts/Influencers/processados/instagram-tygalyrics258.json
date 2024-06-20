@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 916,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "40860790373",
+    "username": "tygalyrics258",
+    "title": null,
+    "fullname": "TYGALYRICS258",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/40860790373.jpg?w=150&till=1722470340&sign=5cbfef469130302bca16b5c23994465d",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 38.1,
+    "blogger_thematics": {
+      "data": [
+        1036,
+        1017
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 486856
+    },
+    "engagement_avg": {
+      "value": 1153367
+    },
+    "authentic_engagement": {
+      "value": 851758
+    }
+  }
+}

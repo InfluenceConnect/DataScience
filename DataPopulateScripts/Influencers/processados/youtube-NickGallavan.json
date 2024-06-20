@@ -1,0 +1,92 @@
+{
+  "_number": 718,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCi2n36NLjO69rVgL-DEciEw",
+    "username": "NickGallavan",
+    "title": null,
+    "fullname": "Nick G\u00e1llavan",
+    "avatar_url": "https://yt3.googleusercontent.com/C5wgi2YCEgKDoSJ-8-iCmf9miWzzzfEPjD6osN80IKpLrGDFkj01gDyibDi0qkwfH5jm8bUJmg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.69,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.69,
+            "hs_value": 10.861274
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.31,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.92,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2700434
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 201
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 201
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 100387
+        }
+      }
+    }
+  }
+}

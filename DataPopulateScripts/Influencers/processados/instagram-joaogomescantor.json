@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 348,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "5694164036",
+    "username": "joaogomescantor",
+    "title": null,
+    "fullname": "Jo\u00e3o Gomes \ud83c\udf99\ufe0f\ud83c\udfdc\ufe0f",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/5694164036.jpg?w=150&till=1722470340&sign=5a226d59f19cb18630d6b44396f7b82c",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 86.07,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16084349
+    },
+    "engagement_avg": {
+      "value": 240905
+    },
+    "authentic_engagement": {
+      "value": 147048
+    }
+  }
+}

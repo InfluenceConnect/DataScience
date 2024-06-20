@@ -1,0 +1,91 @@
+{
+  "_number": 81,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCqrFwa5vueOTzGZ7NSlnvlQ",
+    "username": "PineappleStormTV",
+    "title": null,
+    "fullname": "PineappleStormTV",
+    "avatar_url": "https://yt3.googleusercontent.com/YhnZPynt4nJMQmsj1COoNVzfMIvkALq7PLnvWsiCpthBLN7Zjj_47ejEsQRxoOg_CJ_JWVTCNA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.94,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.94,
+            "hs_value": 1.302141
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.67,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.09,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11351246
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 113
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1656
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1769
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 21074.5
+        }
+      }
+    }
+  }
+}

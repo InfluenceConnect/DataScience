@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6951813043580945410",
+    "username": "belaaff0",
+    "fullname": "Belaaff0\ud83e\uddf8",
+    "description": "\ud83d\udce7 Kaylaneffcontato@gmail.com\n VAMOS MELHORAR O PING\ud83d\udc47\ud83c\udffc",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/2e4906f0471edd38c3461bbea4d6b550~c5_720x720.jpeg",
+    "last_media_time": "2024-03-12",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-03-26",
+    "report_data_updated": "2023-08-11",
+    "report_base_updated": "2024-03-12",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1521565
+    },
+    "hs_value": {
+      "value": 1005.991142
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 14.28,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.503747,
+          "similar_min": 5.656881,
+          "similar_max": 7.466916,
+          "value_prev": 12.56
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 205511
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 26896
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1724
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 96
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 94,
+        "mark": "excellent",
+        "mark_title": "EXCELLENT",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_CL_RATIO_ABNORMALLY_HIGH",
+                "text": "Excellent comments to likes ratio, though comments count is abnormally high"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 441,
+  "_delta": null
+}

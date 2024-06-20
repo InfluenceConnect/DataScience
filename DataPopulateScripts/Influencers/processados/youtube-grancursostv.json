@@ -1,0 +1,74 @@
+{
+  "_number": 831,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC74icFVsxTFr2BW3Vm8n_iw",
+    "username": "grancursostv",
+    "title": null,
+    "fullname": "Gran Cursos Online",
+    "avatar_url": "https://yt3.googleusercontent.com/O4m5FTsYACMVnTLyNYr5vbr8PrBwXJPMT717-GaHGc7Nq5xFIdMbwFedbFNziMt9Wtk8wufJEg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.78,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.78,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.22,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21,
+        9
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2434979
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 73
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 75
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1081
+        }
+      }
+    }
+  }
+}

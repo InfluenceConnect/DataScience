@@ -1,0 +1,91 @@
+{
+  "_number": 799,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCeLQQcucUeqr9qsB1D8R12g",
+    "username": "ProfessoraPamba",
+    "title": null,
+    "fullname": "Professora Pamba",
+    "avatar_url": "https://yt3.googleusercontent.com/uzh3vNCPUwLbvemjObabBuLpEb2ClPaEq2UNw9bkyRb5x6K8Cluq9p_TTp0vkdWeUHXQ4CGckQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.91,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.91,
+            "hs_value": 0.012513
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "uy",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        9
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2484312
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 25
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 452
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 477
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8770
+        }
+      }
+    }
+  }
+}

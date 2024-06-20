@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 638,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1633834564",
+    "username": "xurrasco_021",
+    "title": null,
+    "fullname": "Xurras Da Jogada",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1633834564.jpg?w=150&till=1722470340&sign=007e49f86d16b2aad4ea4bb60b1a6e7d",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.42,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2527881
+    },
+    "engagement_avg": {
+      "value": 528239
+    },
+    "authentic_engagement": {
+      "value": 360538
+    }
+  }
+}

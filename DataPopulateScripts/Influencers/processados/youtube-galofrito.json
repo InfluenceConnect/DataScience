@@ -1,0 +1,92 @@
+{
+  "_number": 92,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCyb0T6J6nL5ibo0HLRMINKw",
+    "username": "galofrito",
+    "title": null,
+    "fullname": "Galo Frito",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_ms1dnW5yKPKVYXn9Ai1IEF0MPykeO36U2sggtnKyFRKD4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.76,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.76,
+            "hs_value": 0.048738
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.03,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.86,
+            "hs_value": null
+          },
+          {
+            "id": "nl",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10951092
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 33
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1571
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1604
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 69269.5
+        }
+      }
+    }
+  }
+}

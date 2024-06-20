@@ -1,0 +1,92 @@
+{
+  "_number": 54,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC123wrCXhQ9-SoW-JCf9DqQ",
+    "username": "SpiderBritto",
+    "title": null,
+    "fullname": "Spiderbritto",
+    "avatar_url": "https://yt3.googleusercontent.com/_y5XVl198_TLcE-JHInfP1qTjrPLMPqRrPuF7wQ4leAjyixJjy9A_95SwLQbYe6VAP0YCSMiUSA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.78,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 79.78,
+            "hs_value": 1.164815
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 3.97,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.61,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 3.25,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13643187
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 11
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2544
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2555
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 55221
+        }
+      }
+    }
+  }
+}

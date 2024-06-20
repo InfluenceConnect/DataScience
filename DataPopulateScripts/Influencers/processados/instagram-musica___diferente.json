@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 624,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "47210402383",
+    "username": "musica___diferente",
+    "title": null,
+    "fullname": "M\u00fasica Diferente",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/47210402383.jpg?w=150&till=1722470340&sign=1dff86a91bbfa39d492a22be7e495e1d",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.96,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1381549
+    },
+    "engagement_avg": {
+      "value": 1006059
+    },
+    "authentic_engagement": {
+      "value": 747294
+    }
+  }
+}

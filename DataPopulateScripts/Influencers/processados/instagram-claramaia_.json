@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 836,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "53534717",
+    "username": "claramaia_",
+    "title": null,
+    "fullname": "Clara Maia | ACFIT2 BURN",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/53534717.jpg?w=150&till=1722470340&sign=cc1c965c75ba3d42e4eea97c34d3bc89",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 86.16,
+    "blogger_thematics": {
+      "data": [
+        1021
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2634918
+    },
+    "engagement_avg": {
+      "value": 281975
+    },
+    "authentic_engagement": {
+      "value": 185502
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_number": 135,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCy_B3QVULbWHKkuHzi4t05w",
+    "username": "GersonAlbuquerque",
+    "title": null,
+    "fullname": "Gerson Albuquerque",
+    "avatar_url": "https://yt3.googleusercontent.com/vt9VWGFxyfUxDm3K7wCPfIBfTHuEu7PFmKZkDozo8pdf2jcbZ4tm1VW0sEcc9pnL4Fp-vrBg8jQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.02,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.02,
+            "hs_value": 0.290309
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.04,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.78,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8535136
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 48
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1927
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1975
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 27281
+        }
+      }
+    }
+  }
+}

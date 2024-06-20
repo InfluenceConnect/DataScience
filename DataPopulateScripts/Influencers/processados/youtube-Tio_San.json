@@ -1,0 +1,92 @@
+{
+  "_number": 763,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCMW-P77SEfvZ8Cvyfk-n-Xw",
+    "username": "Tio_San",
+    "title": null,
+    "fullname": "Tio San",
+    "avatar_url": "https://yt3.googleusercontent.com/4lV5N8IsGk2OCXfFZmwVj0hYuPxPtx85i-Vgg0_vrHtpodEBY3hA9ULaL38XHq9awddDlyvdHA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.03,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.03,
+            "hs_value": 0.791694
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.79,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.86,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2585159
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 89
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1479
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1568
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 9069.5
+        }
+      }
+    }
+  }
+}

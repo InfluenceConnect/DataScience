@@ -1,0 +1,91 @@
+{
+  "_number": 374,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCp760zDXjvgzpY6aoZDBWEw",
+    "username": "metralhadosbailesoficial",
+    "title": null,
+    "fullname": "Metralha dos Bailes",
+    "avatar_url": "https://yt3.googleusercontent.com/NRAPeW7upPAvAuP1-g8MOeEarU-0fzLGlSdS3vsIwtkY953Wm1pk-j8gRx0xpgQLJ0tqHSBQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.89,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.89,
+            "hs_value": 0.002507
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4380365
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 7
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 310
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 317
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 6815.5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 697,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "13058841751",
+    "username": "loud_thurzin",
+    "title": null,
+    "fullname": "Arthur Fernandes",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/13058841751.jpg?w=150&till=1722470340&sign=2449d84c58a8ac188d3381067216ed95",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.29,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6766947
+    },
+    "engagement_avg": {
+      "value": 160862
+    },
+    "authentic_engagement": {
+      "value": 112046
+    }
+  }
+}

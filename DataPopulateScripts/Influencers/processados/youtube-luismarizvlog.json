@@ -1,0 +1,89 @@
+{
+  "_number": 265,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCBX7808epqhZVxNlzXeMlMQ",
+    "username": "luismarizvlog",
+    "title": null,
+    "fullname": "Luis Mariz",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mUBcNPCt7Q8PJhYfKU_gdmVx456Rr7OT4YT7H79KjCRLY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.5,
+            "hs_value": 0.002476
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.08,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.09,
+            "hs_value": null
+          },
+          {
+            "id": "al",
+            "code": null,
+            "prc": 0.09,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5594493
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 703
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 706
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 11739.5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 724,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCFhZHkxjgParANyn4L6nTrg",
+    "username": "Derponce",
+    "title": null,
+    "fullname": "Derponce",
+    "avatar_url": "https://yt3.googleusercontent.com/qVqvHsjDbJxyE4-g6k6GHcPno7DvmF0RxgGlrFk41tF2qASI-QZlfNKMpR_H4OokLXUMLJc0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.48,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.48,
+            "hs_value": 3.111852
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 7.73,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.76,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2675652
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 133
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3048
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3181
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 64464.5
+        }
+      }
+    }
+  }
+}

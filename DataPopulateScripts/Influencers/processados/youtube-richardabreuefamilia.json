@@ -1,0 +1,89 @@
+{
+  "_number": 476,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwtTjMm0Agq_GFwSqej078w",
+    "username": "richardabreuefamilia",
+    "title": null,
+    "fullname": "Richard Abreu e fam\u00edlia ",
+    "avatar_url": "https://yt3.googleusercontent.com/ffuq6UcQcTBpRSpryK_TRhY_2uUiwUH0UAr8Q3NqZZOI1QHKIVaQJFKcEP6phE0hw9X7UWWBIw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.09,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.09,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.97,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.98,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3651041
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 120164.5
+        }
+      }
+    }
+  }
+}

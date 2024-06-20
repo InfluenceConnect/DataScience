@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 251,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "52871042220",
+    "username": "feat.dino",
+    "title": null,
+    "fullname": "\uc774\ucc2c",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/52871042220.jpg?w=150&till=1722470340&sign=c07d9eb21aaf03899d49393b2acab74e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "kr",
+    "audience_geo_country_1_prc": 16.05,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6132726
+    },
+    "engagement_avg": {
+      "value": 1009983
+    },
+    "authentic_engagement": {
+      "value": 743024
+    }
+  }
+}

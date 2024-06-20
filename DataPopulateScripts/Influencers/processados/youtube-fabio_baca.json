@@ -1,0 +1,92 @@
+{
+  "_number": 907,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCFayRsJDx15WyMzZtll6EPQ",
+    "username": "fabio_baca",
+    "title": null,
+    "fullname": "Fabio Fregona - BACA",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lagVvc-OKwiyVaiSEtrNq0ZwQzUQactpF57i30wX2st74=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.88,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.88,
+            "hs_value": 264.391939
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.03,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.96,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.81,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2275156
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 335
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 17332
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 17667
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 343095
+        }
+      }
+    }
+  }
+}

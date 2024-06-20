@@ -1,0 +1,89 @@
+{
+  "_number": 786,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC3BM4LVGTrG5OER815AM7Bg",
+    "username": "FalaGlauberPodcast",
+    "title": null,
+    "fullname": "Fala Glauber Podcast",
+    "avatar_url": "https://yt3.googleusercontent.com/kkA6LIRP6tJkg54aQVs_UCmqIL9jHyKwwqYdY8MP3CFo77RrA-lFblgAZNEig0TfhYrwVWpBWA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.27,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.27,
+            "hs_value": 2.270885
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.39,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.84,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2521211
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 125
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2471
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2596
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 34965
+        }
+      }
+    }
+  }
+}

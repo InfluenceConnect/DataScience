@@ -1,0 +1,91 @@
+{
+  "_number": 870,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCyWjZRvcqvzc8Fkd9czV9vQ",
+    "username": "paolacarosella",
+    "title": null,
+    "fullname": "Paola Carosella",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kjf86gk7mnUBFuyHRocbhWSW0tnhNnuwYPGwoZPgcpxIk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.92,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.92,
+            "hs_value": 8.684975
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.45,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2334925
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 211
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5121
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5332
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 36167
+        }
+      }
+    }
+  }
+}

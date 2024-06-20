@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 270,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "8443283",
+    "username": "lizakoshy",
+    "title": null,
+    "fullname": "Liza Koshy",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/8443283.jpg?w=150&till=1722470340&sign=dcd221e8b275cb1b5f807bd63524784b",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 38,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 20463969
+    },
+    "engagement_avg": {
+      "value": 264076
+    },
+    "authentic_engagement": {
+      "value": 188351
+    }
+  }
+}

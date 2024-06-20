@@ -1,0 +1,91 @@
+{
+  "_number": 746,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCxDFRhF3Y1A_Gd0-cF8gbqQ",
+    "username": "HojenoMundoMilitar",
+    "title": null,
+    "fullname": "Hoje no Mundo Militar",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lSEbDPqH7RUP6EMf3dWZ4d1_d-jugAc7on12QeUavjAA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.06,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.06,
+            "hs_value": 393.282935
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.52,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.03,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        19
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2625048
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 693
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 15222
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 15915
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 119096.5
+        }
+      }
+    }
+  }
+}

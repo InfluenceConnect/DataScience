@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 437,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3682038260",
+    "username": "bighit_ent",
+    "title": null,
+    "fullname": "BigHit Music Updates",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3682038260.jpg?w=150&till=1722470340&sign=e5508681c7a0fe9a62489decd6089edb",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "kr",
+    "audience_geo_country_1_prc": 10.56,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12001331
+    },
+    "engagement_avg": {
+      "value": 217375
+    },
+    "authentic_engagement": {
+      "value": 173694
+    }
+  }
+}

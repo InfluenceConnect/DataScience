@@ -1,0 +1,83 @@
+{
+  "_number": 156,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCGCY404WRgRt8Ai4hlzYatw",
+    "username": "Figuritalo",
+    "title": null,
+    "fullname": "Figuritalo",
+    "avatar_url": "https://yt3.googleusercontent.com/Kbj6xYhw7tQVL07UnUKRW08ardrNvy-qbU8iG-WNqwRZE_XQIT4b5mO3h52HstkyA5cGg3Wh0w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.68,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.68,
+            "hs_value": 1674.087089
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.9,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.95,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 1.46,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7680902
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 760
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 49614
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 50374
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 790307
+        }
+      }
+    }
+  }
+}

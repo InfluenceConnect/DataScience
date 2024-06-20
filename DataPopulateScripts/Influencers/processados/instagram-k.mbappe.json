@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 14,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "4213518589",
+    "username": "k.mbappe",
+    "title": null,
+    "fullname": "Kylian Mbappe\u0301",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/4213518589.jpg?w=150&till=1722470340&sign=59d7fef07e9b74d72709d16ec60be2a5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "fr",
+    "audience_geo_country_1_prc": 12.24,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 117564169
+    },
+    "engagement_avg": {
+      "value": 3335776
+    },
+    "authentic_engagement": {
+      "value": 2639268
+    }
+  }
+}

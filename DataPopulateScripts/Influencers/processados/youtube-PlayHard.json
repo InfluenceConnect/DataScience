@@ -1,0 +1,92 @@
+{
+  "_number": 46,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC4IMfO_--bwBaNgWeoLxAgg",
+    "username": "PlayHard",
+    "title": null,
+    "fullname": "PlayHard",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_ncw5NSgyl0I5LGEiUvNHa2SsqdCXd2-JXOtiAhYfdyRIY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.92,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.92,
+            "hs_value": 156.669107
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.41,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.74,
+            "hs_value": null
+          },
+          {
+            "id": "ma",
+            "code": null,
+            "prc": 0.59,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14158751
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 85
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 21663
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 21748
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 164269
+        }
+      }
+    }
+  }
+}

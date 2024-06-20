@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 930,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "14109729",
+    "username": "jaqueline",
+    "title": null,
+    "fullname": "Jaque",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/14109729.jpg?w=150&till=1722470340&sign=249aafbe8bcd3c211b5a3342dfca9b8a",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.43,
+    "blogger_thematics": {
+      "data": [
+        1042,
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2495991
+    },
+    "engagement_avg": {
+      "value": 238276
+    },
+    "authentic_engagement": {
+      "value": 148702
+    }
+  }
+}

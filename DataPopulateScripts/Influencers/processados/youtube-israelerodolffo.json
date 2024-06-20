@@ -1,0 +1,92 @@
+{
+  "_number": 585,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCEseiqihkEymhN3AhcxBPxw",
+    "username": "israelerodolffo",
+    "title": null,
+    "fullname": "Israel & Rodolffo",
+    "avatar_url": "https://yt3.googleusercontent.com/Q05UcodaYc1ExhagQTEVDvzkH5y7iKMIr3r6rhnkfDZfTZRp95zNdRH7ShG5KcjLdk7ohBty=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.81,
+            "hs_value": 0.001594
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3184711
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 10
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 348
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 358
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4449
+        }
+      }
+    }
+  }
+}

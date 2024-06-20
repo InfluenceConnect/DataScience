@@ -1,0 +1,89 @@
+{
+  "_number": 332,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UChIAHXA1aTNXOWHl_PDP9rw",
+    "username": "SamBechara_",
+    "title": null,
+    "fullname": "Sam Bechara",
+    "avatar_url": "https://yt3.googleusercontent.com/jsEHZ5oLdTdXPxiry5_E8gFUwSMHPJKJrDQ4Cuda-rWVP4pnupfrnykaEw-rL1Y0AErnTSp5Rg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.82,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.82,
+            "hs_value": 27.997893
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.39,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.56,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4770674
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 99
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9444
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 9543
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 181037
+        }
+      }
+    }
+  }
+}

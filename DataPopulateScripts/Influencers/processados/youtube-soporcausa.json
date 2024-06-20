@@ -1,0 +1,92 @@
+{
+  "_number": 727,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCK_KzyBbDOxgrONcgPbRQtg",
+    "username": "soporcausa",
+    "title": null,
+    "fullname": "S\u00f3 Por Causa",
+    "avatar_url": "https://yt3.googleusercontent.com/2KVxRjkPCgL0PE-72fzpooAgYFx9RytXAw6GR7f_0U9p-QscfwoNJuBTVb-eccQADje7GOxQmWQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.71,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.71,
+            "hs_value": 0.011218
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.4,
+            "hs_value": null
+          },
+          {
+            "id": "by",
+            "code": null,
+            "prc": 0.7,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.7,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2670721
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 20
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 464
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 484
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 7350.5
+        }
+      }
+    }
+  }
+}

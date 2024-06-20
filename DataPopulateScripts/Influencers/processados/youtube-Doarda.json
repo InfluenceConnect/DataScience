@@ -1,0 +1,92 @@
+{
+  "_number": 834,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UChWHTbtPhSWm4IOYI0lZvoA",
+    "username": "Doarda",
+    "title": null,
+    "fullname": "Doarda",
+    "avatar_url": "https://yt3.googleusercontent.com/EezbEYAUwBnHF9CTi_8JVV2egcW5f6LLlz4biEMgrdS9VwaIaD_k4UQpDNG8ARSTpiRE330zQR4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.17,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.17,
+            "hs_value": 2.996384
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2421037
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 51
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 11020
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 11071
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 73647.5
+        }
+      }
+    }
+  }
+}

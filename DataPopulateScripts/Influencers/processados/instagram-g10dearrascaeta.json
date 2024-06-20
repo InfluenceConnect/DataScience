@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 816,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "528734265",
+    "username": "g10dearrascaeta",
+    "title": null,
+    "fullname": "Giorgian de Arrascaeta",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/528734265.jpg?w=150&till=1722470340&sign=31eebd8ea87a360cd679b09ddf127b63",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.35,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7633735
+    },
+    "engagement_avg": {
+      "value": 101197
+    },
+    "authentic_engagement": {
+      "value": 65668
+    }
+  }
+}

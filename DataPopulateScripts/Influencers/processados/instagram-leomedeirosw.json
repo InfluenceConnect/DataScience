@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 569,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "50980685930",
+    "username": "leomedeirosw",
+    "title": null,
+    "fullname": "Leo Medeiros",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/50980685930.jpg?w=150&till=1722470340&sign=28c7d8c5458db5e9efb3fec381f9d492",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 74.68,
+    "blogger_thematics": {
+      "data": [
+        1017,
+        1032,
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1485853
+    },
+    "engagement_avg": {
+      "value": 1096038
+    },
+    "authentic_engagement": {
+      "value": 899833
+    }
+  }
+}

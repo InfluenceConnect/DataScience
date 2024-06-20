@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 835,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "37733778088",
+    "username": "escutosertanejo",
+    "title": null,
+    "fullname": "ESCUTO SERTANEJO",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/37733778088.jpg?w=150&till=1722470340&sign=9fc1e958ac0f61d02c5ff5754cf3b994",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.91,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1721293
+    },
+    "engagement_avg": {
+      "value": 428816
+    },
+    "authentic_engagement": {
+      "value": 313630
+    }
+  }
+}

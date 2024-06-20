@@ -1,0 +1,91 @@
+{
+  "_number": 953,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCXV1ZSMS021xo96vdXqIiwg",
+    "username": "UnhaPintadaOficial",
+    "title": null,
+    "fullname": "Unha Pintada Oficial",
+    "avatar_url": "https://yt3.googleusercontent.com/pqV-j1X3K5V_JzX4FLIJpYD5VG6u_pkaVDK-Z862IwqtYYYoQ5obVJGvsejd7ILz33Ts3y_lR8o=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.52,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.52,
+            "hs_value": 0.028182
+          },
+          {
+            "id": "ch",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "cv",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "bd",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2200791
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 34
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1184
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1218
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 12324
+        }
+      }
+    }
+  }
+}

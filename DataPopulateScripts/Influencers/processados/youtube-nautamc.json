@@ -1,0 +1,91 @@
+{
+  "_number": 262,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCUlKVHw25ly9afHwxy4WSRw",
+    "username": "nautamc",
+    "title": null,
+    "fullname": "Nauta",
+    "avatar_url": "https://yt3.googleusercontent.com/o-9emxxFkFxmL3fHTTpM-eGUA7B5VlBTC-ZxuCguzNOgK0WtEtk-7CQU2nHralmK0zfjELfyTA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.13,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.13,
+            "hs_value": 39569.820158
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.49,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.19,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5630396
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 506
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 96250
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 96756
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 588661
+        }
+      }
+    }
+  }
+}

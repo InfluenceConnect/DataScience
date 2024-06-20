@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 688,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "349169983",
+    "username": "henriqueejuliano",
+    "title": null,
+    "fullname": "Henrique e Juliano",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/349169983.jpg?w=150&till=1722470340&sign=9f717c0a8b167e131e1541d10566bd36",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.52,
+    "blogger_thematics": {
+      "data": [
+        1002
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16900274
+    },
+    "engagement_avg": {
+      "value": 65496
+    },
+    "authentic_engagement": {
+      "value": 45748
+    }
+  }
+}

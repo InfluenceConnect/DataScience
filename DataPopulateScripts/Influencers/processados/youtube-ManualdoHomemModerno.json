@@ -1,0 +1,91 @@
+{
+  "_number": 549,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCe3k9fSIl25Bh0j8JxnETEw",
+    "username": "ManualdoHomemModerno",
+    "title": null,
+    "fullname": "Manual do Homem Moderno",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mVTK_vK_onbT2udbgwbUQPecgJlYAooLxVGpd4Gk7kv2I=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.35,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.35,
+            "hs_value": 0.233358
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.88,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.8,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3324916
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 29
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1550
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1579
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 11060
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 69,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCp8i4boXFm2UB3te86RxAZQ",
+    "username": "joaocaetan0",
+    "title": null,
+    "fullname": "Jo\u00e3o Caetano",
+    "avatar_url": "https://yt3.googleusercontent.com/7ZgWHXfPyfMW2T_J73Zc0KEKGvAsltWdLmqo6pMguO6xP46DKLIPz81QfA3gmmYtE0nQU6ov=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 87.21,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 87.21,
+            "hs_value": 378.327871
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 9.47,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.95,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12603256
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 646
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 17030
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 17676
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 378357
+        }
+      }
+    }
+  }
+}

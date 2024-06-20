@@ -1,0 +1,91 @@
+{
+  "_number": 129,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCe5pPUSFEajlij-LrxUl19A",
+    "username": "tribodaperiferia",
+    "title": null,
+    "fullname": "Tribo da Periferia",
+    "avatar_url": "https://yt3.googleusercontent.com/nbsWgY9wHHofvbi87BViQWNqqoT7BiyvnCwIqSfZe5Gl6ej6cZaqDh9x2hboum18Aq2gQEISGw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.81,
+            "hs_value": 149.31385
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.73,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.15,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 0.15,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8924464
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 745
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 12881
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 13626
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 155594.5
+        }
+      }
+    }
+  }
+}

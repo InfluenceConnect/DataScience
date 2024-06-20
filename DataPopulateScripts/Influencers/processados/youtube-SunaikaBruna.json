@@ -1,0 +1,89 @@
+{
+  "_number": 597,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC9eXFedzizQtlY5snZ-IFkg",
+    "username": "SunaikaBruna",
+    "title": null,
+    "fullname": "Sunaika Bruna",
+    "avatar_url": "https://yt3.googleusercontent.com/DBMfKCk627_7jxXEPUA3bkMes7c9Mj4mk_a13IT3Tv6AuBMw17bI4nBAH4w0wDpY-Rl9Eibajg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.89,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.89,
+            "hs_value": 3.897146
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.2,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.5,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3115114
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 62
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4062
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4124
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 40707
+        }
+      }
+    }
+  }
+}

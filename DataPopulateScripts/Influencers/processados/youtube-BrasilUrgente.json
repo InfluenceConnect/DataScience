@@ -1,0 +1,92 @@
+{
+  "_number": 744,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCG-fFAxQjZgJmn0w7Brj5xQ",
+    "username": "BrasilUrgente",
+    "title": null,
+    "fullname": "Brasil Urgente",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGJjHuLkLrQo78mtDlAz3WyOKtO1KaZ1lmOp3sV-pMuQw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.38,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.38,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.48,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.33,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2631000
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 14
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 154
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 168
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4870.5
+        }
+      }
+    }
+  }
+}

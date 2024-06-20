@@ -1,0 +1,92 @@
+{
+  "_number": 222,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCHDV3JN5aqxAy9hwTTVHJow",
+    "username": "SkorpionOFICIAL",
+    "title": null,
+    "fullname": "Skorpion Gamer",
+    "avatar_url": "https://yt3.googleusercontent.com/femVmZfM_hLrdl0CUSqDwA8ot-cqFopsOInVgcM-fVo_wJqIqshA7cWNOPEwcfcYIgo5i7osuQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 88.05,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 88.05,
+            "hs_value": 14.31173
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 7,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.71,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.51,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6291087
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 194
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5876
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6070
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 104647
+        }
+      }
+    }
+  }
+}

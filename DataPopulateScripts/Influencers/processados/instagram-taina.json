@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 180,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "965549713",
+    "username": "taina",
+    "title": null,
+    "fullname": "Taina\u0301 Costa",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/965549713.jpg?w=150&till=1722470340&sign=2dd79314bb4e74837fd6fd6a363a151f",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.46,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 17721304
+    },
+    "engagement_avg": {
+      "value": 547872
+    },
+    "authentic_engagement": {
+      "value": 353315
+    }
+  }
+}

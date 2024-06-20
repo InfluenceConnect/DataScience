@@ -1,0 +1,71 @@
+{
+  "_number": 341,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC2QiCQkZMB3xjZ9erQyyXOA",
+    "username": "DandoTrela",
+    "title": null,
+    "fullname": "DandoTrela",
+    "avatar_url": "https://yt3.googleusercontent.com/-4HHTl036iWZf5HpkLMEjMq7h3avr1crb0IXDCAoqWNND25wB1ZsBJzrbyCBiM7eVJAQUpPBVg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.59,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.59,
+            "hs_value": 166.113319
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.41,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4731108
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 29
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 24912
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 24941
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 366610.5
+        }
+      }
+    }
+  }
+}

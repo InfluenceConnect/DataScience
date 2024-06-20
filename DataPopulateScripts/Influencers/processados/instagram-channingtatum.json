@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 490,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "20315007",
+    "username": "channingtatum",
+    "title": null,
+    "fullname": "Channing Tatum",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/20315007.jpg?w=150&till=1722470340&sign=e7bfcc3a893b296ac58004d5198f7047",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 32.06,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16895345
+    },
+    "engagement_avg": {
+      "value": 127248
+    },
+    "authentic_engagement": {
+      "value": 67986
+    }
+  }
+}

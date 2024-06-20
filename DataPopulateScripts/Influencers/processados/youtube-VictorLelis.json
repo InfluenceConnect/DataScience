@@ -1,0 +1,92 @@
+{
+  "_number": 789,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC3wVslvR1r5lKPeh7wpoG8Q",
+    "username": "VictorLelis",
+    "title": null,
+    "fullname": "Victor Lelis",
+    "avatar_url": "https://yt3.googleusercontent.com/W-tUShZYft8rW2CBRJUdMiFFhTDHcxLmcAYnuvlr3zZ3dB2xz4XMtmX0QTaqlTd0ed0h6DC-dw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.01,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.01,
+            "hs_value": 5.379576
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.4,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14,
+        12
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2515087
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 127
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6500
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6627
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 64825
+        }
+      }
+    }
+  }
+}

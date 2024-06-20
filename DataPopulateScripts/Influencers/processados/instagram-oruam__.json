@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 236,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3948316391",
+    "username": "oruam__",
+    "title": null,
+    "fullname": "\ud83c\udd5e\ud83c\udd61\ud83c\udd64\ud83c\udd50\ud83c\udd5c 22",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3948316391.jpg?w=150&till=1722470340&sign=4c40acbd3de0a1371964b19bc6fcb3cf",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 77.22,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8663681
+    },
+    "engagement_avg": {
+      "value": 798180
+    },
+    "authentic_engagement": {
+      "value": 533127
+    }
+  }
+}

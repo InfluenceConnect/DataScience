@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 301,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1187948664",
+    "username": "jordi.koalitic",
+    "title": null,
+    "fullname": "Jordi Koalitic \ud83d\udc28\ud83d\udcf8",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1187948664.jpg?w=150&till=1722470340&sign=9c74b92b0ad2b2bb14e1c80f4fcaf109",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 13.61,
+    "blogger_thematics": {
+      "data": [
+        1038
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7506469
+    },
+    "engagement_avg": {
+      "value": 640267
+    },
+    "authentic_engagement": {
+      "value": 504664
+    }
+  }
+}

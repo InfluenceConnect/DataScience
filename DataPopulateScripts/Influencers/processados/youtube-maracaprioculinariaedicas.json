@@ -1,0 +1,92 @@
+{
+  "_number": 846,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC-RG0srRm_NsdCKaH-MhoRA",
+    "username": "maracaprioculinariaedicas",
+    "title": null,
+    "fullname": "MARA CAPRIO CULIN\u00c1RIA E DICAS",
+    "avatar_url": "https://yt3.googleusercontent.com/pHF1c5T7gvASb1w3IqC7iTfeL_HsjqO0pyGv7PFJ16x9Ep_2K-g09yfhMsWgFRSQEuskH2-Q6ew=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.96,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 80.96,
+            "hs_value": 0.004548
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 3.7,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.59,
+            "hs_value": null
+          },
+          {
+            "id": "eg",
+            "code": null,
+            "prc": 1.48,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14,
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2384220
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 23
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 302
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 325
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2626
+        }
+      }
+    }
+  }
+}

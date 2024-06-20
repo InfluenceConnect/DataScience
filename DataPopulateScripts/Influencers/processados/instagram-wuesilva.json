@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 664,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1308935096",
+    "username": "wuesilva",
+    "title": null,
+    "fullname": "Wueverton da Silva Pereira",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1308935096.jpg?w=150&till=1722470340&sign=2c7b8abc684af8dcaaa53874899775cd",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.62,
+    "blogger_thematics": {
+      "data": [
+        1042
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5539659
+    },
+    "engagement_avg": {
+      "value": 221427
+    },
+    "authentic_engagement": {
+      "value": 158539
+    }
+  }
+}

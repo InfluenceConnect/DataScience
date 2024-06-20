@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 174,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "270902355",
+    "username": "alok",
+    "title": null,
+    "fullname": "Alok",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/270902355.jpg?w=150&till=1722470340&sign=f5896bc5e78e810ff9a5959c527e15b8",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 78.29,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1002
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 28719934
+    },
+    "engagement_avg": {
+      "value": 362776
+    },
+    "authentic_engagement": {
+      "value": 224892
+    }
+  }
+}

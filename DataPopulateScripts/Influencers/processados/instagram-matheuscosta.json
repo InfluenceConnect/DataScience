@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 943,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "189122239",
+    "username": "matheuscosta",
+    "title": null,
+    "fullname": "Matheus Costa",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/189122239.jpg?w=150&till=1722470340&sign=30534da3282e8922a8e42ccb507def98",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.19,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1036,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3423407
+    },
+    "engagement_avg": {
+      "value": 168050
+    },
+    "authentic_engagement": {
+      "value": 104481
+    }
+  }
+}

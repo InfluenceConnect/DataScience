@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 469,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "176509437",
+    "username": "simonemendes",
+    "title": null,
+    "fullname": "Simone Mendes",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/176509437.jpg?w=150&till=1722470340&sign=7a593101f05064deea1f48e0033360b8",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.23,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 39012087
+    },
+    "engagement_avg": {
+      "value": 61517
+    },
+    "authentic_engagement": {
+      "value": 41379
+    }
+  }
+}

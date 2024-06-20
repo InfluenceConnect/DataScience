@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 657,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "104902672",
+    "username": "chrismcg",
+    "title": null,
+    "fullname": "Christopher McGinnis",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/104902672.jpg?w=150&till=1722470340&sign=169c744a29aa86b67efc1d65fcac1618",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 22.48,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10034910
+    },
+    "engagement_avg": {
+      "value": 122856
+    },
+    "authentic_engagement": {
+      "value": 35441
+    }
+  }
+}

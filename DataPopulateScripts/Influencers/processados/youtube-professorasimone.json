@@ -1,0 +1,91 @@
+{
+  "_number": 866,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCTkDH64uzNz1T9MYyixNPgg",
+    "username": "professorasimone",
+    "title": null,
+    "fullname": "Professora Simone Eleot\u00e9rio",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_ltnsM4610W-kSE7cHQn4d1J7QTGUOHy40lm59qgrdc7FGr=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 87.09,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 87.09,
+            "hs_value": 0.083104
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.03,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 1.27,
+            "hs_value": null
+          },
+          {
+            "id": "pk",
+            "code": null,
+            "prc": 1.01,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.76,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2334983
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 65
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 983
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1048
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 9138
+        }
+      }
+    }
+  }
+}

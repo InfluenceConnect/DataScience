@@ -1,0 +1,92 @@
+{
+  "_number": 442,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCQEUV7le_zYKNKGmUJOwvBw",
+    "username": "Bauers1",
+    "title": null,
+    "fullname": "Bauers",
+    "avatar_url": "https://yt3.googleusercontent.com/v0Mc9a3744JCIOI3D1LK7pVkXOCxcySn7VBD_OLyGSBUfGUekPe8GKog8lBD5GdWmD1cbKOF4w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.61,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.61,
+            "hs_value": 868.620952
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.55,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.42,
+            "hs_value": null
+          },
+          {
+            "id": "ug",
+            "code": null,
+            "prc": 0.61,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3830715
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1350
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 23319
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 24669
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 471796
+        }
+      }
+    }
+  }
+}

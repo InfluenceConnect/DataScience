@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6905782651967570949",
+    "username": "romariodomingos_",
+    "fullname": "Rom\u00e1rio Domingos",
+    "description": "CARA DA LUVA\u207b \ud83e\udde4\n Crist\u00e3o \ufe33humor \ufe33caf\u00e9 \ufe33insta \ud83d\udc47\ud83c\udffd",
+    "tier": 135,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/330b6f0809625f8ce92913cfc88e54c2~c5_720x720.jpeg",
+    "last_media_time": "2024-03-28",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-03-30",
+    "report_data_updated": "2024-02-13",
+    "report_base_updated": "2024-03-29",
+    "report_state": "READY",
+    "report_quality": "FULL"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 69107
+    },
+    "hs_value": {
+      "value": 3312.586416
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 6.67,
+          "mark": "average",
+          "mark_title": "AVERAGE",
+          "similar": 6.214297,
+          "similar_min": 5.287663,
+          "similar_max": 7.259691,
+          "value_prev": 5.67
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 623948
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 36741
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 606
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 839
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 19
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 73,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_ER",
+                "text": "Average audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 285,
+  "_delta": null
+}

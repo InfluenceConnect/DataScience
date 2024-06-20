@@ -1,0 +1,92 @@
+{
+  "_number": 976,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC9ggGxjr2Hdy_Rldn4VrgZQ",
+    "username": "UmBipolar",
+    "title": null,
+    "fullname": "UmBipolar",
+    "avatar_url": "https://yt3.googleusercontent.com/YPsRzRulKM0mhUtC7nI2aXrD3d-l3ZJwoDABlfaUWkqtP78xDNro2GAGAAodJGuMeViiSBPa=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.35,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "bz",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2144631
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4585
+        }
+      }
+    }
+  }
+}

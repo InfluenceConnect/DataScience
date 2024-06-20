@@ -1,0 +1,91 @@
+{
+  "_number": 754,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCkSjy-IOEq-eMtarZl2uH1Q",
+    "username": "Mamaefalei",
+    "title": null,
+    "fullname": "Mamaefalei",
+    "avatar_url": "https://yt3.googleusercontent.com/YH2x180rK4-llgEj9sUuBhDyrrvC5HrKsVzTjvfyt8xPIc3L54i2PxOsg3IU63BqaNId3N6Hcg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.39,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.39,
+            "hs_value": 186.705412
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.41,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2614908
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1000
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 15259
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 16259
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 134798
+        }
+      }
+    }
+  }
+}

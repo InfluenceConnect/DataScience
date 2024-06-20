@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 233,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "8368591",
+    "username": "michaelbjordan",
+    "title": null,
+    "fullname": "Michael B. Jordan",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/8368591.jpg?w=150&till=1722470340&sign=1df42a51e0cbc79dc0552a5704b0ace2",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 37.05,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 24402120
+    },
+    "engagement_avg": {
+      "value": 279889
+    },
+    "authentic_engagement": {
+      "value": 202912
+    }
+  }
+}

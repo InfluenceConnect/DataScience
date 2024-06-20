@@ -1,0 +1,91 @@
+{
+  "_number": 924,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCIADjmjczznwRSotraWHA5Q",
+    "username": "joaonetoefrederico",
+    "title": null,
+    "fullname": "Jo\u00e3o Neto e Frederico",
+    "avatar_url": "https://yt3.googleusercontent.com/Nk2DZWeUUOAxf_TJ1PssJDwa8gUYGVo2oUvXbZNfX_7RDoxIycd21FtQb-pW1g2hs7hxybAgzyk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.13,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.13,
+            "hs_value": 0.001
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.62,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2244930
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 134
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4110
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4244
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 160005
+        }
+      }
+    }
+  }
+}

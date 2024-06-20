@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 726,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "206040744",
+    "username": "pkfreestyle",
+    "title": null,
+    "fullname": "PK",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/206040744.jpg?w=150&till=1722470340&sign=b49e393f28f9a06ddacb221b77d59c83",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 87.38,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1541015
+    },
+    "engagement_avg": {
+      "value": 642701
+    },
+    "authentic_engagement": {
+      "value": 375970
+    }
+  }
+}

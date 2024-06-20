@@ -1,0 +1,92 @@
+{
+  "_number": 398,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC9jMFcUztj-dAulUypaM5dA",
+    "username": "LeandroBorges",
+    "title": null,
+    "fullname": "Leandro Borges",
+    "avatar_url": "https://yt3.googleusercontent.com/Ccwj7wuScDrLwL965vz2rls25g-fk8gaTO32G-ZLkHlUfOp58QecAL-jHiFX6Y255BdGkeei=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.59,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.59,
+            "hs_value": 17.050857
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.26,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.76,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4145276
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 163
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5243
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5406
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 27596
+        }
+      }
+    }
+  }
+}

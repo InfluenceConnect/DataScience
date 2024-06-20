@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 565,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "6643170",
+    "username": "kaka",
+    "title": null,
+    "fullname": "Kaka\u0301",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/6643170.jpg?w=150&till=1722470340&sign=ccb11a6148da666010154736278cf156",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 31,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 23888019
+    },
+    "engagement_avg": {
+      "value": 68559
+    },
+    "authentic_engagement": {
+      "value": 50364
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 875,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCObKDc44YjayM7O0cBIq05w",
+    "username": "RenataMeins",
+    "title": null,
+    "fullname": "Renata Meins",
+    "avatar_url": "https://yt3.googleusercontent.com/kZyyhlbqwl0legpG0ZzUh28p2hk37zqHS-50mH8aRDZ6q7GcP8VHDPCqkr7Qv0YdPYYzRrsqYg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 88.52,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 88.52,
+            "hs_value": 0.360754
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 3.42,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 1.05,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.79,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.7,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        7,
+        11
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2324969
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 117
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4381
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4498
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 32537
+        }
+      }
+    }
+  }
+}

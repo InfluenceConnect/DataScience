@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "143454183621349376",
+    "username": "dani_lima1",
+    "fullname": "user48703249284",
+    "description": "No bio yet",
+    "tier": 147,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 2,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/musically-maliva-obj/1594805258216454~c5_720x720.jpeg",
+    "last_media_time": "2024-05-30",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-05",
+    "report_data_updated": "2022-05-28",
+    "report_base_updated": "2024-06-05",
+    "report_state": "READY",
+    "report_quality": "LIKELY_UNAVAILABLE"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3966742
+    },
+    "hs_value": {
+      "value": 5342.054426
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 13.44,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 6.155944,
+          "similar_min": 5.318082,
+          "similar_max": 7.129463,
+          "value_prev": 10.79
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 615137
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 75912
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 341
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 803
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 28
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 82,
+        "mark": "very_good",
+        "mark_title": "VERY_GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 221,
+  "_delta": null
+}

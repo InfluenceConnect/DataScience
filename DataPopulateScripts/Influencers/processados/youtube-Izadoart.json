@@ -1,0 +1,89 @@
+{
+  "_number": 787,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCzkMkA7I7992XTAci4h-XDg",
+    "username": "Izadoart",
+    "title": null,
+    "fullname": "Izadoart",
+    "avatar_url": "https://yt3.googleusercontent.com/RdPVlYFNU5zWfwi_3NjbCiLHyccGBTmKOgfdBEKrRoCYwsZMHYw3oDvxgSjqXte2NPuMEPKIpw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.07,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.07,
+            "hs_value": 24.574869
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.77,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.18,
+            "hs_value": null
+          },
+          {
+            "id": "zm",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "aq",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2515379
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 47
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5158
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5205
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 56038
+        }
+      }
+    }
+  }
+}

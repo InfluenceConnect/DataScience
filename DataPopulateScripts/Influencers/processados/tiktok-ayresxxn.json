@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "7048445025353106438",
+    "username": "ayresxxn",
+    "fullname": "ayres",
+    "description": "Fr \ud83c\udf2a\ufe0f",
+    "tier": 141,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/175a10a7174ff7f5526cc655f5bcdec9~c5_720x720.jpeg",
+    "last_media_time": "2024-05-26",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-04",
+    "report_data_updated": "2024-04-16",
+    "report_base_updated": "2024-06-03",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 170772
+    },
+    "hs_value": {
+      "value": 457.271235
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 14.3,
+          "mark": "excellent",
+          "mark_title": "EXCELLENT",
+          "similar": 5.883278,
+          "similar_min": 5.013236,
+          "similar_max": 6.903816,
+          "value_prev": null
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 143296
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 17689
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 58
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 1746
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 61,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_ER",
+                "text": "Excellent audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "good",
+            "description": {
+              "title": {
+                "key": "GOOD_CL_RATIO",
+                "text": "Good comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "fair",
+            "description": {
+              "title": {
+                "key": "LOW_GROWTH_SUBSCRIBERS_DECLINE",
+                "text": "Followers number decline"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 613,
+  "_delta": null
+}

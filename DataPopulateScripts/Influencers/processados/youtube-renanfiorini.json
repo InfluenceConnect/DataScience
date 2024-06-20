@@ -1,0 +1,92 @@
+{
+  "_number": 245,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCPJ6Diqv10p-rOfWdKSRs9w",
+    "username": "renanfiorini",
+    "title": null,
+    "fullname": "Renan Fiorini",
+    "avatar_url": "https://yt3.googleusercontent.com/6QmYGqQY55gtv6MH82bMjwm_TOEHvRuY0Oo9xDuc-Wq2NbadANiAnczC2cOEyQTGiqfiCcydjg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.75,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.75,
+            "hs_value": 151.644825
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.34,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.83,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5991269
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 340
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19962
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 20302
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 220792
+        }
+      }
+    }
+  }
+}

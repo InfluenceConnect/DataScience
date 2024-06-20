@@ -1,0 +1,92 @@
+{
+  "_number": 218,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCw_S3AgRp0t-iXw4x5aaZ_Q",
+    "username": "carolborba",
+    "title": null,
+    "fullname": "Carol Borba",
+    "avatar_url": "https://yt3.googleusercontent.com/TxcKIwu1vPEsKoF34XYrU8khQ4Us9EtNBhme4hQGc89xpH0DbL0fheU6PXnTUkyGdxvVRKoi=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.01,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.01,
+            "hs_value": 1.975722
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.3,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 1.04,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 1.04,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.04,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        12,
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6351102
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 157
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3024
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3181
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 32120.5
+        }
+      }
+    }
+  }
+}

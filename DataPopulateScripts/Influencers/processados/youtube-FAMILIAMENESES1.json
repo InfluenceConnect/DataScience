@@ -1,0 +1,89 @@
+{
+  "_number": 391,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCJpZQT1sBAVAZpGQVpP7TyQ",
+    "username": "FAMILIAMENESES1",
+    "title": null,
+    "fullname": "FAM\u00cdLIA MENESES",
+    "avatar_url": "https://yt3.googleusercontent.com/P3sItSO0wLex-Bf9fXd5BJpiRqMpRY8rIGzaenpAH1aE1JfDN6ebftmcudWk_0dLKpZvSQ6C=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.61,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.61,
+            "hs_value": 0.012728
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.84,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.14,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4180985
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 268
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 270
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8005
+        }
+      }
+    }
+  }
+}

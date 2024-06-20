@@ -1,0 +1,91 @@
+{
+  "_number": 342,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCVBErcpqaokOf4fI5j73K_w",
+    "username": "engvidEmma",
+    "title": null,
+    "fullname": "English with Emma \u00b7 engVid",
+    "avatar_url": "https://yt3.googleusercontent.com/n7TC-tw79S8N2aPysRWzG_LowcoLgBI3MoK_c6leEMfstfYOn3Z395PPB3us8HrvGaoYMZdiGA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 17.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 17.81,
+            "hs_value": 0.364448
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 16.8,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 7.22,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 5.19,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 3.49,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        3
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4720862
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 85
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2569
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2654
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 45063
+        }
+      }
+    }
+  }
+}

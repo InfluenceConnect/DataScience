@@ -1,0 +1,91 @@
+{
+  "_number": 499,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCS7mVK5en3RJ0PTbJiKXmzQ",
+    "username": "RapBox",
+    "title": null,
+    "fullname": "RAPBOX",
+    "avatar_url": "https://yt3.googleusercontent.com/DI-1FRiekkpju1kUXc_J1ibNDMqbrzxrqtKPTRmuW9pr7NlPS-838SgtRVech8nU4O9_u4Cpkg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.93,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.93,
+            "hs_value": 16.724391
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3564831
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 58
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5878
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5936
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 67316
+        }
+      }
+    }
+  }
+}

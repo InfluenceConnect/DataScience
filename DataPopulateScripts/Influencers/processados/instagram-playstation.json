@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 717,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "9766379",
+    "username": "playstation",
+    "title": null,
+    "fullname": "PlayStation",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/9766379.jpg?w=150&till=1722470340&sign=7862c656b94def30770cadad3fdce723",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 25.66,
+    "blogger_thematics": {
+      "data": [
+        1049,
+        1034
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 31164481
+    },
+    "engagement_avg": {
+      "value": 32436
+    },
+    "authentic_engagement": {
+      "value": 27116
+    }
+  }
+}

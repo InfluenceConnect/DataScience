@@ -1,0 +1,92 @@
+{
+  "_number": 654,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC2i-nZqZoZkkAE816Z0FZvw",
+    "username": "IncrivelMenteCuriosa",
+    "title": null,
+    "fullname": "IncrivelMente Curiosa",
+    "avatar_url": "https://yt3.googleusercontent.com/OHwvZd75VLzrgz_c8c1qJzKREAmiwLSUutn1xgIPe1uL5bZrdB3LpTHPCd9N22a1ANvp0C29Fw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.18,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.18,
+            "hs_value": 0.001
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 1.84,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.57,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.31,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2885294
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 32
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 35
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1066
+        }
+      }
+    }
+  }
+}

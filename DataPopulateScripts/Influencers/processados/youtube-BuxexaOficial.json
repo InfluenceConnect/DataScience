@@ -1,0 +1,91 @@
+{
+  "_number": 690,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwMAj7T9AklzXiVN5E3QYjQ",
+    "username": "BuxexaOficial",
+    "title": null,
+    "fullname": "BUXEXA",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lkD0a3_7fkNx-GdN5w3DtkXzH9E6Z9UGd-YfGR33F53_UK=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.02,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.02,
+            "hs_value": 19.125543
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.21,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2770852
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 87
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19651
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 19738
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 161796
+        }
+      }
+    }
+  }
+}

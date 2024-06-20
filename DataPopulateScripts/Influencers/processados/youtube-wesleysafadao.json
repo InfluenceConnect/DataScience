@@ -1,0 +1,91 @@
+{
+  "_number": 52,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCciJLMuECsXuOyhA4FO48Sg",
+    "username": "wesleysafadao",
+    "title": null,
+    "fullname": "Wesley Safad\u00e3o",
+    "avatar_url": "https://yt3.googleusercontent.com/ZwLuzuPEitP5V905Up-lMcb_0zq3gF3TVOOcPLp3FoEO3T3X4Oao6lO3bjvk2OgJvRe39JZ6Xg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.72,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.72,
+            "hs_value": 30.928382
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.14,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13848447
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 282
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 11496
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 11778
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1365328
+        }
+      }
+    }
+  }
+}

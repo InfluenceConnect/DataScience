@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 530,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "195238363",
+    "username": "anahi",
+    "title": null,
+    "fullname": "Anahi",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/195238363.jpg?w=150&till=1722470340&sign=53a6f4a047ea2212a96553d6491b17a0",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 61.13,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1039
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13067970
+    },
+    "engagement_avg": {
+      "value": 145881
+    },
+    "authentic_engagement": {
+      "value": 101963
+    }
+  }
+}

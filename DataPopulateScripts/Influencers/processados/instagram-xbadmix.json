@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 550,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "57169947631",
+    "username": "xbadmix",
+    "title": null,
+    "fullname": "Mirella",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/57169947631.jpg?w=150&till=1722470340&sign=6a2a865df5af4b0968aafecd8ca307d1",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 78.75,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8576150
+    },
+    "engagement_avg": {
+      "value": 203194
+    },
+    "authentic_engagement": {
+      "value": 142356
+    }
+  }
+}

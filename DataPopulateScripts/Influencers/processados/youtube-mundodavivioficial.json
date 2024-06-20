@@ -1,0 +1,91 @@
+{
+  "_number": 113,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC-SH7ZCar_m5Udkthm3j0Uw",
+    "username": "mundodavivioficial",
+    "title": null,
+    "fullname": "Vivi's World",
+    "avatar_url": "https://yt3.googleusercontent.com/XlrZYRsdJDl2H4HNAeer8RXDN1kyn5Qw8x4BDL0MX_Drzqw0LH9_mWqYiFWj5AVOGxY6u-W0zQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.5,
+            "hs_value": 36.839831
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.88,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.62,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.62,
+            "hs_value": null
+          },
+          {
+            "id": "ma",
+            "code": null,
+            "prc": 0.62,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9625051
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 206
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2965
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3171
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 122339
+        }
+      }
+    }
+  }
+}

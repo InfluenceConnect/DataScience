@@ -1,0 +1,91 @@
+{
+  "_number": 681,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCO1nS8A9cfvsiV3WAJQ5Omg",
+    "username": "RenataCeliArte",
+    "title": null,
+    "fullname": "Renata Celi",
+    "avatar_url": "https://yt3.googleusercontent.com/AYo6KQ20MV5ZhrmptECKNg1OmEZFLUvXJTm6EPiHGuo59PJ3dxxQ08jZwoAbJPm8QlHVNIns=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.22,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.22,
+            "hs_value": 21.23743
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.29,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          },
+          {
+            "id": "uy",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.11,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2794334
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 434
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5935
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6369
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 67500
+        }
+      }
+    }
+  }
+}

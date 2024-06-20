@@ -1,0 +1,92 @@
+{
+  "_number": 985,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC47gFPxcgny60qvMji9LQlQ",
+    "username": "guilhermeofenomeno",
+    "title": null,
+    "fullname": "GUILHERME O FENOMENO ",
+    "avatar_url": "https://yt3.googleusercontent.com/z8Q6Jf70QUwF1-tm3gqsR65HgVDPh6ZEjTMc1Rb7VD4PwmPe71gWHTpEtEY9D-cv-zdE8jAFPg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.99,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.99,
+            "hs_value": 5.19593
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2125038
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 89
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4198
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4287
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 63044
+        }
+      }
+    }
+  }
+}

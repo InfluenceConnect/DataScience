@@ -1,0 +1,92 @@
+{
+  "_number": 679,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCBOXItKuv_nURV99beVemdw",
+    "username": "PIPACOMBATEOFICIAL",
+    "title": null,
+    "fullname": "Pipa Combate",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lDtfY4Xv89KbQ75OAQ6p9MmDRulfqirfsl3a4iY0B8i9U=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.03,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.03,
+            "hs_value": 2.771967
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "pk",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2801134
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 27
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3927
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3954
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 89461.5
+        }
+      }
+    }
+  }
+}

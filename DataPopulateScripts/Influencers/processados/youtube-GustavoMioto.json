@@ -1,0 +1,91 @@
+{
+  "_number": 172,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCCCIzjqbX7psrn0HYG50phg",
+    "username": "GustavoMioto",
+    "title": null,
+    "fullname": "Gustavo Mioto",
+    "avatar_url": "https://yt3.googleusercontent.com/T1GT6Fj2_LDcA2-6p89wpnkk8QWHzJSk_vC7I0SyYM-Pev635pPq0KkaGtLmtF_vKmCmnF-aaw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.62,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.62,
+            "hs_value": 0.053869
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          },
+          {
+            "id": "al",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7405075
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 25
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1065
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1090
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 7848
+        }
+      }
+    }
+  }
+}

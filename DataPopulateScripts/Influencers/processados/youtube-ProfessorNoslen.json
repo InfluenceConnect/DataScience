@@ -1,0 +1,91 @@
+{
+  "_number": 321,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwSxSJqGpSRpEsq5-YUbM8g",
+    "username": "ProfessorNoslen",
+    "title": null,
+    "fullname": "Professor Noslen",
+    "avatar_url": "https://yt3.googleusercontent.com/VwsL_WcW2_ef8vmoTqD5ZuNU0z7myNX1yndCJEgRcfKbqAQ8tqDRtZG2lc4ZqyoBiqxttiKjMDU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.87,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.87,
+            "hs_value": 0.013941
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.55,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.55,
+            "hs_value": null
+          },
+          {
+            "id": "cr",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4900323
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 16
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 416
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 432
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4986
+        }
+      }
+    }
+  }
+}

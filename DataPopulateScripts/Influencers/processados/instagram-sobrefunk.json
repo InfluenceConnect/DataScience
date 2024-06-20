@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 668,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "26658080705",
+    "username": "sobrefunk",
+    "title": null,
+    "fullname": "Sobre Funk",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/26658080705.jpg?w=150&till=1722470340&sign=8dd73790d6e22029c01508b5ce2aa8e1",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.05,
+    "blogger_thematics": {
+      "data": [
+        1017,
+        1027,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8130435
+    },
+    "engagement_avg": {
+      "value": 148465
+    },
+    "authentic_engagement": {
+      "value": 95433
+    }
+  }
+}

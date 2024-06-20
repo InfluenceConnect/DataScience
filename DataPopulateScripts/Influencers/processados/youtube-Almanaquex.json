@@ -1,0 +1,92 @@
+{
+  "_number": 250,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCJ-hMsnHe-a8Sl9P_ZjGrPA",
+    "username": "Almanaquex",
+    "title": null,
+    "fullname": "Almanaque x",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_laICprWLrQLDDxrOfogLFDyNttNUuL937Ej3nVCHFLn6M=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.5,
+            "hs_value": 5.168171
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.45,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.98,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5875015
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 133
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5465
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5598
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 59863
+        }
+      }
+    }
+  }
+}

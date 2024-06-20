@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 280,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "456617502",
+    "username": "lucasguimaraes",
+    "title": null,
+    "fullname": "Lucas Guimar\u00e3es",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/456617502.jpg?w=150&till=1722470340&sign=8b410f610e524963f35e13c3482ddeb4",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.34,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12941100
+    },
+    "engagement_avg": {
+      "value": 409770
+    },
+    "authentic_engagement": {
+      "value": 255959
+    }
+  }
+}

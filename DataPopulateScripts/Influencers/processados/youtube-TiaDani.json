@@ -1,0 +1,68 @@
+{
+  "_number": 313,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCR2IONXExRWEGxREw7lXHCQ",
+    "username": "TiaDani",
+    "title": null,
+    "fullname": "Tia Dani",
+    "avatar_url": "https://yt3.googleusercontent.com/5funo9WV4nRwdxlKy4dcMPqEpcASZKx55tP3-R6iE1y_SmCGNVEPG5mf-plrfWKiiq_k60Do0UU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 100,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 100,
+            "hs_value": 0.001
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5054963
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 228
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 228
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 31823.5
+        }
+      }
+    }
+  }
+}

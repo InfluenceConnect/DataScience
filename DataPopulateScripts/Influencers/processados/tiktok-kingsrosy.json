@@ -1,0 +1,122 @@
+{
+  "basic": {
+    "social_type": 3,
+    "social_id": "6535911941934683136",
+    "username": "kingsrosy",
+    "fullname": "kingsrosy",
+    "description": "\ud83c\udf0a\u2600\ufe0f\ud83c\udfdd\ufe0f\ud83c\udf40\ud83c\udf34\ud83d\udc20\nStreamer in @Rosy \nFOLLOW ME ON INSTA \ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc",
+    "tier": 144,
+    "is_public": true,
+    "is_verified": false,
+    "visibility_flags": 1,
+    "avatar_url": "https://p16-va-tiktok.ibyteimg.com/tos-maliva-avt-0068/fadf8d87e3c78f6975c2fc236cf626e1~c5_720x720.jpeg",
+    "last_media_time": "2024-05-19",
+    "report_version": "2020-08-17",
+    "report_updated": "2024-06-03",
+    "report_data_updated": "2022-09-14",
+    "report_base_updated": "2024-06-02",
+    "report_state": "READY",
+    "report_quality": "NO_POSTS_7D"
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 547664
+    },
+    "hs_value": {
+      "value": 739.590611
+    },
+    "er": {
+      "performance": {
+        "30d": {
+          "value": 5.43,
+          "mark": "average",
+          "mark_title": "AVERAGE",
+          "similar": 5.83823,
+          "similar_min": 4.985752,
+          "similar_max": 6.836572,
+          "value_prev": 3.84
+        }
+      }
+    },
+    "views_avg": {
+      "performance": {
+        "30d": {
+          "value": 500436
+        }
+      }
+    },
+    "alikes_avg": {
+      "performance": {
+        "30d": {
+          "value": 26725
+        }
+      }
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 255
+        }
+      }
+    },
+    "shares_avg": {
+      "performance": {
+        "30d": {
+          "value": 298
+        }
+      }
+    },
+    "media_count": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    }
+  },
+  "features": {
+    "aqs": {
+      "data": {
+        "value": 69,
+        "mark": "good",
+        "mark_title": "GOOD",
+        "description": {
+          "er": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_ER",
+                "text": "Average audience engagement"
+              }
+            }
+          },
+          "comments_likes_ratio": {
+            "mark": "average",
+            "description": {
+              "title": {
+                "key": "AVG_CL_RATIO",
+                "text": "Average comments to likes ratio"
+              }
+            }
+          },
+          "account_growth": {
+            "mark": "excellent",
+            "description": {
+              "title": {
+                "key": "EXCL_GROWTH",
+                "text": "Excellent account growth rate"
+              }
+            }
+          }
+        }
+      }
+    },
+    "blogger_geo": {
+      "data": {
+        "country": "br"
+      }
+    }
+  },
+  "_number": 502,
+  "_delta": null
+}

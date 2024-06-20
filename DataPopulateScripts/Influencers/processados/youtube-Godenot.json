@@ -1,0 +1,92 @@
+{
+  "_number": 423,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCH0-0_0XNqkg8dTLYtFaWRg",
+    "username": "Godenot",
+    "title": null,
+    "fullname": "Godenot",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nzVYPoyn04rTrzCsXTQEnuvA2wD-8xq2FwUCH1fUDcFzc=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.12,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.12,
+            "hs_value": 0.244328
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.58,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.79,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3965071
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 69
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1571
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1640
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 15315
+        }
+      }
+    }
+  }
+}

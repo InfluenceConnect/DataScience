@@ -1,0 +1,92 @@
+{
+  "_number": 377,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCphr4yejnGroAUGAPuxvSow",
+    "username": "RaiSaiaRodada",
+    "title": null,
+    "fullname": "Ra\u00ed Saia Rodada",
+    "avatar_url": "https://yt3.googleusercontent.com/k_4FHF8TSAWjAzhqjb0_EAssye7zkoqgbERt_JgtiddJ1iO8dAAw1HkSxb36VmJeVwkkByPg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.85,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.85,
+            "hs_value": 0.00288
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "py",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          },
+          {
+            "id": "td",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4344954
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 11
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 396
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 407
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4950.5
+        }
+      }
+    }
+  }
+}

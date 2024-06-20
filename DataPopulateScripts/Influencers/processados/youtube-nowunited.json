@@ -1,0 +1,91 @@
+{
+  "_number": 150,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UColnnUYyz7CWjhzpF1kASnw",
+    "username": "nowunited",
+    "title": null,
+    "fullname": "NOW UNITED",
+    "avatar_url": "https://yt3.googleusercontent.com/UZLsqCW9bOkjoZQOPI7aN-E_rC4qbN9txLQzDIn3yYSQzG7AmNhW2sJlIHJ_GuMVAZWDs4iPhOI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 68.09,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 68.09,
+            "hs_value": 0.079705
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 7.57,
+            "hs_value": null
+          },
+          {
+            "id": "ph",
+            "code": null,
+            "prc": 6.25,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 4.61,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.8,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7984771
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 35
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 765
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 800
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8269
+        }
+      }
+    }
+  }
+}

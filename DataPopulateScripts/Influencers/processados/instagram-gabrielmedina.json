@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 756,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "17282946",
+    "username": "gabrielmedina",
+    "title": null,
+    "fullname": "Gabriel Medina",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/17282946.jpg?w=150&till=1722470340&sign=742e56cc65acd70beb9286d0ed9add64",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 70.62,
+    "blogger_thematics": {
+      "data": [
+        1014,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11434175
+    },
+    "engagement_avg": {
+      "value": 78502
+    },
+    "authentic_engagement": {
+      "value": 52394
+    }
+  }
+}

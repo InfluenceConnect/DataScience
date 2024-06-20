@@ -1,0 +1,92 @@
+{
+  "_number": 365,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCdMdGdabsaWIzSbmE1phGBQ",
+    "username": "KathyCastricini",
+    "title": null,
+    "fullname": "Kathy Castricini",
+    "avatar_url": "https://yt3.googleusercontent.com/oo9svJnt4bChTNmGO6UnKqryI6ePrVuiIwyjPEttUNlFtIUVP0jEYekvw5N07HuQfbjzw2b4EA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.94,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.94,
+            "hs_value": 11.124968
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.03,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "ua",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4511153
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 146
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4946
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5092
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 109375
+        }
+      }
+    }
+  }
+}

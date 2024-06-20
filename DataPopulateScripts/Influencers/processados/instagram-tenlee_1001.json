@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 294,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "21680090333",
+    "username": "tenlee_1001",
+    "title": null,
+    "fullname": "TEN_+\u202210",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/21680090333.jpg?w=150&till=1722470340&sign=22e09d22ce0dec4ee764e1057c8d17be",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 16.97,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10786746
+    },
+    "engagement_avg": {
+      "value": 455950
+    },
+    "authentic_engagement": {
+      "value": 386935
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 470,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "347696668",
+    "username": "realdonaldtrump",
+    "title": null,
+    "fullname": "President Donald J. Trump",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/347696668.jpg?w=150&till=1722470340&sign=a79f3fbed8c767767a2a0cafc81e1be9",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 50.57,
+    "blogger_thematics": {
+      "data": [
+        1052,
+        1006
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 24605234
+    },
+    "engagement_avg": {
+      "value": 98287
+    },
+    "authentic_engagement": {
+      "value": 77706
+    }
+  }
+}

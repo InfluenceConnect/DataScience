@@ -1,0 +1,89 @@
+{
+  "_number": 944,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCYXRVwC5X5BORMBgo6al-Sw",
+    "username": "AquinodosGAMES",
+    "title": null,
+    "fullname": "Aquino dos GAMES",
+    "avatar_url": "https://yt3.googleusercontent.com/j_HHVi2oheY6W8g2c4Ot_Vlre7UZ8A-Wu1RcPs6lnfrI6qdBQPpo6p6CcHZk-F46tIt-JAgZzf4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94,
+            "hs_value": 0.308521
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.67,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.67,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "bm",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2210928
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 257
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 31230
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 31487
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 300517
+        }
+      }
+    }
+  }
+}

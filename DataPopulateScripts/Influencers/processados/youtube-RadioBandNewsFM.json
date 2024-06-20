@@ -1,0 +1,91 @@
+{
+  "_number": 917,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCWijW6tW0iI5ghsAbWDFtTg",
+    "username": "RadioBandNewsFM",
+    "title": null,
+    "fullname": "R\u00e1dio BandNews FM",
+    "avatar_url": "https://yt3.googleusercontent.com/k-uDUujesbrLiWHvtWi11cC46DZnSD4Vowg97AhgWdnD6RB9wGgtvnAlCsDxU6iql-ySiwTrnEE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.91,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.91,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.36,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.57,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.79,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.79,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        19
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2251110
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 122
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 122
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2630
+        }
+      }
+    }
+  }
+}

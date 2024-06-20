@@ -1,0 +1,89 @@
+{
+  "_number": 541,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCJWyWxB76px6YRgpM4yjCwQ",
+    "username": "jameswo",
+    "title": null,
+    "fullname": "James WO",
+    "avatar_url": "https://yt3.googleusercontent.com/rmyu0xSF3IHvDXWRbMFsLjB3krOF1Z3owYyfdSZbhItyQio6ZCzEOUyRE62O_C2drAvH5vFfuw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.34,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.34,
+            "hs_value": 0.607654
+          },
+          {
+            "id": "bs",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "fi",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "pl",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3350942
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 16
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2896
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2912
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 88299
+        }
+      }
+    }
+  }
+}

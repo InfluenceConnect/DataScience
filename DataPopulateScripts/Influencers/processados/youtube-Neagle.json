@@ -1,0 +1,89 @@
+{
+  "_number": 61,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCNrthyyJVjrJUpePrl6lW_g",
+    "username": "Neagle",
+    "title": null,
+    "fullname": "Neagle",
+    "avatar_url": "https://yt3.googleusercontent.com/20JdLi3dFDmWUl3ga_y0U4jp_tamqfWD7SLxSl8jAbGrpRkENtZxr1OTDoDyE_bk_P_rd_Ui5Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.42,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.42,
+            "hs_value": 2034.297734
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.63,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.64,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12951584
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 299
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 173505
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 173804
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 3288085.5
+        }
+      }
+    }
+  }
+}

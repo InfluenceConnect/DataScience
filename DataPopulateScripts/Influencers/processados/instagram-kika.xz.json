@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 531,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "7388086938",
+    "username": "kika.xz",
+    "title": null,
+    "fullname": "kika",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/7388086938.jpg?w=150&till=1722470340&sign=484fdc1e9dc64f31e258add027eb7a6a",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.63,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3962981
+    },
+    "engagement_avg": {
+      "value": 472812
+    },
+    "authentic_engagement": {
+      "value": 324611
+    }
+  }
+}

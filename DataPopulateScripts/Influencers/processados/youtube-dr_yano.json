@@ -1,0 +1,92 @@
+{
+  "_number": 598,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCvdzZeaxQ5qhA51xJPV-X7g",
+    "username": "dr_yano",
+    "title": null,
+    "fullname": "Dr. Roberto Yano",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lhqD8_becS8EX713zmM-OJZa3gDZsfZrDfeqhexXXQzo0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.85,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.85,
+            "hs_value": 7.427145
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.08,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.77,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14,
+        12
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3111493
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 177
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3871
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4048
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 36040
+        }
+      }
+    }
+  }
+}

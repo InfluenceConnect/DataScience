@@ -1,0 +1,35 @@
+{
+  "_fh": "6fccda4bbed0d0054f2edfc528c9be8e",
+  "_number": 5,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "460563723",
+    "username": "selenagomez",
+    "title": null,
+    "fullname": "Selena Gomez",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/460563723.jpg?w=150&till=1722470340&sign=f743287eca8fb2b907b3360d91d0c385",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 12.68,
+    "blogger_thematics": {
+      "data": [
+        1038,
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 427598196
+    },
+    "engagement_avg": {
+      "value": 2311631
+    },
+    "authentic_engagement": {
+      "value": 1830804
+    }
+  }
+}

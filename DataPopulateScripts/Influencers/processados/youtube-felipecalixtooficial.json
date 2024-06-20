@@ -1,0 +1,92 @@
+{
+  "_number": 424,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCgTqAQSmsl52EDxqzwtodMw",
+    "username": "felipecalixtooficial",
+    "title": null,
+    "fullname": "Felipe Calixto",
+    "avatar_url": "https://yt3.googleusercontent.com/iX07G7-AhdR63_n3wKCKf6LVeR16QgtIMjCRJcEFNqGiiA_iupB80q2AKJGlrqSfnZ8DeMnamuU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.43,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.43,
+            "hs_value": 0.058538
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.26,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 1.06,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3961175
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 4
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1653
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1657
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 14592
+        }
+      }
+    }
+  }
+}

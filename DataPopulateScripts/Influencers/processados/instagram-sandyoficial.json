@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 753,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "244300019",
+    "username": "sandyoficial",
+    "title": null,
+    "fullname": "Sandy",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/244300019.jpg?w=150&till=1722470340&sign=80b8de055623abf0353107e91eb756b3",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.66,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8409856
+    },
+    "engagement_avg": {
+      "value": 111645
+    },
+    "authentic_engagement": {
+      "value": 75528
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 792,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "2046679642",
+    "username": "halilibrahimceyhn",
+    "title": null,
+    "fullname": "Halil \u0130brahim Ceyhan",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/2046679642.jpg?w=150&till=1722470340&sign=7f51d0883311737cf54a9065540d484a",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 20.84,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2417342
+    },
+    "engagement_avg": {
+      "value": 341307
+    },
+    "authentic_engagement": {
+      "value": 246083
+    }
+  }
+}

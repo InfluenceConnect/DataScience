@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 217,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "11305924",
+    "username": "chloegmoretz",
+    "title": null,
+    "fullname": "Chlo\u00eb Grace Moretz",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/11305924.jpg?w=150&till=1722470340&sign=29f1583f6b8fd009ca78d5810c2199a6",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 20.45,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 24376790
+    },
+    "engagement_avg": {
+      "value": 302091
+    },
+    "authentic_engagement": {
+      "value": 221525
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 369,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCWmh948hhrAwDkOfkzNGAaQ",
+    "username": "IZAoficial",
+    "title": null,
+    "fullname": "IZA",
+    "avatar_url": "https://yt3.googleusercontent.com/qdPnJk1jHMfFeCxFwHcGQYrynQbWOo5iAV0roZZxTAmho0o5e9gHDEGgTf8BPuAFsUBiKM6Sj5Y=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.1,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.1,
+            "hs_value": 0.279723
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.23,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.47,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4455008
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 28
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1674
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1702
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 22011
+        }
+      }
+    }
+  }
+}

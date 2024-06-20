@@ -1,0 +1,89 @@
+{
+  "_number": 296,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCZlzKyTTEZOk5zHq87_WecA",
+    "username": "caseirices_oficial",
+    "title": null,
+    "fullname": "Caseirices Kids",
+    "avatar_url": "https://yt3.googleusercontent.com/CaQugzc0vy2r_KVHzr8tXoUk59ygfLUqXSWGFsqIbvpX6xRPh5P7Y5h8d3etI_eBf5xn3sd_=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.51,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 85.51,
+            "hs_value": 5865.597056
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.3,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.59,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 1.06,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5331130
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 290
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 33304
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 33594
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 297035.5
+        }
+      }
+    }
+  }
+}

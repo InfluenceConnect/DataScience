@@ -1,0 +1,89 @@
+{
+  "_number": 914,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCferfyAeOJAjS9GoI4td6gg",
+    "username": "CanalPeeWee",
+    "title": null,
+    "fullname": "Canal PeeWee",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nF2S3NQEUDyfufqJqFXS9QLUzaZSUW9nPL-HB7UVuzmkM=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.19,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.19,
+            "hs_value": 1556.599335
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.26,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2255110
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 904
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 49636
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 50540
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 313936
+        }
+      }
+    }
+  }
+}

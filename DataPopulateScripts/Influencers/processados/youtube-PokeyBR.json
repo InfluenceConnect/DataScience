@@ -1,0 +1,89 @@
+{
+  "_number": 315,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCYK4l11zx3-dN1gNg1DMOIg",
+    "username": "PokeyBR",
+    "title": null,
+    "fullname": "Pokey",
+    "avatar_url": "https://yt3.googleusercontent.com/MIwWyrP_m-jOGPwyLSlxmqKk_17H8XB1svSdoSY-09N3GkVSlmFcglfNQ8n1DwD6Nr5uLAx8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.94,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.94,
+            "hs_value": 0.787365
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.31,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.01,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4955031
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 43
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2916
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2959
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 61003.5
+        }
+      }
+    }
+  }
+}

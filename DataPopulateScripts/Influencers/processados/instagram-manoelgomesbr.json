@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 910,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "7116810943",
+    "username": "manoelgomesbr",
+    "title": null,
+    "fullname": "Manoel Gomes",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/7116810943.jpg?w=150&till=1722470340&sign=2af7f2cb119593c0e31d6b29cd43a9d4",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.19,
+    "blogger_thematics": {
+      "data": [
+        1042,
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8699055
+    },
+    "engagement_avg": {
+      "value": 75930
+    },
+    "authentic_engagement": {
+      "value": 54554
+    }
+  }
+}

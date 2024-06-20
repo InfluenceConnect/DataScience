@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 788,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1485548379",
+    "username": "baptista_miranda",
+    "title": null,
+    "fullname": "Baptista Miranda Oficial",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1485548379.jpg?w=150&till=1722470340&sign=2d01f4f57ae24be69c8e03f707d55cd7",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 70.32,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3841869
+    },
+    "engagement_avg": {
+      "value": 216716
+    },
+    "authentic_engagement": {
+      "value": 157599
+    }
+  }
+}

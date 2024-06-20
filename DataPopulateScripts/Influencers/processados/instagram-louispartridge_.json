@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 184,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "410718201",
+    "username": "louispartridge_",
+    "title": null,
+    "fullname": "Louis\ud83d\udc90",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/410718201.jpg?w=150&till=1722470340&sign=3dc91af07b364b469091e4f20db09826",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 13.81,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9113850
+    },
+    "engagement_avg": {
+      "value": 1043670
+    },
+    "authentic_engagement": {
+      "value": 700632
+    }
+  }
+}

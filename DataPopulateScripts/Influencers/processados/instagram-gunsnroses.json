@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 784,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "173563341",
+    "username": "gunsnroses",
+    "title": null,
+    "fullname": "Guns N' Roses",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/173563341.jpg?w=150&till=1722470340&sign=ba779e5ba2e48ebb059eb5873b5ae0c0",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 25.95,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7305427
+    },
+    "engagement_avg": {
+      "value": 116074
+    },
+    "authentic_engagement": {
+      "value": 92044
+    }
+  }
+}

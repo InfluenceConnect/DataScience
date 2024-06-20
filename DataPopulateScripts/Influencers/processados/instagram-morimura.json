@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 510,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "39571425",
+    "username": "morimura",
+    "title": null,
+    "fullname": "Matheus MoriMura Jorda\u0303o",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/39571425.jpg?w=150&till=1722470340&sign=0febfd2e9f9f57169514b58e0a199269",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.47,
+    "blogger_thematics": {
+      "data": [
+        1017
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4895298
+    },
+    "engagement_avg": {
+      "value": 414003
+    },
+    "authentic_engagement": {
+      "value": 283732
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 196,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "59341199138",
+    "username": "buzeira_",
+    "title": null,
+    "fullname": "Buzeira",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/59341199138.jpg?w=150&till=1722470340&sign=d453815ba0b96e38795d6c8fee2efc7e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.52,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10233849
+    },
+    "engagement_avg": {
+      "value": 831067
+    },
+    "authentic_engagement": {
+      "value": 555085
+    }
+  }
+}

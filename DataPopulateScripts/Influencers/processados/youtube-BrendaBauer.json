@@ -1,0 +1,92 @@
+{
+  "_number": 472,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCA3Wc0OoobCf7KGdViiAxRA",
+    "username": "BrendaBauer",
+    "title": null,
+    "fullname": "Brenda Bauer",
+    "avatar_url": "https://yt3.googleusercontent.com/iyowXndxoCxTvilrjskAC6i50taVg4Ok4634X92r_ppaiApE0j6Dz_Kdlov_BUcM1pj3iy91Ew=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.67,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.67,
+            "hs_value": 6.383816
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 1.27,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.27,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 1.27,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 1.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3690706
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 476
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4937
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5413
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 95248
+        }
+      }
+    }
+  }
+}

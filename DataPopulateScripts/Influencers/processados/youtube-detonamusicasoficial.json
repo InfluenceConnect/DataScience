@@ -1,0 +1,91 @@
+{
+  "_number": 177,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCGXJctnOERFLvxiMb-jF6oQ",
+    "username": "detonamusicasoficial",
+    "title": null,
+    "fullname": "DETONA\u00a0FUNK",
+    "avatar_url": "https://yt3.googleusercontent.com/CNjElqduZk2GcfCPfXfVPbmx5WtTV7clwqQV1hhyerJQwGPWufUwcxtkf1qKwmf5Ts4kCHss2GA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.66,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.66,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.91,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.61,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7334707
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 56
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 57
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1018.5
+        }
+      }
+    }
+  }
+}

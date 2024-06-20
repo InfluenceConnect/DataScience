@@ -1,0 +1,79 @@
+{
+  "_number": 859,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC5cIiDa80yA0KNul94zOoZA",
+    "username": "GeovanneSantosTV",
+    "title": null,
+    "fullname": "Geovanne Santos TV",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lDeOzXeobNofRUU9szRoOxyrtwGqtNz7peMrEK7r5AhjI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.72,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.72,
+            "hs_value": 0.257218
+          },
+          {
+            "id": "cv",
+            "code": null,
+            "prc": 1.64,
+            "hs_value": null
+          },
+          {
+            "id": "be",
+            "code": null,
+            "prc": 1.64,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        19
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2354348
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 144
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1681
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1825
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8965
+        }
+      }
+    }
+  }
+}

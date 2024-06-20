@@ -1,0 +1,91 @@
+{
+  "_number": 350,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCU6JLYuerEUb7VrDd4zLihg",
+    "username": "SportsHD",
+    "title": null,
+    "fullname": "SportsHD",
+    "avatar_url": "https://yt3.googleusercontent.com/jjrhAvA_x4NvaL8nW-k7kWaTzAxxbXzXcxoOheVsgPEIe1V7BMkWVfcg5Qut2st2QFEqFFZKLQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 31.8,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 31.8,
+            "hs_value": 0.021999
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 7.7,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 6.5,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 5.8,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 4.7,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        22
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4625136
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 92
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1257
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1349
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 56970
+        }
+      }
+    }
+  }
+}

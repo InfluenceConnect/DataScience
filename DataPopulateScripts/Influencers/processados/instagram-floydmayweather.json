@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 528,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "16264572",
+    "username": "floydmayweather",
+    "title": null,
+    "fullname": "Floyd Mayweather",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/16264572.jpg?w=150&till=1722470340&sign=7a5a4a9293374a254ecf8237c5979d91",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 40.26,
+    "blogger_thematics": {
+      "data": [
+        1023
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 29857442
+    },
+    "engagement_avg": {
+      "value": 63253
+    },
+    "authentic_engagement": {
+      "value": 43099
+    }
+  }
+}

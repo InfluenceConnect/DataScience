@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 859,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "324309154",
+    "username": "kaynnab",
+    "title": null,
+    "fullname": "Kaynna Barbaresco",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/324309154.jpg?w=150&till=1722470340&sign=1ee1838beda28bcd2633faf71b4e421f",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.79,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2068736
+    },
+    "engagement_avg": {
+      "value": 341730
+    },
+    "authentic_engagement": {
+      "value": 248154
+    }
+  }
+}

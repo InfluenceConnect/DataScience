@@ -1,0 +1,92 @@
+{
+  "_number": 667,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCqppqPJk8-G1yM2LWcQ3JSA",
+    "username": "Luarices",
+    "title": null,
+    "fullname": "Luarices",
+    "avatar_url": "https://yt3.googleusercontent.com/tRVooCZ4BYEQ1SiEGSlyemmKYGdQ5mCK2Ooy8p976VFh0OxQ-Rybkg2Pbwkixd0LqQ91gn9V=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.26,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.26,
+            "hs_value": 315.825907
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.34,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.97,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2840962
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 233
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 23257
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 23490
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 109104
+        }
+      }
+    }
+  }
+}

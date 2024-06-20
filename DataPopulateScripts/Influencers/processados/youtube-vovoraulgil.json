@@ -1,0 +1,91 @@
+{
+  "_number": 247,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC7mMSiAr_-bqP_Duf-PAF0A",
+    "username": "vovoraulgil",
+    "title": null,
+    "fullname": "Vov\u00f4 Raul Gil Oficial",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mn0WegA_M5PHYdco1bkT5PD31Ayjo4ExVQK8P5UBQfEMo=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 86.96,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 86.96,
+            "hs_value": 0.019851
+          },
+          {
+            "id": "ph",
+            "code": null,
+            "prc": 2.17,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.17,
+            "hs_value": null
+          },
+          {
+            "id": "my",
+            "code": null,
+            "prc": 1.09,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.09,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5984892
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 39
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 547
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 586
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 37818.5
+        }
+      }
+    }
+  }
+}

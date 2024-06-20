@@ -1,0 +1,91 @@
+{
+  "_number": 295,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCF1QpivnnDnbM85kPbR-sWA",
+    "username": "ZeVaqueiro",
+    "title": null,
+    "fullname": "Z\u00e9 Vaqueiro",
+    "avatar_url": "https://yt3.googleusercontent.com/hgF1E5hHLkQ2ehUutHEyMi8nLje_nsAEwNZz50Y-xZ87J-y_Md3ft2iy52LN_wiXx7vbxM01mA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.95,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.95,
+            "hs_value": 0.128087
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.31,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "pl",
+            "code": null,
+            "prc": 0.15,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.15,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5331130
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 35
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1179
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1214
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 12895
+        }
+      }
+    }
+  }
+}

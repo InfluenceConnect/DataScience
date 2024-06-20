@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 659,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "638302740",
+    "username": "euteto",
+    "title": null,
+    "fullname": "TETO",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/638302740.jpg?w=150&till=1722470340&sign=5028c0e3ab6d514b7e73103e494db59f",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.31,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5422305
+    },
+    "engagement_avg": {
+      "value": 230049
+    },
+    "authentic_engagement": {
+      "value": 171007
+    }
+  }
+}

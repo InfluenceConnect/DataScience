@@ -1,0 +1,89 @@
+{
+  "_number": 704,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCAEIZNdLOpnwHFFquEcPVKA",
+    "username": "SouthAmericaMemes",
+    "title": null,
+    "fullname": "South America Memes",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8oM0GKedmoMZ-32vBIOxvr9QPZlEX53aSW8JmMvQG0Zo=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.43,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.43,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.74,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2744920
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 114
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 115
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1571
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_number": 293,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCbmU-Xcgy5ePHd9q8r_zfYw",
+    "username": "MaoriBluee",
+    "title": null,
+    "fullname": "Maori Blue",
+    "avatar_url": "https://yt3.googleusercontent.com/ItLxCutq_rds5Btm_OLw-ESa5lK1bRnVV2aWeZgd-q-zcF_fxM_0uLzPdSms03dVioZ_8GC4Dw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 72.08,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 72.08,
+            "hs_value": 1396.556964
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 6.42,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 6.04,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 1.89,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 1.51,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5360995
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 271
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 32843
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 33114
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 716936
+        }
+      }
+    }
+  }
+}

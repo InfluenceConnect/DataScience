@@ -1,0 +1,91 @@
+{
+  "_number": 359,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwVzFkXszeP__iWXNV2EjhA",
+    "username": "Bradesco",
+    "title": null,
+    "fullname": "bradesco",
+    "avatar_url": "https://yt3.googleusercontent.com/apsPjAUqePmVxYzNU-x2khsTAtfopPD1wY3aj_ZF_lOqmh0DhYN9Mm69aM11OX6LJMy7jwSGf-0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.78,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.78,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.94,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          },
+          {
+            "id": "sr",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        7
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4535099
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 37
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 43
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1678
+        }
+      }
+    }
+  }
+}

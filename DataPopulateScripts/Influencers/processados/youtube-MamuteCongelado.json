@@ -1,0 +1,92 @@
+{
+  "_number": 105,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCo3SoV1pJPQPJSDVKdurksA",
+    "username": "MamuteCongelado",
+    "title": null,
+    "fullname": "Mamute Congelado",
+    "avatar_url": "https://yt3.googleusercontent.com/4JurCVpjOrFGB0JevAC4Mnim7q-u9Wd0ZI69Jo1B7U0yQim1leZ1Hpkcm3kldMJJQeYCtBBZCP0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.01,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.01,
+            "hs_value": 0.053079
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.5,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.59,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10009331
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 15
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1441
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1456
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 22405
+        }
+      }
+    }
+  }
+}

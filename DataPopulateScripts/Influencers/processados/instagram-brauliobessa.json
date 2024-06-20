@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 873,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "242435353",
+    "username": "brauliobessa",
+    "title": null,
+    "fullname": "Bra\u0301ulio Bessa",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/242435353.jpg?w=150&till=1722470340&sign=228a2a17027484234eee1dbf21022620",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.79,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5322037
+    },
+    "engagement_avg": {
+      "value": 130257
+    },
+    "authentic_engagement": {
+      "value": 80862
+    }
+  }
+}

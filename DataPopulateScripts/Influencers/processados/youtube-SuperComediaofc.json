@@ -1,0 +1,92 @@
+{
+  "_number": 445,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCZbfSxcikeK2pGMittWyvbw",
+    "username": "SuperComediaofc",
+    "title": null,
+    "fullname": "Super Comedia",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lUsO6vAHyuV5t3CuFFkBeRugB_JymQ1qBeBjro3vEA-Ck=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.88,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.88,
+            "hs_value": 377.023398
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.78,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "ua",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3810862
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 532
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19050
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 19582
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 195160
+        }
+      }
+    }
+  }
+}

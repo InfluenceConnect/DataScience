@@ -1,0 +1,92 @@
+{
+  "_number": 55,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCt_4wzTQqmcUvemNkeO0plA",
+    "username": "einerdtv",
+    "title": null,
+    "fullname": "Ei Nerd",
+    "avatar_url": "https://yt3.googleusercontent.com/9z8IDvlZ_ytBTWgMXLpkrwcYaSyjEk5vVITs5I5hgMSK6mB0iJ_YonxbNXnGl_YWq_E4pFHC=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.99,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.99,
+            "hs_value": 109.190662
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.05,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.9,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.15,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13551582
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 335
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 15010
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 15345
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 105490
+        }
+      }
+    }
+  }
+}

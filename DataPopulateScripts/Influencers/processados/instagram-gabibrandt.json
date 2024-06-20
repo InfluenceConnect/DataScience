@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 872,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "111942",
+    "username": "gabibrandt",
+    "title": null,
+    "fullname": "Gabi Brandt",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/111942.jpg?w=150&till=1722470340&sign=0e244003fbe05980bdcd4504aa4c53f1",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 88.85,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6459432
+    },
+    "engagement_avg": {
+      "value": 106563
+    },
+    "authentic_engagement": {
+      "value": 63636
+    }
+  }
+}

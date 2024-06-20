@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 589,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "175975796",
+    "username": "davidluiz23",
+    "title": null,
+    "fullname": "David Luiz",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/175975796.jpg?w=150&till=1722470340&sign=0c4a036ef821ec723c87cbbdf1cfd997",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 61.9,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 24181149
+    },
+    "engagement_avg": {
+      "value": 64203
+    },
+    "authentic_engagement": {
+      "value": 44486
+    }
+  }
+}

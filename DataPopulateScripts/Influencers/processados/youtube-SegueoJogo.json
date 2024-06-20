@@ -1,0 +1,91 @@
+{
+  "_number": 838,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCNRtVb5mn7Rm6zC65119AsA",
+    "username": "SegueoJogo",
+    "title": null,
+    "fullname": "Segue o Jogo",
+    "avatar_url": "https://yt3.googleusercontent.com/qgmlbr05jeJwJmYcHoNChYl8Oz5E7EaEDc6nIV95kYyIP9RqH1Tl_O5Aj3wvxKTYs5oefpJtQQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.16,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.16,
+            "hs_value": 0.921197
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          },
+          {
+            "id": "by",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          },
+          {
+            "id": "tn",
+            "code": null,
+            "prc": 0.46,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2405120
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 49
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1348
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1397
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 42371
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 408,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCIzAIM-zatIDHErC0Z23hbQ",
+    "username": "MusicaMultishow",
+    "title": null,
+    "fullname": "M\u00fasica Multishow",
+    "avatar_url": "https://yt3.googleusercontent.com/bDhSGg9-M_W81MtAFBrNqxNzTlPAY9j3COpVdb4ytb3ZrHnxIeOOK7ZWoKFqcQLP9JletGXa=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.75,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.75,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.35,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.02,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          },
+          {
+            "id": "om",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4080862
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 142
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 145
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2699
+        }
+      }
+    }
+  }
+}

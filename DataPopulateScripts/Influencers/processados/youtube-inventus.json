@@ -1,0 +1,89 @@
+{
+  "_number": 447,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCJEaZHYLbHWbMmes0NrRQpQ",
+    "username": "inventus",
+    "title": null,
+    "fullname": "Inventus",
+    "avatar_url": "https://yt3.googleusercontent.com/5cdDJI-6u7QEy_sfARQ7WHOo2-D06SMuE_g2loyYr2y0kNmUhWDY86-m1BRd6QZov2Bi2SPkwVU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 50,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 50,
+            "hs_value": 0.208654
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 10.76,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 10.48,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 4.62,
+            "hs_value": null
+          },
+          {
+            "id": "pk",
+            "code": null,
+            "prc": 3.72,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3805673
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 44
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1121
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1165
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 95695
+        }
+      }
+    }
+  }
+}

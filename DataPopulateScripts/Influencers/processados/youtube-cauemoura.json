@@ -1,0 +1,92 @@
+{
+  "_number": 306,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCm2CE2YfpmobBmF8ARLPzAw",
+    "username": "cauemoura",
+    "title": null,
+    "fullname": "Caue Moura",
+    "avatar_url": "https://yt3.googleusercontent.com/XbWSWrAAijU446bGoCNSvWoj0et2mEDYPLLsDFFRN5XW8cUUZt_6EXCDU70ktw8oABbwxiyi=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.29,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.29,
+            "hs_value": 250.130249
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.39,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.97,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5155042
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 461
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 13380
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 13841
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 72253
+        }
+      }
+    }
+  }
+}

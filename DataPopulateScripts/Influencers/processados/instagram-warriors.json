@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 479,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "31358558",
+    "username": "warriors",
+    "title": null,
+    "fullname": "Golden State Warriors",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/31358558.jpg?w=150&till=1722470340&sign=71f660a356161ca291e40e37a684766e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 36.74,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 32516671
+    },
+    "engagement_avg": {
+      "value": 68340
+    },
+    "authentic_engagement": {
+      "value": 54300
+    }
+  }
+}

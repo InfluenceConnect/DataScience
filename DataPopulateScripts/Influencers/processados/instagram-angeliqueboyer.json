@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 461,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "21884250",
+    "username": "angeliqueboyer",
+    "title": null,
+    "fullname": "Angelique Boyer",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/21884250.jpg?w=150&till=1722470340&sign=22e886a8ec3f3f73c7cd0c9ee1a65bda",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 33.64,
+    "blogger_thematics": {
+      "data": [
+        1017,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16185509
+    },
+    "engagement_avg": {
+      "value": 152371
+    },
+    "authentic_engagement": {
+      "value": 105100
+    }
+  }
+}

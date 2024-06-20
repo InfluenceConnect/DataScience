@@ -1,0 +1,91 @@
+{
+  "_number": 932,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCE8deXi-Eea3SuEV1Q1L4ug",
+    "username": "otaviouga",
+    "title": null,
+    "fullname": "Super Oito",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lG1DugnypeXNuyQG2ALnzryqsbSF7AyaxGTKFfJCa1KXI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.24,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.24,
+            "hs_value": 204.098884
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.3,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          },
+          {
+            "id": "no",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2235023
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 545
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19199
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 19744
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 140118.5
+        }
+      }
+    }
+  }
+}

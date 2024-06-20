@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 309,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "6213406",
+    "username": "matue",
+    "title": null,
+    "fullname": "",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/6213406.jpg?w=150&till=1722470340&sign=5088111050ab863ade73a0394fdc2a06",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.55,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10513076
+    },
+    "engagement_avg": {
+      "value": 440936
+    },
+    "authentic_engagement": {
+      "value": 314807
+    }
+  }
+}

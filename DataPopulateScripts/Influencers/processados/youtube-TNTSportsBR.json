@@ -1,0 +1,91 @@
+{
+  "_number": 88,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCs-6sCz2LJm1PrWQN4ErsPw",
+    "username": "TNTSportsBR",
+    "title": null,
+    "fullname": "TNT Sports Brasil",
+    "avatar_url": "https://yt3.googleusercontent.com/L_95tViN2TtR9sMLNU4j_7bxISW0R9OZQqKXDwrGoUFIMj1G7W2nvaUb0wMMAf0ukKgCkPtRSw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.83,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.83,
+            "hs_value": 1.738933
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.32,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        22
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11111172
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 68
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4063
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4131
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 59774
+        }
+      }
+    }
+  }
+}

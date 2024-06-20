@@ -1,0 +1,89 @@
+{
+  "_number": 836,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC4kt-PRWbwpcArLIhE26mIw",
+    "username": "ROXTEEN",
+    "title": null,
+    "fullname": "ROXTEEN",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lBa6KjRcyF_ja9NOQ5Dnqb1qndhlkUqL213n10u3KFGA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.17,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.17,
+            "hs_value": 0.310781
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.42,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.62,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "ai",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2410918
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 20
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1268
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1288
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 23150
+        }
+      }
+    }
+  }
+}

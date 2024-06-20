@@ -1,0 +1,92 @@
+{
+  "_number": 354,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCKHFNUjqZ4RbUL2qQ0_sioA",
+    "username": "pabllym",
+    "title": null,
+    "fullname": "Pabllym",
+    "avatar_url": "https://yt3.googleusercontent.com/a7lrMSPD-IW_1i4A8RzfwQYzx11wCRWk8YT_zOvNjR_CAlDUNXXkkx2F2cEK5F4ykd_7nCTOOxY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.97,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.97,
+            "hs_value": 0.018711
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.48,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.18,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "be",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4595395
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 17
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 426
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 443
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 13434
+        }
+      }
+    }
+  }
+}

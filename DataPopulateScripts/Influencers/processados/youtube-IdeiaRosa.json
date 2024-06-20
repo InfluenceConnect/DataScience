@@ -1,0 +1,89 @@
+{
+  "_number": 874,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC3R2CHCdBtsbgCbWQRZPtiw",
+    "username": "IdeiaRosa",
+    "title": null,
+    "fullname": "Ana Carla",
+    "avatar_url": "https://yt3.googleusercontent.com/-WZe02uRro_t2UMLx4Y7Pk9MPdtmLLinO2MbmoTbBpaTMc28i6Qieub-ZhMq8uFG6FmY8lrV5g=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.94,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.94,
+            "hs_value": 0.139662
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.24,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.88,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.73,
+            "hs_value": null
+          },
+          {
+            "id": "ch",
+            "code": null,
+            "prc": 0.44,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2324969
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 57
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1281
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1338
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8596.5
+        }
+      }
+    }
+  }
+}

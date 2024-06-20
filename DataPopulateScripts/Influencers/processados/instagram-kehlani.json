@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 282,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "8253854",
+    "username": "kehlani",
+    "title": null,
+    "fullname": "Kehlani",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/8253854.jpg?w=150&till=1722470340&sign=9e61690ba0e57b7641ba13bfe771db82",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 54.07,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1042
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15720402
+    },
+    "engagement_avg": {
+      "value": 329149
+    },
+    "authentic_engagement": {
+      "value": 226580
+    }
+  }
+}

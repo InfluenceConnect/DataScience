@@ -1,0 +1,92 @@
+{
+  "_number": 185,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UClPGrZvHId38DxlURApQu8A",
+    "username": "denimedeiros",
+    "title": null,
+    "fullname": "Deni Medeiros",
+    "avatar_url": "https://yt3.googleusercontent.com/M0dp5UCDeMtiwXHRIGSpAiFjgR9RoyFPU_e3jnv_e3457etlvHcdzb28lG_b-dUWAE-4PRXh=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.73,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.73,
+            "hs_value": 0.695585
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.98,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.44,
+            "hs_value": null
+          },
+          {
+            "id": "bg",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7151132
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 45
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1657
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1702
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 27975
+        }
+      }
+    }
+  }
+}

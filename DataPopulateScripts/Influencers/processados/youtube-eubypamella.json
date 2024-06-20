@@ -1,0 +1,92 @@
+{
+  "_number": 166,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCpO4C7n86oFyCtlpiVPtcDA",
+    "username": "eubypamella",
+    "title": null,
+    "fullname": "By Pamella",
+    "avatar_url": "https://yt3.googleusercontent.com/WP9MrGcbcr6A0TbTtCX0AJEU4pXWCakeGMVH8qDZAuZeSZQEXhHskw0isa2tQks2kPJ0hk0aow=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.96,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.96,
+            "hs_value": 1.458548
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.07,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.74,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7485025
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 98
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3867
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3965
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 38213
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 969,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "47547112243",
+    "username": "verinha.jr",
+    "title": null,
+    "fullname": "Ailton Julio",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/47547112243.jpg?w=150&till=1722470340&sign=68d9e19d5e4d76efcf0104fce810a2ee",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.94,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5165682
+    },
+    "engagement_avg": {
+      "value": 108382
+    },
+    "authentic_engagement": {
+      "value": 61438
+    }
+  }
+}

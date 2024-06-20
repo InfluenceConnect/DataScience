@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 61,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "2033147472",
+    "username": "zayn",
+    "title": null,
+    "fullname": "Zayn Malik",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/2033147472.jpg?w=150&till=1722470340&sign=d6ba6e88a97605503a90b6ff9548b469",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 11.58,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 52304899
+    },
+    "engagement_avg": {
+      "value": 959066
+    },
+    "authentic_engagement": {
+      "value": 809264
+    }
+  }
+}

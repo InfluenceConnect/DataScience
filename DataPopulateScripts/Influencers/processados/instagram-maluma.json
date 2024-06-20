@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 76,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "44059601",
+    "username": "maluma",
+    "title": null,
+    "fullname": "MALUMA",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/44059601.jpg?w=150&till=1722470340&sign=4a95bdf3f0e0fbc36c4ed4e02cecf7fd",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 11.86,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 64066846
+    },
+    "engagement_avg": {
+      "value": 618182
+    },
+    "authentic_engagement": {
+      "value": 462749
+    }
+  }
+}

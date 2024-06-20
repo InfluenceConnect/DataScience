@@ -1,0 +1,91 @@
+{
+  "_number": 486,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCRD1ypvmK7e_05Rtu9zHOfQ",
+    "username": "anacastelaoficial",
+    "title": null,
+    "fullname": "Ana Castela",
+    "avatar_url": "https://yt3.googleusercontent.com/QpZBK4kcRG1ZYnDeX_0kZ_z7AjxEIru270yeXAlucRPhDezed-RE64qIBWiNoTv19VF9pQCm=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.55,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.55,
+            "hs_value": 6778.033807
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "py",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3601661
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 522
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4395
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4917
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    }
+  }
+}

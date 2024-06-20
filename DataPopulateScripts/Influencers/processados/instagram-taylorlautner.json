@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 934,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3209185398",
+    "username": "taylorlautner",
+    "title": null,
+    "fullname": "Taylor Lautner",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3209185398.jpg?w=150&till=1722470340&sign=48ca6597adc82553b5be84e4e838d070",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 21.21,
+    "blogger_thematics": {
+      "data": [
+        1017,
+        1032,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11149113
+    },
+    "engagement_avg": {
+      "value": 51597
+    },
+    "authentic_engagement": {
+      "value": 40270
+    }
+  }
+}

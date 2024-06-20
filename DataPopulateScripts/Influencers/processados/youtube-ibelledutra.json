@@ -1,0 +1,92 @@
+{
+  "_number": 329,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCBvqyyzobkfklObdORcHWBg",
+    "username": "ibelledutra",
+    "title": null,
+    "fullname": "Isabelle Dutra (Ibelledutra)",
+    "avatar_url": "https://yt3.googleusercontent.com/VkNIKam9GRMQJGorKQXAJs2IgnjyOAhQtJHRllZq6BV_N5KilDBSLjfgahJXicI4TlVBcBgu=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.65,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.65,
+            "hs_value": 7.517866
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.01,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.67,
+            "hs_value": null
+          },
+          {
+            "id": "bt",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4790382
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 18
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 12319
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 12337
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 130523
+        }
+      }
+    }
+  }
+}

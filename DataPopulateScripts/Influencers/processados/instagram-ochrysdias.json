@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 265,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "46167784985",
+    "username": "ochrysdias",
+    "title": null,
+    "fullname": "Chrys Dias",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/46167784985.jpg?w=150&till=1722470340&sign=776429612487f863549598f5c934cbc9",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.37,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6590409
+    },
+    "engagement_avg": {
+      "value": 875581
+    },
+    "authentic_engagement": {
+      "value": 590566
+    }
+  }
+}

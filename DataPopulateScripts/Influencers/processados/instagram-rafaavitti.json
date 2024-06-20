@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 757,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "309636631",
+    "username": "rafaavitti",
+    "title": null,
+    "fullname": "Rafael Vitti",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/309636631.jpg?w=150&till=1722470340&sign=c19aa45ef89d2537744fc77e951f5787",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.74,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 22932278
+    },
+    "engagement_avg": {
+      "value": 38990
+    },
+    "authentic_engagement": {
+      "value": 25494
+    }
+  }
+}

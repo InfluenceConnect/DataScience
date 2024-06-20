@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 189,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1025950178",
+    "username": "juliaanalvarez",
+    "title": null,
+    "fullname": "JULI\u00c1N ALVAREZ\ud83d\udd77",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1025950178.jpg?w=150&till=1722470340&sign=82d5be2316e3a409ecb7687aa4debc64",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "ar",
+    "audience_geo_country_1_prc": 61.86,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16042336
+    },
+    "engagement_avg": {
+      "value": 557905
+    },
+    "authentic_engagement": {
+      "value": 486559
+    }
+  }
+}

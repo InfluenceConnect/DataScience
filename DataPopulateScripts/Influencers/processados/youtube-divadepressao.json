@@ -1,0 +1,91 @@
+{
+  "_number": 568,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCMpWpGXG8tlWA6Xban2m6oA",
+    "username": "divadepressao",
+    "title": null,
+    "fullname": "Diva Depress\u00e3o ",
+    "avatar_url": "https://yt3.googleusercontent.com/zA22-r_3O79Zjvh8ZKp0sU8GGA7PKRzHyfgWVdve0jHI9Cy1ASo0cSrsTwvsMFKIKhclcH7l=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.84,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.84,
+            "hs_value": 569.488976
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.65,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3244985
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 553
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 26034
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 26587
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 273607.5
+        }
+      }
+    }
+  }
+}

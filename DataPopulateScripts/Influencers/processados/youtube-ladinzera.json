@@ -1,0 +1,89 @@
+{
+  "_number": 303,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC5esiJFPN0NOvUediO5Ie6g",
+    "username": "ladinzera",
+    "title": null,
+    "fullname": "Ladinzera",
+    "avatar_url": "https://yt3.googleusercontent.com/NOITmFQRvJ69N5sg44hl49kMgjkZqF6obW11_pN83_mEAfYoiLSnd_72DDIBh6EoCtGFr5Rozg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.33,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.33,
+            "hs_value": 4.521625
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5209660
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 142
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4855
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4997
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 18693
+        }
+      }
+    }
+  }
+}

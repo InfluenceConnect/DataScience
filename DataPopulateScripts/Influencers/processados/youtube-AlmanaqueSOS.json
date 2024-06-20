@@ -1,0 +1,89 @@
+{
+  "_number": 962,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC4H7yc6b2Hz-3Iv4nXuzCKQ",
+    "username": "AlmanaqueSOS",
+    "title": null,
+    "fullname": "Almanaque SOS",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nhQgI8vll8hcfqj3d2OL9MTWgYMHrkC8WckQcV3M7gK_0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.32,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.32,
+            "hs_value": 45.275519
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2170843
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 59
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1059
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1118
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 18535.5
+        }
+      }
+    }
+  }
+}

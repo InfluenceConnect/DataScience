@@ -1,0 +1,92 @@
+{
+  "_number": 51,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCXhDFaOPG2zhiYm9eXuMKkA",
+    "username": "MAIKI021",
+    "title": null,
+    "fullname": "MAIKI021",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mAdgO8voI1_GOqYJLiB2J7prFT42UMqvdHbekrb5sr-C0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.5,
+            "hs_value": 0.09208
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.5,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.8,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13854158
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 25
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1389
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1414
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 16862
+        }
+      }
+    }
+  }
+}

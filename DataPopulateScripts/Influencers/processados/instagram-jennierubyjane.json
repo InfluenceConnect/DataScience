@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 13,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "7140177628",
+    "username": "jennierubyjane",
+    "title": null,
+    "fullname": "J",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/7140177628.jpg?w=150&till=1722470340&sign=ac2feb8be06ed47f677033216fb2d118",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 9.57,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 84719504
+    },
+    "engagement_avg": {
+      "value": 5062647
+    },
+    "authentic_engagement": {
+      "value": 4140932
+    }
+  }
+}

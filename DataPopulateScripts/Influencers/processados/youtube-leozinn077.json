@@ -1,0 +1,92 @@
+{
+  "_number": 93,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCIRNu5s24r7zAPTFic_eWNw",
+    "username": "leozinn077",
+    "title": null,
+    "fullname": "Leozinn 077",
+    "avatar_url": "https://yt3.googleusercontent.com/qsyT5KRPkUOgcAsMpjPvHsQEfhnv0MoMkAyDK4K8EktfPC1ik_2ECsssCq5Mq9oaOZy73jL72w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.31,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.31,
+            "hs_value": 3913.911162
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.17,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10848950
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1300
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 31257
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 32557
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1491395
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 794,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "21137752",
+    "username": "ruggero",
+    "title": null,
+    "fullname": "RUGGERO",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/21137752.jpg?w=150&till=1722470340&sign=e0b6095954ccac245a459660a159b68f",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 15.61,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7646739
+    },
+    "engagement_avg": {
+      "value": 107070
+    },
+    "authentic_engagement": {
+      "value": 78623
+    }
+  }
+}

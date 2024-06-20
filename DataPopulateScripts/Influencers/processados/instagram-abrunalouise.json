@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 874,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "12915205",
+    "username": "abrunalouise",
+    "title": null,
+    "fullname": "Bruna Louise",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/12915205.jpg?w=150&till=1722470340&sign=991cf4592ddea22dc9254e2f2647a08f",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.49,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6069611
+    },
+    "engagement_avg": {
+      "value": 113814
+    },
+    "authentic_engagement": {
+      "value": 68361
+    }
+  }
+}

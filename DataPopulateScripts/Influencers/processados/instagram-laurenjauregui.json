@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 593,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "187568215",
+    "username": "laurenjauregui",
+    "title": null,
+    "fullname": "Lauren Jauregui",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/187568215.jpg?w=150&till=1722470340&sign=d6b0e9b98827660a126d63276db66473",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 27.19,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12494373
+    },
+    "engagement_avg": {
+      "value": 123709
+    },
+    "authentic_engagement": {
+      "value": 91036
+    }
+  }
+}

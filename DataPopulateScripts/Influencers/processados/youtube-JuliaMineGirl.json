@@ -1,0 +1,92 @@
+{
+  "_number": 94,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCEOGSdXwcXcNfcuDGbjmgOw",
+    "username": "JuliaMineGirl",
+    "title": null,
+    "fullname": "Julia MineGirl",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nOrXpOqUTmS6jBDdMDmlEsflVdz2q-2hjmrslwODhvWoE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.96,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.96,
+            "hs_value": 3191.873575
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "ie",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10848950
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1900
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 19331
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 21231
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 643405.5
+        }
+      }
+    }
+  }
+}

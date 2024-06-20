@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 231,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "18183241731",
+    "username": "mchariel",
+    "title": null,
+    "fullname": "MC Hariel",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/18183241731.jpg?w=150&till=1722470340&sign=a9c546b0f258466dd0e84e011fe03b9b",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 86.1,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15282790
+    },
+    "engagement_avg": {
+      "value": 451141
+    },
+    "authentic_engagement": {
+      "value": 321703
+    }
+  }
+}

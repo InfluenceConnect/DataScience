@@ -1,0 +1,91 @@
+{
+  "_number": 283,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCCIqw7gSWxqyNrGALSY79lA",
+    "username": "RDGameplay",
+    "title": null,
+    "fullname": "RD Gameplay",
+    "avatar_url": "https://yt3.googleusercontent.com/8N0gFj_h8cJXIm0GLbLExgaQZAYrRvWqL9NhsiOZyiVSkECBECKfLpQqcgERNHZWUxeblX-DQg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.34,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.34,
+            "hs_value": 1.378121
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.02,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.59,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        4
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5441437
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 68
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1890
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1958
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 21496.5
+        }
+      }
+    }
+  }
+}

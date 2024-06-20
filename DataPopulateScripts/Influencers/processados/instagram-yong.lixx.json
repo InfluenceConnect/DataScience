@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 47,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "60891353339",
+    "username": "yong.lixx",
+    "title": null,
+    "fullname": "Felix",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/60891353339.jpg?w=150&till=1722470340&sign=90930cda161c8ff1ff3f46828ea45852",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 11.97,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 23020336
+    },
+    "engagement_avg": {
+      "value": 3141122
+    },
+    "authentic_engagement": {
+      "value": 2346551
+    }
+  }
+}

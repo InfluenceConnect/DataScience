@@ -1,0 +1,89 @@
+{
+  "_number": 38,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCVVksn-TMGmkwvirl_neMWw",
+    "username": "JoojNatu",
+    "title": null,
+    "fullname": "Jooj Natu",
+    "avatar_url": "https://yt3.googleusercontent.com/bUwo2QH7sJjs32CDtslirMGAcupHs9CjEzx1kVSAZyh2T9tDNxv5gSTK5qJNwd_XPdUHiU6c=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.3,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.3,
+            "hs_value": 14390.905525
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.63,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15157562
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 403
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 92144
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 92547
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 889374.5
+        }
+      }
+    }
+  }
+}

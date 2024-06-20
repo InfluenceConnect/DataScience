@@ -1,0 +1,85 @@
+{
+  "_number": 373,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCLOqStDCKZNvN_8Oqu2emGA",
+    "username": "PadreManzottiOficial",
+    "title": null,
+    "fullname": "Padre Reginaldo Manzotti",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m6AV2pqVKOXofmEylsshs-e8_tqfBvjhGXrC2cvSdAG50=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.39,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.39,
+            "hs_value": 27.552611
+          },
+          {
+            "id": "nl",
+            "code": null,
+            "prc": 1.2,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.2,
+            "hs_value": null
+          },
+          {
+            "id": "ro",
+            "code": null,
+            "prc": 1.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        9
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4381559
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 579
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9930
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 10509
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 59435
+        }
+      }
+    }
+  }
+}

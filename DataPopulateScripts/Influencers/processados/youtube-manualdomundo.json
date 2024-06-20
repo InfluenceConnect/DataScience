@@ -1,0 +1,91 @@
+{
+  "_number": 23,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCKHhA5hN2UohhFDfNXB_cvQ",
+    "username": "manualdomundo",
+    "title": null,
+    "fullname": "Manual do Mundo",
+    "avatar_url": "https://yt3.googleusercontent.com/vZfyNo43-7nlIj_O78tjntiJZK7IQhLX9MqA_unyi-9tlHJGjU8d8E5FZUmvrW01lEh6V5uvPw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.73,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.73,
+            "hs_value": 375.19241
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.18,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 18650572
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 306
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 24770
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 25076
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 207946
+        }
+      }
+    }
+  }
+}

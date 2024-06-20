@@ -1,0 +1,92 @@
+{
+  "_number": 671,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCeEl6ounfAex3hHMSUdBk_Q",
+    "username": "Toniket",
+    "title": null,
+    "fullname": "HERO Toniket",
+    "avatar_url": "https://yt3.googleusercontent.com/QvIHVyBju_Xo5-6SoDKRbGjjK3-kvOEgmjfFcs2l8dGPB8avVKT1aEfxpeWjZ7bRaXBQHG2S=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 86.59,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 86.59,
+            "hs_value": 0.17323
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 11.06,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2829255
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 43
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 731
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 774
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 22210.5
+        }
+      }
+    }
+  }
+}

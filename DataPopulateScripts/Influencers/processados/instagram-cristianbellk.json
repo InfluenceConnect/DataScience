@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 537,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "48213575314",
+    "username": "cristianbellk",
+    "title": null,
+    "fullname": "Cristian Bell \ud83c\udf6a\ud83e\udd19\ud83c\udffe",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/48213575314.jpg?w=150&till=1722470340&sign=bd47ea6945b116fef2613b08ff7491c0",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.58,
+    "blogger_thematics": {
+      "data": [
+        1042,
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5276230
+    },
+    "engagement_avg": {
+      "value": 353791
+    },
+    "authentic_engagement": {
+      "value": 196361
+    }
+  }
+}

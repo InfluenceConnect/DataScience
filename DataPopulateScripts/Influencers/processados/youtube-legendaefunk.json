@@ -1,0 +1,91 @@
+{
+  "_number": 42,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCgO5cJ4sL1um054gGYusjiA",
+    "username": "legendaefunk",
+    "title": null,
+    "fullname": "LEGENDA FUNK",
+    "avatar_url": "https://yt3.googleusercontent.com/cEjzwBK1Z4aRvLiwId-wEs95MkYZVDNDWb4H6NJN1qiIy_Lr-fu0chUfI6hzhv7L6l5y4bNr=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.81,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.87,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 1.24,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "aw",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14558235
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 126
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 129
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 3208.5
+        }
+      }
+    }
+  }
+}

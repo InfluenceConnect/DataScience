@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 998,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "16937912",
+    "username": "thegr8khalid",
+    "title": null,
+    "fullname": "Khalid",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/16937912.jpg?w=150&till=1722470340&sign=0602036b5a56db472385c2faadcee471",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 35.04,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7069946
+    },
+    "engagement_avg": {
+      "value": 70874
+    },
+    "authentic_engagement": {
+      "value": 48509
+    }
+  }
+}

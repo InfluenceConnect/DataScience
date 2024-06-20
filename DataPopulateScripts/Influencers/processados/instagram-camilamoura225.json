@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 940,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "4159720905",
+    "username": "camilamoura225",
+    "title": null,
+    "fullname": "Camila Moura",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/4159720905.jpg?w=150&till=1722470340&sign=f975a90939c401f3281965f31c6531fc",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 77.76,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3023281
+    },
+    "engagement_avg": {
+      "value": 188955
+    },
+    "authentic_engagement": {
+      "value": 140270
+    }
+  }
+}

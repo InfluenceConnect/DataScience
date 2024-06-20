@@ -1,0 +1,91 @@
+{
+  "_number": 922,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCYxLlKfySq3RVLKdNSQ1Gug",
+    "username": "WarnerMusicBrasil",
+    "title": null,
+    "fullname": "Warner Music Brasil",
+    "avatar_url": "https://yt3.googleusercontent.com/xvDhrCTXwXMynrLSCWJMpvxxJH_ONgTiLLrTm9TKTWXmNavjoJm6x3kfitDCdMN3B3xKPBTj=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.63,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.63,
+            "hs_value": 0.001
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 1.43,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.77,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.77,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2245130
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 29
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 29
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 681.5
+        }
+      }
+    }
+  }
+}

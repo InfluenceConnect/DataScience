@@ -1,0 +1,89 @@
+{
+  "_number": 595,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCIV-S2jkQmJhu6jwreKEN2w",
+    "username": "mundodamenina",
+    "title": null,
+    "fullname": "Mundo da Menina",
+    "avatar_url": "https://yt3.googleusercontent.com/HD_IV-KR5nn1LO2UMXN_PQHLQEKsKjY8VCpNJ9caxZCglBy57z_tWn4vaGMcBp3H2GmYhbpe=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.67,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.67,
+            "hs_value": 0.001
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 1.33,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 1.33,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 1.33,
+            "hs_value": null
+          },
+          {
+            "id": "aq",
+            "code": null,
+            "prc": 1.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3125138
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 54
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 54
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1865.5
+        }
+      }
+    }
+  }
+}

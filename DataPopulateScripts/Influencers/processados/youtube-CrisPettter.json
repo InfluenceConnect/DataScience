@@ -1,0 +1,92 @@
+{
+  "_number": 964,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCTt0ROhlCwcCPUWsb8isLpg",
+    "username": "CrisPettter",
+    "title": null,
+    "fullname": "Cris Petter",
+    "avatar_url": "https://yt3.googleusercontent.com/9x4fzBcjpvxZC9vDCVuAUUa9vDt8_80K6rQxCozgrbhHNb_u_q-jXb5BIlOgQ_DbJYk6J6nVDbs=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.56,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.56,
+            "hs_value": 0.175789
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.07,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2165142
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 61
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2972
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3033
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 23438.5
+        }
+      }
+    }
+  }
+}

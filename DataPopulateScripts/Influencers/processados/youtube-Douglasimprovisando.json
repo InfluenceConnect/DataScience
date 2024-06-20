@@ -1,0 +1,92 @@
+{
+  "_number": 884,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCZTLYFF1jIYKxkyjh_8N9cw",
+    "username": "Douglasimprovisando",
+    "title": null,
+    "fullname": "Douglas improvisando",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mpGCih3cgnEe18iG77ybwUWAL6jFE2ugCRS3Ns7hYaJbk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.51,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.51,
+            "hs_value": 0.247462
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.44,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2309216
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 61
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1605
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1666
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 11681.5
+        }
+      }
+    }
+  }
+}

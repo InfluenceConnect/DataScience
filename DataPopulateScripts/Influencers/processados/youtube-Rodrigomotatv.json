@@ -1,0 +1,92 @@
+{
+  "_number": 238,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCG48BTOEjAglDb9pgTFBi9g",
+    "username": "Rodrigomotatv",
+    "title": null,
+    "fullname": "Canal Rodrigo Mota TV",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nS4QCZoN64F0pgnXPO9X46UZFsRCSzRdYN4AYMQK-8JR8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.46,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.46,
+            "hs_value": 0.536341
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.85,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          },
+          {
+            "id": "bw",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6104870
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 21
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 630
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 651
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 202794
+        }
+      }
+    }
+  }
+}

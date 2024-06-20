@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 26,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3439002676",
+    "username": "milliebobbybrown",
+    "title": null,
+    "fullname": "Millie Bobby Brown",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3439002676.jpg?w=150&till=1722470340&sign=af5c172faef1d0e9f8d1305541c15ea7",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 14.35,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 63463395
+    },
+    "engagement_avg": {
+      "value": 1805706
+    },
+    "authentic_engagement": {
+      "value": 1455461
+    }
+  }
+}

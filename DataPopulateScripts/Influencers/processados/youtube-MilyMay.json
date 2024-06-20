@@ -1,0 +1,65 @@
+{
+  "_number": 927,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCMQQzb1KpsKXhjUiiDTJSlw",
+    "username": "MilyMay",
+    "title": null,
+    "fullname": "Mily May",
+    "avatar_url": "https://yt3.googleusercontent.com/NR-iQ6BDutcW7EqZ_8TStLfsOYLtzXouf1NFwUBiyulUlC7qzBNcBtUtsT3tTUGxpeHIkWHi=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 100,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 100,
+            "hs_value": 0.036097
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2240930
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 21
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1057
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1078
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 14235
+        }
+      }
+    }
+  }
+}

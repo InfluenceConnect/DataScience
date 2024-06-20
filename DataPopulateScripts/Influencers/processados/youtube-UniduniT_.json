@@ -1,0 +1,89 @@
+{
+  "_number": 452,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCVaBFkD3dQzOmSkXOcrWaLg",
+    "username": "UniduniT_",
+    "title": null,
+    "fullname": "Uniduni T",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mXDyLuIZTnKVrm_UYk_SyKqN9cKo2m4-RzQhzEnGZpEyg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.91,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.91,
+            "hs_value": 25.099113
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.75,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "ad",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "bb",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3781632
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 191
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9501
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 9692
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 71224.5
+        }
+      }
+    }
+  }
+}

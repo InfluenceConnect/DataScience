@@ -1,0 +1,71 @@
+{
+  "_number": 330,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCDGrgnIrrkjTQh_09qp6rPA",
+    "username": "lorenatauanaa",
+    "title": null,
+    "fullname": "LORENA TAUANA",
+    "avatar_url": "https://yt3.googleusercontent.com/9YPX_7tIGYaaiwk9O_WxEc0FSafwoUzwNERAfPdAspspI6R-P2U1rG1wnqFpyGnz_wg2Db6d=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.84,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.84,
+            "hs_value": 9.203482
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 1.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4781496
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 94
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 14777
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 14871
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 223034
+        }
+      }
+    }
+  }
+}

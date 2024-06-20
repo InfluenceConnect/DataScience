@@ -1,0 +1,92 @@
+{
+  "_number": 143,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCMsOddzQMnasFJtVx-CUdmg",
+    "username": "RobertaPupi",
+    "title": null,
+    "fullname": "Roberta Pupi",
+    "avatar_url": "https://yt3.googleusercontent.com/bP4hObnzHzgGEmMFmW5Y8sLzh2rmxg9eQhVm2SjHyG0d0LubDWgaWyqBOVHyA6mvNd8IXraPsQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.81,
+            "hs_value": 16.007935
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.34,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.78,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8200510
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 400
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4148
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4548
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 129726.5
+        }
+      }
+    }
+  }
+}

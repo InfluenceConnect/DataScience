@@ -1,0 +1,92 @@
+{
+  "_number": 579,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCZ7mpC3rXnK9-AqZM-H-fvg",
+    "username": "AnaPaulaGomesOficial",
+    "title": null,
+    "fullname": "Ana Paula Gomes",
+    "avatar_url": "https://yt3.googleusercontent.com/1RQ12TRAJTOBnO4PL9NUwH-snSGJtZktudR8bJB1pOvmq_S-BHDEcxxR3-o-pZb2cA4ZnuDlbQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.51,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.51,
+            "hs_value": 21.695918
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3209145
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1400
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5574
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6974
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 23530
+        }
+      }
+    }
+  }
+}

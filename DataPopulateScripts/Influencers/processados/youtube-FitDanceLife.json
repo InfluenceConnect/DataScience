@@ -1,0 +1,92 @@
+{
+  "_number": 270,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCFu2moE2kAMkd5TxfE6fTVg",
+    "username": "FitDanceLife",
+    "title": null,
+    "fullname": "FitDance Life",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nbOqByytEFwGxdDVDM5BxrTf0sVak11H2op2HcyOhvSdg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 34.57,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 34.57,
+            "hs_value": 0.006338
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 10.96,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 9.61,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 6.24,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 5.73,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5580789
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 10
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 361
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 371
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 11516
+        }
+      }
+    }
+  }
+}

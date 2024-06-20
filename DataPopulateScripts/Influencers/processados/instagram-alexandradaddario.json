@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 175,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "202998372",
+    "username": "alexandradaddario",
+    "title": null,
+    "fullname": "alexandra daddario",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/202998372.jpg?w=150&till=1722470340&sign=40240c0553ac282e12ea139c9b6ff49c",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "in",
+    "audience_geo_country_1_prc": 17.6,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 23792999
+    },
+    "engagement_avg": {
+      "value": 430636
+    },
+    "authentic_engagement": {
+      "value": 321069
+    }
+  }
+}

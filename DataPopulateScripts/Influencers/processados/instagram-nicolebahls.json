@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 463,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "218533890",
+    "username": "nicolebahls",
+    "title": null,
+    "fullname": "Nicole Bahls",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/218533890.jpg?w=150&till=1722470340&sign=1d6729001c27ec510e2694a331acefbb",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 81.39,
+    "blogger_thematics": {
+      "data": [
+        1039
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 29069240
+    },
+    "engagement_avg": {
+      "value": 84763
+    },
+    "authentic_engagement": {
+      "value": 46668
+    }
+  }
+}

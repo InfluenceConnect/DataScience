@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 637,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "145602117",
+    "username": "slipknot",
+    "title": null,
+    "fullname": "Slipknot",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/145602117.jpg?w=150&till=1722470340&sign=621ba0a39142da1f63707c6c866f8985",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 22.51,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7376585
+    },
+    "engagement_avg": {
+      "value": 182348
+    },
+    "authentic_engagement": {
+      "value": 149745
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 701,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC2Dkdvw6-ladrHmWZNx2gRA",
+    "username": "CellbitLives",
+    "title": null,
+    "fullname": "Lives do Cellbit",
+    "avatar_url": "https://yt3.googleusercontent.com/djwgWNsevFTlm8PbC0UCt8llmAVB9pDudNauTZRU0UuZPYmDfbdpzAzQrpnW4ov16eEPbLQ7kw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.76,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.76,
+            "hs_value": 27.064696
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.51,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.01,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2750912
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 32
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 17020
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 17052
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 125680
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 456,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCYM04a9yva0wMQ7bPlii4rg",
+    "username": "4AMIGOSSTANDUPCOMEDY",
+    "title": null,
+    "fullname": "4 AMIGOS STAND UP COMEDY",
+    "avatar_url": "https://yt3.googleusercontent.com/aHBge5eTjo7at5BekImC6rj0sk3e2pe1O-u75MJqh_C3PLlYksIyoGSYJiOPsjx-Ls962PAGNQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.27,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.27,
+            "hs_value": 0.003479
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.88,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.59,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3764848
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 564
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 567
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5811.5
+        }
+      }
+    }
+  }
+}

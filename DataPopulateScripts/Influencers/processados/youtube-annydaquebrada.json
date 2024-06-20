@@ -1,0 +1,89 @@
+{
+  "_number": 414,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCJ8T7b2Q_jpXT6qgc8p-fFA",
+    "username": "annydaquebrada",
+    "title": null,
+    "fullname": "Anny da quebrada",
+    "avatar_url": "https://yt3.googleusercontent.com/mntprGFlRRMqrZea9-lRIIMlsl6Q4k9T2Rai10jVHUbhWSjB53jNOJj25VoF6wzBwGVVbgJA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.97,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.97,
+            "hs_value": 10.068703
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.65,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.73,
+            "hs_value": null
+          },
+          {
+            "id": "bg",
+            "code": null,
+            "prc": 0.73,
+            "hs_value": null
+          },
+          {
+            "id": "hk",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4061084
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 103
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 8266
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 8369
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 118207
+        }
+      }
+    }
+  }
+}

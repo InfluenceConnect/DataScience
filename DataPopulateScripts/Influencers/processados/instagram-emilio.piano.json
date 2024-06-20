@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 417,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "9133415873",
+    "username": "emilio.piano",
+    "title": null,
+    "fullname": "Emil Reinert",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/9133415873.jpg?w=150&till=1722470340&sign=a200853cad9c1692ba0e3de9d8898580",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 11.85,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4239430
+    },
+    "engagement_avg": {
+      "value": 675085
+    },
+    "authentic_engagement": {
+      "value": 530820
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 408,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1769476128",
+    "username": "ferrari",
+    "title": null,
+    "fullname": "Ferrari",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1769476128.jpg?w=150&till=1722470340&sign=95f72fd770deb660b36501675e16f480",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 14.05,
+    "blogger_thematics": {
+      "data": [
+        1043,
+        1018
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 29760089
+    },
+    "engagement_avg": {
+      "value": 98790
+    },
+    "authentic_engagement": {
+      "value": 78878
+    }
+  }
+}

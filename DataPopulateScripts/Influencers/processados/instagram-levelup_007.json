@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 791,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "7777945413",
+    "username": "levelup_007",
+    "title": null,
+    "fullname": "Samuel Lima",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/7777945413.jpg?w=150&till=1722470340&sign=24ae2093ea4bd323991c99ab650bfc50",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.76,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4141400
+    },
+    "engagement_avg": {
+      "value": 198310
+    },
+    "authentic_engagement": {
+      "value": 119949
+    }
+  }
+}

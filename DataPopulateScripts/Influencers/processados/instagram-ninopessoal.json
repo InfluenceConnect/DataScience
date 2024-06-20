@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 674,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "52202344439",
+    "username": "ninopessoal",
+    "title": null,
+    "fullname": "MENOR PROGRESSO\ud83e\udd47",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/52202344439.jpg?w=150&till=1722470340&sign=528732dbbf1e4ff0ebb593a64bbfecfa",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 78.37,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3823484
+    },
+    "engagement_avg": {
+      "value": 307740
+    },
+    "authentic_engagement": {
+      "value": 227623
+    }
+  }
+}

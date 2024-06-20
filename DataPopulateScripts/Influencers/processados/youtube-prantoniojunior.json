@@ -1,0 +1,91 @@
+{
+  "_number": 44,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCKEM87jzVqdIfAdTr0xNBfA",
+    "username": "prantoniojunior",
+    "title": null,
+    "fullname": "Pastor Ant\u00f4nio J\u00fanior",
+    "avatar_url": "https://yt3.googleusercontent.com/efljcOycHWOC3wjtdW3lGUk3ojEZc-V3zuX-zSXcYO4olX9OOXKSp7LJeorwcr0J8kGzcNZl_AM=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.55,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.55,
+            "hs_value": 2795.780193
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.49,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.24,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.5,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14441138
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 4700
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 41628
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 46328
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 181812.5
+        }
+      }
+    }
+  }
+}

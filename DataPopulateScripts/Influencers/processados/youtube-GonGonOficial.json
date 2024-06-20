@@ -1,0 +1,92 @@
+{
+  "_number": 905,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCeoaBlUFa1wvkXnkYgsAY3A",
+    "username": "GonGonOficial",
+    "title": null,
+    "fullname": "GonGon",
+    "avatar_url": "https://yt3.googleusercontent.com/sYhT0zy5eFRLUphq3dQl16dfTS7vzPnbex5rdxH5QUzwH76YJyxFCD_sy7u2ttCxebQ_GPqpqBM=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.91,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.91,
+            "hs_value": 13.580015
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.41,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.97,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          },
+          {
+            "id": "se",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2280317
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 148
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3038
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3186
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 117217
+        }
+      }
+    }
+  }
+}

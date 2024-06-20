@@ -1,0 +1,92 @@
+{
+  "_number": 84,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCoTM-vvs2hnv2mCvzNJ5uXA",
+    "username": "francinyehlke",
+    "title": null,
+    "fullname": "Franciny Ehlke",
+    "avatar_url": "https://yt3.googleusercontent.com/PyafUAAjdRpfnprmtIuNZ_P1dOZfrohTPlfAYNN_k_QiYzzDrTjXPvCGFhs3RzbEKU4KHZ_I=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.09,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.09,
+            "hs_value": 284.85405
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.12,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.78,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        11,
+        7
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11244764
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 145
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 14589
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 14734
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 163214
+        }
+      }
+    }
+  }
+}

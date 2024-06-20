@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 97,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "386189519",
+    "username": "ester_exposito",
+    "title": null,
+    "fullname": "Ester \ud83c\udf19",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/386189519.jpg?w=150&till=1722470340&sign=71b6bdada61ad5a4d400a2b995d2b887",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 10.1,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26121038
+    },
+    "engagement_avg": {
+      "value": 982694
+    },
+    "authentic_engagement": {
+      "value": 716613
+    }
+  }
+}

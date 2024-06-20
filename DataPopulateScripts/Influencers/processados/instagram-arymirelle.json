@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 376,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3129493541",
+    "username": "arymirelle",
+    "title": null,
+    "fullname": "Ary Mirelle",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3129493541.jpg?w=150&till=1722470340&sign=50f5559ce445ceab24ac89c865a6bdbb",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.74,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5577581
+    },
+    "engagement_avg": {
+      "value": 616558
+    },
+    "authentic_engagement": {
+      "value": 422939
+    }
+  }
+}

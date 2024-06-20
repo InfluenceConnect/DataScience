@@ -1,0 +1,34 @@
+{
+  "_fh": "49bd08a75db05b98ec48436cbf2e7ba0",
+  "_number": 6,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "7719696",
+    "username": "arianagrande",
+    "title": null,
+    "fullname": "Ariana Grande",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/7719696.jpg?w=150&till=1722470340&sign=e8eb96062c5a3e5eafb08eee8eeb3093",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 19.25,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 379006308
+    },
+    "engagement_avg": {
+      "value": 2321296
+    },
+    "authentic_engagement": {
+      "value": 1817089
+    }
+  }
+}

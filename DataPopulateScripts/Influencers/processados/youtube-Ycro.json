@@ -1,0 +1,92 @@
+{
+  "_number": 994,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCHxUvRJB7ypxsC_2_8pnXjw",
+    "username": "Ycro",
+    "title": null,
+    "fullname": "Ycro",
+    "avatar_url": "https://yt3.googleusercontent.com/drCdVfhfNEwJ7dsipyHHmMgsQDq3TmkUVzn71aVuHXdiGIwORmbm7ddn95LLPBLJUICCI0l1JA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.56,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.56,
+            "hs_value": 3.619759
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.84,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.84,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2115067
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 166
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4961
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5127
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 34855
+        }
+      }
+    }
+  }
+}

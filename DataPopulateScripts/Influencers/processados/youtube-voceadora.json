@@ -1,0 +1,91 @@
+{
+  "_number": 880,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCDrzMTEmg_K2F7E4vsgRZqg",
+    "username": "voceadora",
+    "title": null,
+    "fullname": "Voc\u00ea Adora (Som Livre Gospel)",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l5S6hvtw4QbOlhPtm9VnDaMkkJlsjjaZzVETUjwb90QaY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.82,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.82,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2315078
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 11
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 159
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 170
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2090
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 244,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "263895146",
+    "username": "jennettemccurdy",
+    "title": null,
+    "fullname": "Jennette McCurdy",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/263895146.jpg?w=150&till=1722470340&sign=5df81de2da044aa199b734d9ae6b4f86",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 31.75,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8672843
+    },
+    "engagement_avg": {
+      "value": 751136
+    },
+    "authentic_engagement": {
+      "value": 561979
+    }
+  }
+}

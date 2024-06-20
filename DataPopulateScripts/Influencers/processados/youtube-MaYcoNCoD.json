@@ -1,0 +1,92 @@
+{
+  "_number": 894,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCtlKBrsNn2YU7GWPK9RBOnQ",
+    "username": "MaYcoNCoD",
+    "title": null,
+    "fullname": "MaYcoNCOD",
+    "avatar_url": "https://yt3.googleusercontent.com/OcHmwG5tANJs1ox_kzNApDgCeMgtq9KLRmcoOf3wpTTlKMjb4y2pszr8LBky7EpLzt-91xA_Sw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 89.11,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 89.11,
+            "hs_value": 0.001469
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.97,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          },
+          {
+            "id": "bh",
+            "code": null,
+            "prc": 0.99,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2285989
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 29
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 106
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 135
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 3095
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 177,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "287306515",
+    "username": "mauroicardi",
+    "title": null,
+    "fullname": "\ud835\ude48\ud835\ude3c\ud835\ude50\ud835\ude4d\ud835\ude4a \ud835\ude44\ud835\ude3e\ud835\ude3c\ud835\ude4d\ud835\ude3f\ud835\ude44",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/287306515.jpg?w=150&till=1722470340&sign=f4a9eaee9cb24691c3b3aba08dbf16d5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "it",
+    "audience_geo_country_1_prc": 26.79,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12060243
+    },
+    "engagement_avg": {
+      "value": 832323
+    },
+    "authentic_engagement": {
+      "value": 586776
+    }
+  }
+}

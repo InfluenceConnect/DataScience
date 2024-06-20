@@ -1,0 +1,91 @@
+{
+  "_number": 761,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCGswK3GNF3Yeet6CnGnIv8g",
+    "username": "BrunaKarlaOficial",
+    "title": null,
+    "fullname": "Bruna Karla",
+    "avatar_url": "https://yt3.googleusercontent.com/N5_NWbX3mMrpo3Fs9J7J8qWBldzlFSDbcZ3qPgtoh37Q7y6_owE4Xa9ZonMC1pAvObW3jByjpQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.82,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.82,
+            "hs_value": 0.002778
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.48,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.29,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2594850
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 41
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 828
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 869
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5648.5
+        }
+      }
+    }
+  }
+}

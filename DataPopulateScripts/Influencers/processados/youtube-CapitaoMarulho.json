@@ -1,0 +1,92 @@
+{
+  "_number": 120,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCefnOSmxkOzKR3aUdxgVnsQ",
+    "username": "CapitaoMarulho",
+    "title": null,
+    "fullname": "Marulho",
+    "avatar_url": "https://yt3.googleusercontent.com/2aGRpUQAIcIzGysQ55Q0MrIvS6Pcclrx2ef81cmTN28bt5z7ZwMyqVYKuURKwuEAQNV_GytS=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.37,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.37,
+            "hs_value": 3.504693
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9294925
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 12
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4728
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4740
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 175727
+        }
+      }
+    }
+  }
+}

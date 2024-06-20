@@ -1,0 +1,91 @@
+{
+  "_number": 400,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCt6YoCdkvHtrkMPBS4TlVgw",
+    "username": "alexmapeli",
+    "title": null,
+    "fullname": "Alex Mapeli",
+    "avatar_url": "https://yt3.googleusercontent.com/aZB1sXzxaJ6fCAcWYxTU9tOQPd3klLHFwzHeATOhj_e8i2dVjNHDygoI44GX2WAI8UvDg_kpvQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.11,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.11,
+            "hs_value": 2.693644
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.22,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.22,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 0.81,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        11
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4140850
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 669
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 675
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 9780.5
+        }
+      }
+    }
+  }
+}

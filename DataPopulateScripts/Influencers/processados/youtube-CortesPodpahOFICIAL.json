@@ -1,0 +1,92 @@
+{
+  "_number": 742,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCc1RwDwEXEd2SKO3V6h45wA",
+    "username": "CortesPodpahOFICIAL",
+    "title": null,
+    "fullname": "Cortes Podpah [OFICIAL]",
+    "avatar_url": "https://yt3.googleusercontent.com/utD-qd3Fyf5lMvMhGWt4ew1IkRLQ8SbDS2RcCbY-cniMxGoKQ0XKiCUmsIFEtYkpYByPMy6IOw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.21,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.21,
+            "hs_value": 0.002772
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.2,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.03,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2631001
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 7
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 265
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 272
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5324.5
+        }
+      }
+    }
+  }
+}

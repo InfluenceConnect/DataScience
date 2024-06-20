@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 23,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "11101398072",
+    "username": "eunwo.o_c",
+    "title": null,
+    "fullname": "\ucc28\uc740\uc6b0",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/11101398072.jpg?w=150&till=1722470340&sign=53169829fcf406222a7faa9adb9c5c63",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 21.1,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1041,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 45113040
+    },
+    "engagement_avg": {
+      "value": 3569949
+    },
+    "authentic_engagement": {
+      "value": 3052776
+    }
+  }
+}

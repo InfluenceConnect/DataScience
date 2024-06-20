@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 945,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "64115051903",
+    "username": "itsruyter",
+    "title": null,
+    "fullname": "Ruyter Poubel",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/64115051903.jpg?w=150&till=1722470340&sign=217741b8724a1c4d4fb9473a5e11709d",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "in",
+    "audience_geo_country_1_prc": 54.09,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 18402944
+    },
+    "engagement_avg": {
+      "value": 33169
+    },
+    "authentic_engagement": {
+      "value": 27625
+    }
+  }
+}

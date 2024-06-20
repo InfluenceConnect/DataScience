@@ -1,0 +1,91 @@
+{
+  "_number": 193,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC1-WVziv_VW5lEoGg4_tmng",
+    "username": "meninoprendado",
+    "title": null,
+    "fullname": "Menino Prendado",
+    "avatar_url": "https://yt3.googleusercontent.com/Nf3etDbD-fW11IR-nCpZZ8qFDNoAkZJha3xDAI_H-IO8zDpybEtBqDNzCIfF1obyul9c0WeOZQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.02,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.02,
+            "hs_value": 1.44842
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.73,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.2,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6884992
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 156
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2297
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2453
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 34019
+        }
+      }
+    }
+  }
+}

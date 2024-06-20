@@ -1,0 +1,91 @@
+{
+  "_number": 670,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCH27Wi4vlk2inrM8PLz02AQ",
+    "username": "NicoleMaffi",
+    "title": null,
+    "fullname": "Nicole Maffi",
+    "avatar_url": "https://yt3.googleusercontent.com/2iCEl8UjBYxjmK4Rf1QC6T8avRZlgYg7_wxdK277wOdB-baRfuYS4HOozgNPJPn9oMqq7TLu=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.15,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.15,
+            "hs_value": 44.672912
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.2,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.16,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2830953
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 171
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3421
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3592
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 71721
+        }
+      }
+    }
+  }
+}

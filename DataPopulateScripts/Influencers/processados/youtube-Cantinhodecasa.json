@@ -1,0 +1,91 @@
+{
+  "_number": 860,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCywL8mGqZfMuW1XHHd-CUAQ",
+    "username": "Cantinhodecasa",
+    "title": null,
+    "fullname": "Cantinho de casa",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m0tz6BzhvDjEJA3k7GZyqyJ35d23-b9DDQFy23x6nlINA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 88.71,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 88.71,
+            "hs_value": 1.279601
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 2.69,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.9,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.9,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.9,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        7
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2350894
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 115
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1444
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1559
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 20861.5
+        }
+      }
+    }
+  }
+}

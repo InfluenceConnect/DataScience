@@ -1,0 +1,92 @@
+{
+  "_number": 208,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCLHA3hx1G4exHbHD2Q8n1qg",
+    "username": "BelotoPlays",
+    "title": null,
+    "fullname": "BelotoPlays",
+    "avatar_url": "https://yt3.googleusercontent.com/pgKXpB7NJ40TTlFQpcrYOduUglDlEI-Z-MV9wa0okhkqMi0ieccK1uy0OrKK2tT9hjy1C5pjsw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.54,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.54,
+            "hs_value": 0.212255
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.66,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.23,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6625157
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 49
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1057
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1106
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 15778
+        }
+      }
+    }
+  }
+}

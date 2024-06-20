@@ -1,0 +1,92 @@
+{
+  "_number": 119,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCfDPkUx9mG3IHBxYuPqgqAQ",
+    "username": "Tauz",
+    "title": null,
+    "fullname": "Tauz Oficial",
+    "avatar_url": "https://yt3.googleusercontent.com/Mn1FAIiC34Eh0n5FvFo-sDLxDBHYkjfc1rz9Qeg2GDl4tr_YCrno7XQarQia3RDkBhE2Tm11lQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.29,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.29,
+            "hs_value": 791.970384
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.05,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.73,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9301029
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1600
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 29879
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 31479
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 165662
+        }
+      }
+    }
+  }
+}

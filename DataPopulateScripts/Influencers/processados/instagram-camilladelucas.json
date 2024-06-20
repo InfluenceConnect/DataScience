@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 703,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "284478809",
+    "username": "camilladelucas",
+    "title": null,
+    "fullname": "Camilla de Lucas",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/284478809.jpg?w=150&till=1722470340&sign=54aea367f423b829199729614bb82bec",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 86.43,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9293569
+    },
+    "engagement_avg": {
+      "value": 115883
+    },
+    "authentic_engagement": {
+      "value": 66112
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 209,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "242952535",
+    "username": "alishalehmann7",
+    "title": null,
+    "fullname": "Alisha Lehmann",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/242952535.jpg?w=150&till=1722470340&sign=37698423d2d6df00d047b5d28825726e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 13.07,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16664845
+    },
+    "engagement_avg": {
+      "value": 468726
+    },
+    "authentic_engagement": {
+      "value": 335867
+    }
+  }
+}

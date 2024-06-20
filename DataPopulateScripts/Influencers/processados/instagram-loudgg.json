@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 473,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "9301267495",
+    "username": "loudgg",
+    "title": null,
+    "fullname": "LOUD",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/9301267495.jpg?w=150&till=1722470340&sign=f874c7b714d17c43db5c5188d4363fc5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.5,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1030
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11905636
+    },
+    "engagement_avg": {
+      "value": 195355
+    },
+    "authentic_engagement": {
+      "value": 144005
+    }
+  }
+}

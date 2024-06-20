@@ -1,0 +1,92 @@
+{
+  "_number": 863,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCUWspOukLYz7th7MrHFt2kw",
+    "username": "McArcoIris",
+    "title": null,
+    "fullname": "Mc Arco Iris",
+    "avatar_url": "https://yt3.googleusercontent.com/izoIKMXaqwAotfyATNrVYlqHIoPnkKlE2cCqoa36pDl00Njr_A_Hz43AT3qKg3o9kchPndJ8dQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.08,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.08,
+            "hs_value": 2.61865
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.64,
+            "hs_value": null
+          },
+          {
+            "id": "dk",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          },
+          {
+            "id": "gy",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          },
+          {
+            "id": "se",
+            "code": null,
+            "prc": 0.82,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2341280
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 28
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7330
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7358
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 88863
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 733,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCr4Yc_6i-WNrK8cct1nyVCw",
+    "username": "biel_boni",
+    "title": null,
+    "fullname": "Biel Boni",
+    "avatar_url": "https://yt3.googleusercontent.com/0nIO3yqWA5ZorbTfw5f658dBl8XxSJT3pZkbe_ze03bVjVdWghoOEi1fMUbRqrsuAjJTvOkLUw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.22,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.22,
+            "hs_value": 0.302453
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "bg",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2650828
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 13
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 746
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 759
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 10452.5
+        }
+      }
+    }
+  }
+}

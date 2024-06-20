@@ -1,0 +1,89 @@
+{
+  "_number": 502,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCMeQ_j2FMk3obQD6Xc76GOA",
+    "username": "canalsrnescau",
+    "title": null,
+    "fullname": "Canal Sr. Nescau",
+    "avatar_url": "https://yt3.googleusercontent.com/ZgRGCi2nH4rOsDpp0tIXEPpemq2k1dO3q10HAd5q5I7XM5QEaKU-xdj7cDdrXGZ8xcvtBWtt8g=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.35,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.35,
+            "hs_value": 6.447216
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.86,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "py",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3544999
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 136
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2872
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3008
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 51577.5
+        }
+      }
+    }
+  }
+}

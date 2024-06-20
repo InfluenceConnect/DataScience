@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 676,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "291663402",
+    "username": "lexa",
+    "title": null,
+    "fullname": "Lexa",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/291663402.jpg?w=150&till=1722470340&sign=8a0e5abc636e7c2bbddb5d00fe997a5c",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.31,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 20084408
+    },
+    "engagement_avg": {
+      "value": 57830
+    },
+    "authentic_engagement": {
+      "value": 29847
+    }
+  }
+}

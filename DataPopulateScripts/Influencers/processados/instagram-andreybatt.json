@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 786,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "12568850",
+    "username": "andreybatt",
+    "title": null,
+    "fullname": "ANDREY BATT",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/12568850.jpg?w=150&till=1722470340&sign=cf0073fc579a9af48151bb9e8270daef",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "ru",
+    "audience_geo_country_1_prc": 45.06,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11091658
+    },
+    "engagement_avg": {
+      "value": 75199
+    },
+    "authentic_engagement": {
+      "value": 63111
+    }
+  }
+}

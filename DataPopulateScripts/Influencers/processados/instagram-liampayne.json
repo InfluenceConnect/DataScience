@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 259,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1293310212",
+    "username": "liampayne",
+    "title": null,
+    "fullname": "Liam Payne",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1293310212.jpg?w=150&till=1722470340&sign=5e4239b7a4c0b8d1392f377a8f968c61",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 13.54,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26483269
+    },
+    "engagement_avg": {
+      "value": 221585
+    },
+    "authentic_engagement": {
+      "value": 182752
+    }
+  }
+}

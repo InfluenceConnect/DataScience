@@ -1,0 +1,91 @@
+{
+  "_number": 698,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCpO4OkovrHwacjTeihmi9xg",
+    "username": "REIDASSERPENTESHAROLDOBAUER",
+    "title": null,
+    "fullname": "REI DAS SERPENTES HAROLDO BAUER",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrxLHJSr2mUVU9pztfMySXlWIqlxVPeGRolJ5M6K00164=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.22,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.22,
+            "hs_value": 0.048291
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.22,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.89,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.89,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.67,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2755163
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 63
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1168
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1231
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 18097.5
+        }
+      }
+    }
+  }
+}

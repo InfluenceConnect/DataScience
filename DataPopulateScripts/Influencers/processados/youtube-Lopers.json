@@ -1,0 +1,92 @@
+{
+  "_number": 248,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCqRSlH24d49U9fQPlXCubDg",
+    "username": "Lopers",
+    "title": null,
+    "fullname": "Lopers ",
+    "avatar_url": "https://yt3.googleusercontent.com/s_ORdkVdxh7CLIvP1geDXsGqLng1w7c_l5X4zEDpjzavANOUXwtQFbGCrKE85RVweXrnMwsd=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.93,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.93,
+            "hs_value": 158.335485
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.3,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.83,
+            "hs_value": null
+          },
+          {
+            "id": "au",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          },
+          {
+            "id": "dz",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5955084
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 318
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 8287
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 8605
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 97255
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 599,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "4774283014",
+    "username": "crusherfooxi10",
+    "title": null,
+    "fullname": "Crusher",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/4774283014.jpg?w=150&till=1722470340&sign=629059e845e0aeb12d08803ed48bb216",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.02,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4271344
+    },
+    "engagement_avg": {
+      "value": 357411
+    },
+    "authentic_engagement": {
+      "value": 253617
+    }
+  }
+}

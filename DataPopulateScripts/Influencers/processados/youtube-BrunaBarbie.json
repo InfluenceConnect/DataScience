@@ -1,0 +1,91 @@
+{
+  "_number": 338,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCmrn1ElAUe77KQG0SYoSZHg",
+    "username": "BrunaBarbie",
+    "title": null,
+    "fullname": "Bruna Barbie",
+    "avatar_url": "https://yt3.googleusercontent.com/FgZ-CAAGf0V1bXy1iNBHDZqzHjgl0gqVpRsUBQR9i_F67VPjyhjOcs9CcwFZTtOyEGmub9CV_w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.08,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.08,
+            "hs_value": 0.077014
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.85,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.18,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.67,
+            "hs_value": null
+          },
+          {
+            "id": "ma",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4735108
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 16
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 705
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 721
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 14256.5
+        }
+      }
+    }
+  }
+}

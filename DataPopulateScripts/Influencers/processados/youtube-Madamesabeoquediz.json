@@ -1,0 +1,91 @@
+{
+  "_number": 873,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC1zMLGoshI-gb1kIUKlNrmg",
+    "username": "Madamesabeoquediz",
+    "title": null,
+    "fullname": "Madam knows what she says.",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mwHUbIbuiOHMwUYzEDXHuTdLsza6EBTEqZhaFkIXbexPeF=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.62,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.62,
+            "hs_value": 0.001
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "ch",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          },
+          {
+            "id": "pk",
+            "code": null,
+            "prc": 1.08,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2325059
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 115
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 118
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1660.5
+        }
+      }
+    }
+  }
+}

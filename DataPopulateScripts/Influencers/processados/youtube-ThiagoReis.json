@@ -1,0 +1,92 @@
+{
+  "_number": 215,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCQ0IutRW590TSJUDyBPP2Pw",
+    "username": "ThiagoReis",
+    "title": null,
+    "fullname": "Thiago Reis",
+    "avatar_url": "https://yt3.googleusercontent.com/DjXAWtogakI5AS2VI5Uzlo9ZgzR508Nf38I5Y4sXh2iwjq3qbbnBSg6SRNlRHq3gmAf9UjcjiA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.41,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.41,
+            "hs_value": 52.296087
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.73,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.35,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.26,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6401519
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 298
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 18730
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 19028
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 236960
+        }
+      }
+    }
+  }
+}

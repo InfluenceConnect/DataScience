@@ -1,0 +1,91 @@
+{
+  "_number": 901,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC_aoNApcsdzwaWaQQS2spvg",
+    "username": "tiagoiorcmusic",
+    "title": null,
+    "fullname": "TIAGO IORC",
+    "avatar_url": "https://yt3.googleusercontent.com/yiV0MGuf0PTLm95GYGJphltIJYYHZBtIRPChRDPq6PBk3a-RGFbmFSJk8R9lAcIO1LC-WiPU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.18,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.18,
+            "hs_value": 0.060822
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.2,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.98,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2284842
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 43
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 771
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 814
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 18346
+        }
+      }
+    }
+  }
+}

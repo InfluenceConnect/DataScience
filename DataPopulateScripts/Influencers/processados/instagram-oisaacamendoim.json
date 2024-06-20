@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 833,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "45330094834",
+    "username": "oisaacamendoim",
+    "title": null,
+    "fullname": "Isaac Amendoim",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/45330094834.jpg?w=150&till=1722470340&sign=ae1be50c810606f5c319d18327493ec0",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.37,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3194085
+    },
+    "engagement_avg": {
+      "value": 234134
+    },
+    "authentic_engagement": {
+      "value": 165661
+    }
+  }
+}

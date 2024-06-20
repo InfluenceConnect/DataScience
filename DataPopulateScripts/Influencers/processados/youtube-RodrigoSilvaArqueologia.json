@@ -1,0 +1,91 @@
+{
+  "_number": 599,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCn4M9vLHegNuqM8tnL872cA",
+    "username": "RodrigoSilvaArqueologia",
+    "title": null,
+    "fullname": "Rodrigo Silva Arqueologia",
+    "avatar_url": "https://yt3.googleusercontent.com/-Gp5h7HeA9uY8mJpl6Eh6O04CxwdJ-nxgoX8WSKC6q3C1L_SMVdy6Dauz0wkePusWXFegJEpbA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.12,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.12,
+            "hs_value": 6.439145
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.65,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.65,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        24
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3111114
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 133
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 8713
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 8846
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 46223.5
+        }
+      }
+    }
+  }
+}

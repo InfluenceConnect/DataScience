@@ -1,0 +1,86 @@
+{
+  "_number": 224,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC1toK6UDXwreacdepXYcyqA",
+    "username": "BRCartoonNetworkvideos",
+    "title": null,
+    "fullname": "Cartoon Network Brasil",
+    "avatar_url": "https://yt3.googleusercontent.com/aFypU0vjue4TfIKzC56wQsd1ui_LHCR3sbFmRmPbNPGYwBZp3VThEbQ_ywR7_j1guCaWBn2Zdg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.71,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 85.71,
+            "hs_value": 0.001
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 4.76,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.76,
+            "hs_value": null
+          },
+          {
+            "id": "sg",
+            "code": null,
+            "prc": 4.76,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6290767
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 102
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 102
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4169
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 318,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCs2AZhOnCTX0P4NtyNpuetQ",
+    "username": "Febatista",
+    "title": null,
+    "fullname": "Febatista",
+    "avatar_url": "https://yt3.googleusercontent.com/W6zo9QPvvSFFgF5Y_11JJ1zmBlS95_tS4crjIU00n8ua7AHNW0VgDVi-7GXIP49vaw26zW2d=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.82,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.82,
+            "hs_value": 0.249947
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.21,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4944923
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 112
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 952
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1064
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 15923.5
+        }
+      }
+    }
+  }
+}

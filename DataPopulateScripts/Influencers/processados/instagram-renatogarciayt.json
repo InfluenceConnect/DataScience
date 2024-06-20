@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 466,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3683892385",
+    "username": "renatogarciayt",
+    "title": null,
+    "fullname": "Renato Garcia",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3683892385.jpg?w=150&till=1722470340&sign=aeb4c1e79e04fa0aee4bd379568362b5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.63,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9969474
+    },
+    "engagement_avg": {
+      "value": 247808
+    },
+    "authentic_engagement": {
+      "value": 170856
+    }
+  }
+}

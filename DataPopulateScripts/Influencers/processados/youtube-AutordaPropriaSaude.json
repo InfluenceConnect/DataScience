@@ -1,0 +1,91 @@
+{
+  "_number": 526,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC2N2qKL2TApqR-eqlU1AECQ",
+    "username": "AutordaPropriaSaude",
+    "title": null,
+    "fullname": "Health For Plants",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nlL_lx6C7lHxC7svd8wRPktPopPph_0d3T8AMmbQQw3qo=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.54,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.54,
+            "hs_value": 0.178947
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.89,
+            "hs_value": null
+          },
+          {
+            "id": "nl",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3425089
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 53
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1245
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1298
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8067.5
+        }
+      }
+    }
+  }
+}

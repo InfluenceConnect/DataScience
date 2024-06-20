@@ -1,0 +1,92 @@
+{
+  "_number": 778,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCnMuO9UobvCU-dHp4o7OSWQ",
+    "username": "DanceFruits",
+    "title": null,
+    "fullname": "Dance Fruits",
+    "avatar_url": "https://yt3.googleusercontent.com/GwCHwOP9wpQXTdMmq9UmU8K1jHsjQeq82-77j_7_eG85WiHu8mDNPOgHNvh3zWWJ5zxgM8yS3w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 11.84,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 11.84,
+            "hs_value": 0.023239
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 10.07,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 7.15,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 5.24,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 5.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2545235
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 764
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 770
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 15341.5
+        }
+      }
+    }
+  }
+}

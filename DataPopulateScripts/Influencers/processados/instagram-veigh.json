@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 347,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "43478996098",
+    "username": "veigh",
+    "title": null,
+    "fullname": "Thiago Veigh",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/43478996098.jpg?w=150&till=1722470340&sign=1735363aa777829121601c4f55cf39e4",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.97,
+    "blogger_thematics": {
+      "data": [
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6295976
+    },
+    "engagement_avg": {
+      "value": 627490
+    },
+    "authentic_engagement": {
+      "value": 440038
+    }
+  }
+}

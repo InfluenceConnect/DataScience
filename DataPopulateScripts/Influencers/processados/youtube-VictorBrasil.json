@@ -1,0 +1,91 @@
+{
+  "_number": 811,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCQcH47zbLJxjVmV4m8O0eMA",
+    "username": "VictorBrasil",
+    "title": null,
+    "fullname": "Victor Brasil",
+    "avatar_url": "https://yt3.googleusercontent.com/gtSfh3lfV7LjsYKto8Vso0XWWhCNPAiOeQF1t3TwrgHX2JB-Llac_BIOnF82gAIhpjbmXFGZ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 46.65,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 46.65,
+            "hs_value": 0.001
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 10.06,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 9.45,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 5.18,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 2.44,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2464175
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 33
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 36
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 6322.5
+        }
+      }
+    }
+  }
+}

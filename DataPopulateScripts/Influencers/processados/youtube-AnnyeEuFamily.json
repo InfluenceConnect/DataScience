@@ -1,0 +1,92 @@
+{
+  "_number": 290,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC8KpMaUwtS1nEkyCAzmojHQ",
+    "username": "AnnyeEuFamily",
+    "title": null,
+    "fullname": "Fam\u00edlia Anny e Eu Family",
+    "avatar_url": "https://yt3.googleusercontent.com/9lBtz-oxqDKDskqHrg-Jpx8EwNLiFf28GXGBrudBVAIMv-vhWVd3w1xKAgFYoD_0wuLdPaqE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.4,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.4,
+            "hs_value": 0.008698
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.52,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.13,
+            "hs_value": null
+          },
+          {
+            "id": "ge",
+            "code": null,
+            "prc": 0.56,
+            "hs_value": null
+          },
+          {
+            "id": "hk",
+            "code": null,
+            "prc": 0.56,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5375081
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 510
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 518
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 14596
+        }
+      }
+    }
+  }
+}

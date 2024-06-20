@@ -1,0 +1,89 @@
+{
+  "_number": 403,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCp6nCyxdc-OkzBMj3oBtSuw",
+    "username": "DentistadoAparelho",
+    "title": null,
+    "fullname": "Dentista do Aparelho",
+    "avatar_url": "https://yt3.googleusercontent.com/RGUgczq3O6R04QKm-KsZUvMCe3qrpPayynuUW_8IjNjoV-QS-UgIG0mRgrLWniPeBfLtzvjZ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.46,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.46,
+            "hs_value": 11.0505
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.39,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.76,
+            "hs_value": null
+          },
+          {
+            "id": "ie",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4120269
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 46
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6240
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6286
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 71226
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 83,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCl5i1KWUAV7hdT5_tL8l6RA",
+    "username": "ViihTube",
+    "title": null,
+    "fullname": "Viih Tube",
+    "avatar_url": "https://yt3.googleusercontent.com/-p_adtPajgDzxDnuIHHpz4ql-LJX5choTflf19snomImOX-LBRiJiiNrbfVD5m5wT5jnfT-Ivh8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.37,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.37,
+            "hs_value": 5.957999
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.67,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.18,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11248790
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 87
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1796
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1883
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 33160
+        }
+      }
+    }
+  }
+}

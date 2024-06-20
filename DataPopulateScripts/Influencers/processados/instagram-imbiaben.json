@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 527,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "30280012716",
+    "username": "imbiaben",
+    "title": null,
+    "fullname": "Bia Ben",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/30280012716.jpg?w=150&till=1722470340&sign=1157ba9c413c9d106225fbd82111fe57",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.59,
+    "blogger_thematics": {
+      "data": [
+        1017,
+        1042
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4789636
+    },
+    "engagement_avg": {
+      "value": 395322
+    },
+    "authentic_engagement": {
+      "value": 282894
+    }
+  }
+}

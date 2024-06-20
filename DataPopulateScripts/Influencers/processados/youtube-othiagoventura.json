@@ -1,0 +1,91 @@
+{
+  "_number": 221,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCaLs_Nox5i_3KCVnsC_kttA",
+    "username": "othiagoventura",
+    "title": null,
+    "fullname": "Thiago Ventura",
+    "avatar_url": "https://yt3.googleusercontent.com/evMbWB3UhsdoH1sx0YtnwatFi9vp53PVUJzYiEPX20D2hHKwmFk5J2R29P9uNeiz9b-GHu2qUw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.37,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.37,
+            "hs_value": 0.383016
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6295087
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 9
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5019
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5028
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 37558.5
+        }
+      }
+    }
+  }
+}

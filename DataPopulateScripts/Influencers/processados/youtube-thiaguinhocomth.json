@@ -1,0 +1,91 @@
+{
+  "_number": 587,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCEnQ70n_hbsUmYXN9R11aSQ",
+    "username": "thiaguinhocomth",
+    "title": null,
+    "fullname": "Thiaguinho",
+    "avatar_url": "https://yt3.googleusercontent.com/lyQULXpsqmY65FcheR6xnRUl_-T2pUXlzOjVQmgck-M7AduvHz84NTfoVr80EBfTw-XNB33XTA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.25,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.25,
+            "hs_value": 1.92973
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.13,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          },
+          {
+            "id": "at",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3175685
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 14
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 655
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 669
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 6311
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 994,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "241955178",
+    "username": "feuvalenca",
+    "title": null,
+    "fullname": "Fernanda Valen\u00e7a",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/241955178.jpg?w=150&till=1722470340&sign=52ff857136769ef667c071518dca17ff",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.47,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 1787088
+    },
+    "engagement_avg": {
+      "value": 284094
+    },
+    "authentic_engagement": {
+      "value": 195794
+    }
+  }
+}

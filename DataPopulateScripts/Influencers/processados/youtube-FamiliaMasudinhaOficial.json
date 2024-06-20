@@ -1,0 +1,85 @@
+{
+  "_number": 467,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCsVjCEsNbum9JXvSv0jLThw",
+    "username": "FamiliaMasudinhaOficial",
+    "title": null,
+    "fullname": "Fam\u00edlia Masudinha",
+    "avatar_url": "https://yt3.googleusercontent.com/9YVI7ZqjIQYFe5ikcu4Etkz5FApxKQRovdRivMuF1BDQ7CQ7nmav0X7zNlxkdX-20LUvu_hmBg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.06,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.06,
+            "hs_value": 0.482217
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.76,
+            "hs_value": null
+          },
+          {
+            "id": "pk",
+            "code": null,
+            "prc": 0.59,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.59,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3711584
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 88
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1316
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1404
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 50412
+        }
+      }
+    }
+  }
+}

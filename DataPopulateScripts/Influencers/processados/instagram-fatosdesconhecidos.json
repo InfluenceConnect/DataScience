@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 987,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "298160527",
+    "username": "fatosdesconhecidos",
+    "title": null,
+    "fullname": "Fatos Desconhecidos",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/298160527.jpg?w=150&till=1722470340&sign=dc9c11067c4f3b357f28782a41526b03",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 78.9,
+    "blogger_thematics": {
+      "data": [
+        1033
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9896872
+    },
+    "engagement_avg": {
+      "value": 53055
+    },
+    "authentic_engagement": {
+      "value": 41830
+    }
+  }
+}

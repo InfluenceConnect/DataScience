@@ -1,0 +1,91 @@
+{
+  "_number": 27,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCqDauP_ke8Lwt8Hg3Xv-8Iw",
+    "username": "JulianaBaltar",
+    "title": null,
+    "fullname": "Juliana Baltar",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_ki7by_BtT2Y5oamfUCxDTVCudP4TkSZT9xbBqVvQ3bTw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.49,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.49,
+            "hs_value": 29.270025
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.41,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.13,
+            "hs_value": null
+          },
+          {
+            "id": "aq",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          },
+          {
+            "id": "ge",
+            "code": null,
+            "prc": 0.28,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 17850752
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 126
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5934
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6060
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 157160
+        }
+      }
+    }
+  }
+}

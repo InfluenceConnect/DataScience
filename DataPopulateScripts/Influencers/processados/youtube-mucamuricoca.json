@@ -1,0 +1,92 @@
+{
+  "_number": 110,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCda7Fl9Q4wmqDqASRDqrVbA",
+    "username": "mucamuricoca",
+    "title": null,
+    "fullname": "Muca Muri\u00e7oca",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nwm-VW50GEandRN-eNJplAfr6i-8Y7w5aQUADmNBrOv74=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.29,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.29,
+            "hs_value": 0.807658
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.97,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.87,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9815008
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 18
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1864
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1882
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 21130
+        }
+      }
+    }
+  }
+}

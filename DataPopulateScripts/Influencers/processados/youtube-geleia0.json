@@ -1,0 +1,92 @@
+{
+  "_number": 106,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCEfGV5hx2VrXl4jOUnG0MRQ",
+    "username": "geleia0",
+    "title": null,
+    "fullname": "Geleia",
+    "avatar_url": "https://yt3.googleusercontent.com/nrwA5erjqaDKmVh5Rs_kUPetdZBQ6pxrZeJjGLFBTzWy9xyJ9ZP7aMHUE8svznVxexB_i9brajQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.54,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.54,
+            "hs_value": 83.682175
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.68,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.7,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.2,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9905267
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 208
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6323
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6531
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 182987
+        }
+      }
+    }
+  }
+}

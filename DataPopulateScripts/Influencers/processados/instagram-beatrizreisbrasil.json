@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 707,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3172081824",
+    "username": "beatrizreisbrasil",
+    "title": null,
+    "fullname": "Beatriz Reis Brasil \ud83c\udf53",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3172081824.jpg?w=150&till=1722470340&sign=a802956829b6ceddfe7327bcb3e3f640",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 82.07,
+    "blogger_thematics": {
+      "data": [
+        1020
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5386665
+    },
+    "engagement_avg": {
+      "value": 201011
+    },
+    "authentic_engagement": {
+      "value": 128776
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 251,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCy9xDEfMD8jrXU3NatFLLtw",
+    "username": "TacieleAlcoleaa",
+    "title": null,
+    "fullname": "Taciele Alcolea",
+    "avatar_url": "https://yt3.googleusercontent.com/AD6f8p1R5HEKglKHueOTtX3RrB1IpWsuMeyPdbDIG3OwZyDu1ZPo6kPmnhAMx_fvm0CFyZmB8w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.58,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.58,
+            "hs_value": 0.500638
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.68,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.76,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.69,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.38,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5875015
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 60
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2307
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2367
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 31166
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 610,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "10504892658",
+    "username": "bak",
+    "title": null,
+    "fullname": "Gabriel Lessa",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/10504892658.jpg?w=150&till=1722470340&sign=f584c97323a1057048a2433778c8119d",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 83.37,
+    "blogger_thematics": {
+      "data": [
+        1034
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7494419
+    },
+    "engagement_avg": {
+      "value": 194537
+    },
+    "authentic_engagement": {
+      "value": 139643
+    }
+  }
+}

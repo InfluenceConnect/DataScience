@@ -1,0 +1,91 @@
+{
+  "_number": 272,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC4ncvgh5hFr5O83MH7-jRJg",
+    "username": "FlowPodcast",
+    "title": null,
+    "fullname": "Flow Podcast",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kEF_Lu8DNUpCOHSE9xZZRFjXy9kH_G8O9yDP3K9J6o14g=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.24,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.24,
+            "hs_value": 92.790759
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.84,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.65,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        6
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5560984
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 383
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 11634
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 12017
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 188052.5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 233,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC040XFJEsSRhTkmieXp1kDQ",
+    "username": "FamiliaMariaClaraeJP",
+    "title": null,
+    "fullname": "Fam\u00edlia Maria Clara e JP",
+    "avatar_url": "https://yt3.googleusercontent.com/HPYwC-cjbgqSIhja966MW-kWxvC1jaWC3ZmPps7WX3l7wrlGYgi5mL-xAdNX0ShPaky7jvVYdg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.25,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.25,
+            "hs_value": 46.845571
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.24,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.92,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.64,
+            "hs_value": null
+          },
+          {
+            "id": "pl",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6155093
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 140
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2258
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2398
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 206928.5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 513,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "223167162",
+    "username": "tatizaqui",
+    "title": null,
+    "fullname": "Tati Zaqui",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/223167162.jpg?w=150&till=1722470340&sign=f1f6585c35ce719d28f27b90016708f6",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.99,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14908221
+    },
+    "engagement_avg": {
+      "value": 134361
+    },
+    "authentic_engagement": {
+      "value": 75803
+    }
+  }
+}

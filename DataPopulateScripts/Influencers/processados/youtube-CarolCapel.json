@@ -1,0 +1,92 @@
+{
+  "_number": 692,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC9ndLQ9z7bVzGAbOcZRNrUQ",
+    "username": "CarolCapel",
+    "title": null,
+    "fullname": "Carol Capel",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lrE2L9tpp005cgt4bi1oYAN6tyCTNxt9hmwe0ZrK4FtxeC=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.97,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.97,
+            "hs_value": 301.436298
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.36,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.93,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21,
+        18
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2765539
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1800
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 22005
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 23805
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 143262
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 968,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "2032263667",
+    "username": "larissaflor_4",
+    "title": null,
+    "fullname": "Lari Flower \ud83e\udef6\ud83c\udffd",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/2032263667.jpg?w=150&till=1722470340&sign=268e6d637e9a142aa524bad48fff99a7",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 84.97,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2333556
+    },
+    "engagement_avg": {
+      "value": 235490
+    },
+    "authentic_engagement": {
+      "value": 137537
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 948,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "8094558",
+    "username": "manugavassi",
+    "title": null,
+    "fullname": "Manu Gavassi",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/8094558.jpg?w=150&till=1722470340&sign=8b8edc7360206c30fdf5775d8d19213e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.72,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15092386
+    },
+    "engagement_avg": {
+      "value": 36785
+    },
+    "authentic_engagement": {
+      "value": 22418
+    }
+  }
+}

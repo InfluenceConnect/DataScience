@@ -1,0 +1,91 @@
+{
+  "_number": 309,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCChX88lCd7o1buiqdWdME-Q",
+    "username": "TirullipaShow",
+    "title": null,
+    "fullname": "Tirullipa Show",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_le6XKFUcV46gs0J_E_UtIGzMYbdI3C4AYtjefA0PnpPHk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.5,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.5,
+            "hs_value": 0.058977
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.07,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5125397
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 13
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 831
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 844
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 13070
+        }
+      }
+    }
+  }
+}

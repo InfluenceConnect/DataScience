@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 448,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "8579765",
+    "username": "tommyhilfiger",
+    "title": null,
+    "fullname": "Tommy Hilfiger",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/8579765.jpg?w=150&till=1722470340&sign=6fc36a26d91f70baed392f6d90670371",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 11.91,
+    "blogger_thematics": {
+      "data": [
+        1007,
+        1000,
+        1028
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14972665
+    },
+    "engagement_avg": {
+      "value": 169044
+    },
+    "authentic_engagement": {
+      "value": 132163
+    }
+  }
+}

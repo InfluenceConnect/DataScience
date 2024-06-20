@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 817,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "323400764",
+    "username": "rafaellatuma",
+    "title": null,
+    "fullname": "Rafaella Tuma",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/323400764.jpg?w=150&till=1722470340&sign=95a785368b71c04e8f1c7eeb94b44578",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 71.84,
+    "blogger_thematics": {
+      "data": [
+        1036,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5084564
+    },
+    "engagement_avg": {
+      "value": 152529
+    },
+    "authentic_engagement": {
+      "value": 104287
+    }
+  }
+}

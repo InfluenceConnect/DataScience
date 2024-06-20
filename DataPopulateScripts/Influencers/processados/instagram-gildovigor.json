@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 831,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "6741104917",
+    "username": "gildovigor",
+    "title": null,
+    "fullname": "GIL DO VIGOR",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/6741104917.jpg?w=150&till=1722470340&sign=9dde95ff4f5728092f2d26ab22398d18",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 79.66,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14336879
+    },
+    "engagement_avg": {
+      "value": 54631
+    },
+    "authentic_engagement": {
+      "value": 35629
+    }
+  }
+}

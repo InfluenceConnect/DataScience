@@ -1,0 +1,92 @@
+{
+  "_number": 384,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCY2JbItcod5aclsDCrgdo6g",
+    "username": "DiarioDaCarolOficial",
+    "title": null,
+    "fullname": "Di\u00e1rio da Carol",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nGphfsfvujHDjiSYOrxURe9FQHmgAuMPcatDHzyetQRK0=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.52,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.52,
+            "hs_value": 5.181284
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.45,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 0.58,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "iq",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4255035
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 163
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3003
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3166
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 77871.5
+        }
+      }
+    }
+  }
+}

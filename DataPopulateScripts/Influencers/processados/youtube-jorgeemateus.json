@@ -1,0 +1,91 @@
+{
+  "_number": 39,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCL64gn1KZ1C-u87BGQv3b6w",
+    "username": "jorgeemateus",
+    "title": null,
+    "fullname": "Jorge & Mateus Oficial",
+    "avatar_url": "https://yt3.googleusercontent.com/uDokndhu7G0z65IJsSUbr0TfY1O5OyFNkeLLMt4DSNP98WGsxtyRGgF7qkIXLx2Nw3XKYJu3-w=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.34,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.34,
+            "hs_value": 0.132421
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.62,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "pa",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15044519
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 13
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 696
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 709
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 6718
+        }
+      }
+    }
+  }
+}

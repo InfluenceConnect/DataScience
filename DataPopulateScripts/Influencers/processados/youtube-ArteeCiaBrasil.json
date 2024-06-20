@@ -1,0 +1,89 @@
+{
+  "_number": 593,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCBvoBuBZVSu8aMaexAKBeEA",
+    "username": "ArteeCiaBrasil",
+    "title": null,
+    "fullname": "Arte e Cia Brasil - P\u00e1dua Bastos",
+    "avatar_url": "https://yt3.googleusercontent.com/2wXbxLYwo7Wm6r_GMEdMpN30ov018MOEn4ZcywZUDau9xAWliJ6hVryGEQxKx_40Gytcy5WO=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.92,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.92,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.62,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.33,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.74,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.59,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3144961
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 66
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 74
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 792.5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 284,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "9429520",
+    "username": "debbyryan",
+    "title": null,
+    "fullname": "Debby Ryan",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/9429520.jpg?w=150&till=1722470340&sign=2c167f8b6084d1566136e174b721c066",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 30.61,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 15644145
+    },
+    "engagement_avg": {
+      "value": 324356
+    },
+    "authentic_engagement": {
+      "value": 236723
+    }
+  }
+}

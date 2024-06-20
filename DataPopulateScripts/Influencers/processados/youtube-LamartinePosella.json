@@ -1,0 +1,91 @@
+{
+  "_number": 885,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwQrEpAfChRFCclzR0pAbyQ",
+    "username": "LamartinePosella",
+    "title": null,
+    "fullname": "Lamartine Posella",
+    "avatar_url": "https://yt3.googleusercontent.com/RIM12CdNw_YXOfANzk0J7S0bMIZzFBuWK0q9Wi4cI7FV1zI5JfQ1Itt4yr2rGa3uD9Q4O1Gc=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.64,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.64,
+            "hs_value": 7.62641
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.72,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.5,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "be",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2304884
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 347
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 6112
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6459
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 24387.5
+        }
+      }
+    }
+  }
+}

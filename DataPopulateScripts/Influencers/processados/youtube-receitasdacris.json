@@ -1,0 +1,91 @@
+{
+  "_number": 186,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCRbXS1MKrZ55Vm5G9336BKw",
+    "username": "receitasdacris",
+    "title": null,
+    "fullname": "Receitas Da Cris",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mdDPyQxzjSiLgVwdi6qj7yVtB9fZJTJ7nRAfi-f-jRL6A=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.04,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.04,
+            "hs_value": 3.243007
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.1,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.96,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.55,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        13
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7090878
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 156
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3860
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4016
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 110484.5
+        }
+      }
+    }
+  }
+}

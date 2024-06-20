@@ -1,0 +1,91 @@
+{
+  "_number": 264,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCriRvZSnEFPSMqSya2s2U6g",
+    "username": "Banheiristas",
+    "title": null,
+    "fullname": "Banheiristas",
+    "avatar_url": "https://yt3.googleusercontent.com/HLxx6qtiDGQqMDwZmo1_0nXtW6msgpGGd4MHUmPa7XHWFjr6Nhttz2LrOtq7_m9rST3P_gQG-pk=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.03,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.03,
+            "hs_value": 15239.360837
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.63,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5600613
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1000
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 65904
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 66904
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1490029
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 486,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "41217567",
+    "username": "camilo",
+    "title": null,
+    "fullname": "C A M I L O",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/41217567.jpg?w=150&till=1722470340&sign=b12daa835b806a8dd90d61a23ce0795c",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 11.44,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 28322589
+    },
+    "engagement_avg": {
+      "value": 76748
+    },
+    "authentic_engagement": {
+      "value": 51137
+    }
+  }
+}

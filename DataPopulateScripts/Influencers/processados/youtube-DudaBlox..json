@@ -1,0 +1,92 @@
+{
+  "_number": 383,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCLJx2E37uNdMfpGksGK1Aiw",
+    "username": "DudaBlox.",
+    "title": null,
+    "fullname": "DudaBlox",
+    "avatar_url": "https://yt3.googleusercontent.com/V7tUjov_zC9Cl-WRIMsPIryG9I0B1A3DiZ5A5EA-pEQqYn7J527IiTWtQEObI_asiGTdlU0HR-g=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.15,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.15,
+            "hs_value": 3.259315
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "co",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.1,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        25
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4260944
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 42
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2025
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2067
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 11766
+        }
+      }
+    }
+  }
+}

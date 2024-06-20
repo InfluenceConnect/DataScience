@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 258,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "30670957326",
+    "username": "yuu_taa_1026",
+    "title": null,
+    "fullname": "\u4e2d\u672c\u60a0\u592a\u3000YUTA",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/30670957326.jpg?w=150&till=1722470340&sign=69a89c3f4586ed73b1af2290aabef972",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 22.85,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8932670
+    },
+    "engagement_avg": {
+      "value": 672269
+    },
+    "authentic_engagement": {
+      "value": 532224
+    }
+  }
+}

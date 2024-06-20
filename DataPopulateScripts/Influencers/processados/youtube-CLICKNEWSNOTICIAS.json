@@ -1,0 +1,91 @@
+{
+  "_number": 725,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCfQCfXLcbB82IYleK5WilvQ",
+    "username": "CLICKNEWSNOTICIAS",
+    "title": null,
+    "fullname": "CLICKNEWS",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l2Cnnf3dqwx9T61FGVju4AFwuIR9zcf7gG-u13y18E1QI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.39,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.39,
+            "hs_value": 0.035873
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.17,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.17,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 1.09,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 1.09,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        19
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2675150
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 3
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 860
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 863
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 19920
+        }
+      }
+    }
+  }
+}

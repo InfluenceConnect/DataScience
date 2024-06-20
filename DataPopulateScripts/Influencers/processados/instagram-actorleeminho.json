@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 56,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1985619235",
+    "username": "actorleeminho",
+    "title": null,
+    "fullname": "\u110b\u1175\u1106\u1175\u11ab\u1112\u1169 leeminho",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1985619235.jpg?w=150&till=1722470340&sign=954c2076f9b009fab19f4132b98bf711",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 31.94,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 35120279
+    },
+    "engagement_avg": {
+      "value": 1537409
+    },
+    "authentic_engagement": {
+      "value": 1315716
+    }
+  }
+}

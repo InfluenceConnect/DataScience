@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 324,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "22469979",
+    "username": "easportsfc",
+    "title": null,
+    "fullname": "EA SPORTS FC",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/22469979.jpg?w=150&till=1722470340&sign=4effba14f82bb57cf5508d0df043bacf",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 8.58,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 31652416
+    },
+    "engagement_avg": {
+      "value": 135043
+    },
+    "authentic_engagement": {
+      "value": 111654
+    }
+  }
+}

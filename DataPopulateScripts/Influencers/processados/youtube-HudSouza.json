@@ -1,0 +1,89 @@
+{
+  "_number": 366,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCFstMGG9g_P28n4QG4NAucA",
+    "username": "HudSouza",
+    "title": null,
+    "fullname": "Hud Souza",
+    "avatar_url": "https://yt3.googleusercontent.com/HK75cG7Q2uNFR4FAaumUeQbnBonwYJDPWykrxMx17zWvWiSdSHC3tiF8QXJn9HoiGOyUbyjepQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.42,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.42,
+            "hs_value": 0.041253
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.93,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4510246
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 50
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5009
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5059
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 53033
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 59,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "189393625",
+    "username": "ddlovato",
+    "title": null,
+    "fullname": "Demi Lovato",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/189393625.jpg?w=150&till=1722470340&sign=aa8b7cc3b02f42dff5ac0808dceb1834",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 31.42,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 156415788
+    },
+    "engagement_avg": {
+      "value": 336666
+    },
+    "authentic_engagement": {
+      "value": 251093
+    }
+  }
+}

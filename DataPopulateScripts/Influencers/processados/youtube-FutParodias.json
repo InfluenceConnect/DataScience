@@ -1,0 +1,91 @@
+{
+  "_number": 96,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCGFNp4Pialo9wjT9Bo8wECA",
+    "username": "FutParodias",
+    "title": null,
+    "fullname": "FutPar\u00f3dias",
+    "avatar_url": "https://yt3.googleusercontent.com/43gv_N0qV_EXcXQkES6SFcXzEbPUgfXEfcRX9tNYjdf54fGHGwaed1E_jouI_SztDLCSaOJSDQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.47,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.47,
+            "hs_value": 1447.975383
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.09,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.84,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        22
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 10553963
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 814
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 37951
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 38765
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 524849
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 227,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCYq8gh46PLSxYRyrEL8BVxg",
+    "username": "LucasMotoVlog9004",
+    "title": null,
+    "fullname": "Lucas MotoVlog",
+    "avatar_url": "https://yt3.googleusercontent.com/XHwZetWaaJbVam1zxTjkmfk9XnWt3Q5nC0OGNVvgzYKLIJYcGkkpxUYTG__JVhEEwws36rElYQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.28,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.28,
+            "hs_value": 11.721119
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.43,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.11,
+            "hs_value": null
+          },
+          {
+            "id": "pe",
+            "code": null,
+            "prc": 0.11,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6215402
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 167
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7767
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7934
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 56939
+        }
+      }
+    }
+  }
+}

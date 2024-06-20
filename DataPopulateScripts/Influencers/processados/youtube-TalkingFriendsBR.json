@@ -1,0 +1,89 @@
+{
+  "_number": 167,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCY9xIaF8CIdS23e0W6nHAmg",
+    "username": "TalkingFriendsBR",
+    "title": null,
+    "fullname": "Talking Tom & Friends Brasil",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l_aiJXSwOXFa1a21XKVo99RFT4XF5X00q5nv_TdV7zDaE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 86.36,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 86.36,
+            "hs_value": 0.004973
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.82,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 1.82,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.36,
+            "hs_value": null
+          },
+          {
+            "id": "pk",
+            "code": null,
+            "prc": 0.91,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7484953
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 0
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 76
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 76
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 17311
+        }
+      }
+    }
+  }
+}

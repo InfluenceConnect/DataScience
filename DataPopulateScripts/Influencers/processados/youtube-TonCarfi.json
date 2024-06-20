@@ -1,0 +1,92 @@
+{
+  "_number": 793,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCFHrQuBcOiuGj58CvBuJtfw",
+    "username": "TonCarfi",
+    "title": null,
+    "fullname": "Ton Carfi",
+    "avatar_url": "https://yt3.googleusercontent.com/iy8JdEJEfMntdaqpt9UctKQo5NR6Dpx1drElv91s61OJqU39l_P4Hr0SSiH4UL3rKdUHJ_4Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.44,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.44,
+            "hs_value": 43.815879
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.94,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.84,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2504328
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 100
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1977
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2077
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 16452
+        }
+      }
+    }
+  }
+}

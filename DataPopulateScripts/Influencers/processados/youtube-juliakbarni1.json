@@ -1,0 +1,89 @@
+{
+  "_number": 709,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCp8s41MCK-mETH-Nga6P0fw",
+    "username": "juliakbarni1",
+    "title": null,
+    "fullname": "Julia K Barni",
+    "avatar_url": "https://yt3.googleusercontent.com/y87vaKaFaCGmp0c9jmia36sbwya42pHdIFKIjtwA2mnKdT3RjaJ_3kqjDfbr8j6AZaJQBCye=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 90.81,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 90.81,
+            "hs_value": 1.175167
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.9,
+            "hs_value": null
+          },
+          {
+            "id": "ru",
+            "code": null,
+            "prc": 1.26,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.01,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.5,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2724947
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 39
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1843
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1882
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 25490
+        }
+      }
+    }
+  }
+}

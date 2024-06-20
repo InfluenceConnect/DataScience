@@ -1,0 +1,89 @@
+{
+  "_number": 198,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCpuMo8h-AO93jRvA82sHF5A",
+    "username": "trigemeosdoperachado",
+    "title": null,
+    "fullname": "trig\u00eameos do p\u00e9 rachado",
+    "avatar_url": "https://yt3.googleusercontent.com/1k-eAdki4jRDWA0_5a8rosrSj19JsCaXs2Ls6BwINRPlg7E2bBtThw6ZKg9Kc_EIOUlwk1Tmjg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 39.88,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 39.88,
+            "hs_value": 0.109523
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 17.18,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 6.13,
+            "hs_value": null
+          },
+          {
+            "id": "ph",
+            "code": null,
+            "prc": 4.91,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 3.07,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6850470
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 831
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 837
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 40953
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_number": 353,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCZfId64U0uXqaSsAQCsp7Qg",
+    "username": "evelynregly",
+    "title": null,
+    "fullname": "Evelyn Regly",
+    "avatar_url": "https://yt3.googleusercontent.com/uT6J6Xr96o6puWkLSlc-5p-JrwP2aXBjJdbC27MGLy9LywyARkEi2TYEPgfBxu9q3SIRrqRsmw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.98,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.98,
+            "hs_value": 4.297177
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.38,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.97,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.4,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        4
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4614846
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 126
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2895
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3021
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 38702
+        }
+      }
+    }
+  }
+}

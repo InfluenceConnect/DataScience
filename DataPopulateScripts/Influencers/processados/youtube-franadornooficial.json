@@ -1,0 +1,91 @@
+{
+  "_number": 580,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCOEm1yr1ZE_DZ5elhTiDhvA",
+    "username": "franadornooficial",
+    "title": null,
+    "fullname": "Franks\u00e2ngela ",
+    "avatar_url": "https://yt3.googleusercontent.com/CuiCWoKzgG1SZAOj-vG9BxnPDec2S70NXum-pL16MtLP5ye4W-VebFXZlHOXLCHASgHsA3jORA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.38,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.38,
+            "hs_value": 35.951973
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.94,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "il",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3204612
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 689
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 8961
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 9650
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 81972
+        }
+      }
+    }
+  }
+}

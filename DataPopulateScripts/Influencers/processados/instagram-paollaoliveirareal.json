@@ -1,0 +1,36 @@
+{
+  "_fh": null,
+  "_number": 363,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "9281904",
+    "username": "paollaoliveirareal",
+    "title": null,
+    "fullname": "Paolla Oliveira",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/9281904.jpg?w=150&till=1722470340&sign=c3b5a7890c78d37936cac50277e5f3f3",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 76.19,
+    "blogger_thematics": {
+      "data": [
+        1032,
+        1041,
+        1021
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 36987334
+    },
+    "engagement_avg": {
+      "value": 99768
+    },
+    "authentic_engagement": {
+      "value": 63043
+    }
+  }
+}

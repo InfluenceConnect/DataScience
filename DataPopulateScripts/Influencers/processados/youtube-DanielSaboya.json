@@ -1,0 +1,91 @@
+{
+  "_number": 22,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCEUf_uUDUfJJ3XfgwOxm-0A",
+    "username": "DanielSaboya",
+    "title": null,
+    "fullname": "Dan-Sa / Daniel Saboya",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mU1omMek4uONIPeFpnQ55D35zt7S0JpoS0VvmeuHASKL5i=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.74,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.74,
+            "hs_value": 0.003716
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.07,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.83,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 0.83,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.83,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 18746371
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 407
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 413
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 10476
+        }
+      }
+    }
+  }
+}

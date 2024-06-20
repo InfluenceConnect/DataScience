@@ -1,0 +1,89 @@
+{
+  "_number": 43,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCcQeJmGXpa_t03Zjrl8Aq4g",
+    "username": "IdeiasIncriveis_official",
+    "title": null,
+    "fullname": "IDEIAS INCR\u00cdVEIS",
+    "avatar_url": "https://yt3.googleusercontent.com/MBldjpkpyHK8bC2P76qAKBVN6TQH3mpSlhQRvjtagQd5kdkjoji9csrxakA0bsXRMrtnsgE=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 70.33,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 70.33,
+            "hs_value": 0.001
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 4.4,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 3.3,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.3,
+            "hs_value": null
+          },
+          {
+            "id": "pk",
+            "code": null,
+            "prc": 3.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 14551418
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 71
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 73
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 5234.5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 871,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCDG56nDKCg302lY6Lr_GOWg",
+    "username": "MuriloCouto",
+    "title": null,
+    "fullname": "Murilo Couto",
+    "avatar_url": "https://yt3.googleusercontent.com/doYxnJpDZN9mv7AYxw9M7DQirJLovgrLlHHBVimRLFonOmIt7r4r5RTpQ_XmZtdsDXcqxgOuj7Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.84,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.84,
+            "hs_value": 6.187075
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.26,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2334894
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 45
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1965
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2010
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 17235
+        }
+      }
+    }
+  }
+}

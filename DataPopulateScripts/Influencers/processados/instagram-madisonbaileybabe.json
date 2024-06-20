@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 248,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "208128134",
+    "username": "madisonbaileybabe",
+    "title": null,
+    "fullname": "Madison Bailey",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/208128134.jpg?w=150&till=1722470340&sign=18adb46d717a05f28df7f84bc4784407",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 41.15,
+    "blogger_thematics": {
+      "data": [
+        1041,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 8336752
+    },
+    "engagement_avg": {
+      "value": 761963
+    },
+    "authentic_engagement": {
+      "value": 574882
+    }
+  }
+}

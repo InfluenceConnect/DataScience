@@ -1,0 +1,92 @@
+{
+  "_number": 739,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCeCNJFVFZrbeQA-wfTMchqg",
+    "username": "ChargesMauricioRicardo",
+    "title": null,
+    "fullname": "Charges",
+    "avatar_url": "https://yt3.googleusercontent.com/Ou9H8YhHirs8A_p_C-h0qBHD4K3OqPghQYh5kC23oORB25ePWpjlWLpK85pLNduXJ-VJWPc5Qg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.7,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.7,
+            "hs_value": 0.118645
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.45,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.07,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.32,
+            "hs_value": null
+          },
+          {
+            "id": "mz",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2635001
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 20
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1833
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1853
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 19020.5
+        }
+      }
+    }
+  }
+}

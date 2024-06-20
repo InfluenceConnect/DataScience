@@ -1,0 +1,92 @@
+{
+  "_number": 684,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCRvO8hikQztnHnG9_L8f0Ng",
+    "username": "vlogdojand",
+    "title": null,
+    "fullname": "Vlog do JAND",
+    "avatar_url": "https://yt3.googleusercontent.com/l9RQU0KfHZjEzkgOTomttKhV_F_pWLybfzPUSgGdW__nawLwuuoeWfS5mj_xVIVv8UUsnwhS=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.18,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.18,
+            "hs_value": 0.49559
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.85,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.71,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.57,
+            "hs_value": null
+          },
+          {
+            "id": "ca",
+            "code": null,
+            "prc": 0.42,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2780575
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 6
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2001
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2007
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 41402
+        }
+      }
+    }
+  }
+}

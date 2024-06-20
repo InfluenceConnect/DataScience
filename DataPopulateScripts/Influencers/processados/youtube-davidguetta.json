@@ -1,0 +1,91 @@
+{
+  "_number": 10,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC1l7wYrva1qCH-wgqcHaaRg",
+    "username": "davidguetta",
+    "title": null,
+    "fullname": "David Guetta",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mc52bygKcjWNWYnpYJv6OOB5hn7JREVdoz0zM8IqWtxPU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 14.93,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 14.93,
+            "hs_value": 6.991216
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 11.97,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 7.23,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 5.75,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 5.04,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26609202
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 164
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4048
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4212
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 72152
+        }
+      }
+    }
+  }
+}

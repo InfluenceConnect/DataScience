@@ -1,0 +1,34 @@
+{
+  "_fh": "11b134f8bd7b2149ad78fc6149827c1e",
+  "_number": 3,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "11830955",
+    "username": "taylorswift",
+    "title": null,
+    "fullname": "Taylor Swift",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/11830955.jpg?w=150&till=1722470340&sign=28c1851f48dde17a6477ffcaefef59e3",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 36.5,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 283685934
+    },
+    "engagement_avg": {
+      "value": 6228761
+    },
+    "authentic_engagement": {
+      "value": 4475365
+    }
+  }
+}

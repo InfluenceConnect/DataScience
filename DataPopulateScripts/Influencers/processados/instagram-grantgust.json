@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 604,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "11935083",
+    "username": "grantgust",
+    "title": null,
+    "fullname": "Grant Gustin",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/11935083.jpg?w=150&till=1722470340&sign=d0a9855ea108c6a603ff409b7a2d90b5",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 26.01,
+    "blogger_thematics": {
+      "data": [
+        1032,
+        1021
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7908188
+    },
+    "engagement_avg": {
+      "value": 190560
+    },
+    "authentic_engagement": {
+      "value": 140577
+    }
+  }
+}

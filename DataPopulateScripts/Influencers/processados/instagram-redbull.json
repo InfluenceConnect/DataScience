@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 365,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "476322",
+    "username": "redbull",
+    "title": null,
+    "fullname": "Red Bull",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/476322.jpg?w=150&till=1722470340&sign=cc25005e2b76a437ee57184756a817b3",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 23.24,
+    "blogger_thematics": {
+      "data": [
+        1014,
+        1015
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 22281600
+    },
+    "engagement_avg": {
+      "value": 161700
+    },
+    "authentic_engagement": {
+      "value": 122660
+    }
+  }
+}

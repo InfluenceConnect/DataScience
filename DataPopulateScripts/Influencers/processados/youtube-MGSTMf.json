@@ -1,0 +1,91 @@
+{
+  "_number": 417,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCs1JevIKnU4E4ULMZr-0Qog",
+    "username": "MGSTMf",
+    "title": null,
+    "fullname": "Hugo Milgrau",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mY6lR4-4vsFGFN88QBQFDeR7y7kM3VbbaW4tcnzlaevYI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.79,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.79,
+            "hs_value": 5.236862
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.69,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          },
+          {
+            "id": "bh",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        4
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4020238
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 132
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7095
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7227
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 86138
+        }
+      }
+    }
+  }
+}

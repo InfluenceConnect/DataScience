@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 815,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3748028",
+    "username": "danilogentili",
+    "title": null,
+    "fullname": "Danilo Gentili",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3748028.jpg?w=150&till=1722470340&sign=7d09ee535dd1631248ddce2e1250550d",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.32,
+    "blogger_thematics": {
+      "data": [
+        1036
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11348403
+    },
+    "engagement_avg": {
+      "value": 68285
+    },
+    "authentic_engagement": {
+      "value": 49701
+    }
+  }
+}

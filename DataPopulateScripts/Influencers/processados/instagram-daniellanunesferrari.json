@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 432,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "7368527742",
+    "username": "daniellanunesferrari",
+    "title": null,
+    "fullname": "Daniella Nunes Ferrari",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/7368527742.jpg?w=150&till=1722470340&sign=73be3c9a12957c4f07de17cc542053d0",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.98,
+    "blogger_thematics": {
+      "data": [
+        1042,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5171136
+    },
+    "engagement_avg": {
+      "value": 513520
+    },
+    "authentic_engagement": {
+      "value": 271342
+    }
+  }
+}

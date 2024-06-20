@@ -1,0 +1,92 @@
+{
+  "_number": 11,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC6paX0kLA8D81aYogceMufw",
+    "username": "RAFAELUIZOFICIAL",
+    "title": null,
+    "fullname": "Rafa & Luiz",
+    "avatar_url": "https://yt3.googleusercontent.com/csgBd2Yk74cB4i6Zpi5JXSPoZmKd_bcA9ThWmwNcM6IzynYtlW-ZET8CLTW3Y8ITssmzZ86K=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.57,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.57,
+            "hs_value": 1084.302196
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.45,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "at",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26349797
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 584
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 17125
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 17709
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 514359
+        }
+      }
+    }
+  }
+}

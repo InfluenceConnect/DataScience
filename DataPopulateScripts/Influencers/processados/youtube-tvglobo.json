@@ -1,0 +1,92 @@
+{
+  "_number": 258,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCEPRQVF6hxGGM9gi1ELaWHg",
+    "username": "tvglobo",
+    "title": null,
+    "fullname": "TV Globo",
+    "avatar_url": "https://yt3.googleusercontent.com/mUWEyy1Mi2D_r27JRZIomJS3F5zrFADFr5TDqLUEsGq8B9rZ2XeMHWGdvP-l5CBXpvrg5NU7qc8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.13,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.13,
+            "hs_value": 0.006809
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.87,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.75,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5751074
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 15
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 366
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 381
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 8085
+        }
+      }
+    }
+  }
+}

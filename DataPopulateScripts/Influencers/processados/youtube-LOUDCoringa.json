@@ -1,0 +1,92 @@
+{
+  "_number": 192,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCnYjd7cPNluC7Hi9AZrBNMw",
+    "username": "LOUDCoringa",
+    "title": null,
+    "fullname": "LOUD Coringa",
+    "avatar_url": "https://yt3.googleusercontent.com/YKQmbOY25FoGDBmOfd13uyiE2anKiqlgPqNTn5T3Kux15dZYvnk8th_9AfVwI2kqukYk6PRvlQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.68,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.68,
+            "hs_value": 9.128868
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.9,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.15,
+            "hs_value": null
+          },
+          {
+            "id": "aq",
+            "code": null,
+            "prc": 0.07,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 6891056
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 39
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9702
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 9741
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 71532
+        }
+      }
+    }
+  }
+}

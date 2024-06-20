@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 702,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "213279253",
+    "username": "elalfaeljefe",
+    "title": null,
+    "fullname": "El Alfa El Jefe TE AMO DIOS",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/213279253.jpg?w=150&till=1722470340&sign=1685926892eb79a4c61ddfedc03ade7e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "do",
+    "audience_geo_country_1_prc": 45.59,
+    "blogger_thematics": {
+      "data": [
+        1027
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 13235764
+    },
+    "engagement_avg": {
+      "value": 80913
+    },
+    "authentic_engagement": {
+      "value": 52688
+    }
+  }
+}

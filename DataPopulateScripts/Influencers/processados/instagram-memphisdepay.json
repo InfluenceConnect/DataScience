@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 548,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "18187622",
+    "username": "memphisdepay",
+    "title": null,
+    "fullname": "Memphis Depay",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/18187622.jpg?w=150&till=1722470340&sign=0f81bfd1f97b866a629f9973d5f2fc4a",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 7.82,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16938431
+    },
+    "engagement_avg": {
+      "value": 102308
+    },
+    "authentic_engagement": {
+      "value": 79766
+    }
+  }
+}

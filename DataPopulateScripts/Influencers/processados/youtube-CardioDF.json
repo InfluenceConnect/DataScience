@@ -1,0 +1,91 @@
+{
+  "_number": 320,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC07ssbQK-E2hiKkhaVAP7BQ",
+    "username": "CardioDF",
+    "title": null,
+    "fullname": "Cardio DF \u2014 Cardiologia e sa\u00fade cardiovascular em Bras\u00edlia (DF)",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nSeJ-qmM8QXm2LHP_p4u7wc7_-rpPkAVMS7X_nS4a5PA=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 91.43,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 91.43,
+            "hs_value": 348.258583
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.34,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.82,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 1.04,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4920377
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 518
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 13375
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 13893
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 108368.5
+        }
+      }
+    }
+  }
+}

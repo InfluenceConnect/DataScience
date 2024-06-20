@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 474,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "12223257",
+    "username": "jessicaalba",
+    "title": null,
+    "fullname": "Jessica Alba",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/12223257.jpg?w=150&till=1722470340&sign=2d818fdd9fbff1d36a12ec2d90ec813c",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 39.87,
+    "blogger_thematics": {
+      "data": [
+        1032,
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 20614190
+    },
+    "engagement_avg": {
+      "value": 111993
+    },
+    "authentic_engagement": {
+      "value": 81306
+    }
+  }
+}

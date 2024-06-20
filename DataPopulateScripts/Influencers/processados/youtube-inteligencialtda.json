@@ -1,0 +1,91 @@
+{
+  "_number": 376,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCWZoPPW7u2I4gZfhJBZ6NqQ",
+    "username": "inteligencialtda",
+    "title": null,
+    "fullname": "Intelig\u00eancia Ltda",
+    "avatar_url": "https://yt3.googleusercontent.com/1RivlqEbdiblx404kA_o3Fy2Yp1GxN2kbqOonYZKphz3CZiX7SEsbOJ9jA-r-Rd-dPGp27Ux=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 92.9,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 92.9,
+            "hs_value": 4.17417
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.6,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.95,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.39,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4350998
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 129
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 2674
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 2803
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 39151
+        }
+      }
+    }
+  }
+}

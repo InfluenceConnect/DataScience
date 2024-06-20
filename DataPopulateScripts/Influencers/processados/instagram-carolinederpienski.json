@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 598,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "3268978947",
+    "username": "carolinederpienski",
+    "title": null,
+    "fullname": "CAROLINE MARIA DERPIENSKI",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/3268978947.jpg?w=150&till=1722470340&sign=342f93bf49f870a99eb6646a2806f46a",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 14.21,
+    "blogger_thematics": {
+      "data": [
+        1039
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9835271
+    },
+    "engagement_avg": {
+      "value": 155516
+    },
+    "authentic_engagement": {
+      "value": 42557
+    }
+  }
+}

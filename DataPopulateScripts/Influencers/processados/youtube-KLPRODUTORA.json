@@ -1,0 +1,92 @@
+{
+  "_number": 876,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCwstifrw3uSBJTDU_rq-k0A",
+    "username": "KLPRODUTORA",
+    "title": null,
+    "fullname": "KL PRODUTORA",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_knTLbEwVUerMRGWgz4pndCGGQxgF-vEY-AaesDRs5FgLQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.94,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.94,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.95,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          },
+          {
+            "id": "ma",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 0.24,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2315478
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 52
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 195
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 247
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 2878
+        }
+      }
+    }
+  }
+}

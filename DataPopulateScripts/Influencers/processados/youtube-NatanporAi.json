@@ -1,0 +1,89 @@
+{
+  "_number": 17,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCjaxmdb_gTWbz9XF5rzvgGg",
+    "username": "NatanporAi",
+    "title": null,
+    "fullname": "Natan por A\u00ed",
+    "avatar_url": "https://yt3.googleusercontent.com/VwL1Ca1-GfyqMftZ5PUjNJC0bMDK5u8Sy-J8xnCrMnK7iJcjE_S_knaCbybSiUaJ7V9XI-Hg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.02,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.02,
+            "hs_value": 1509.386906
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 3.42,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 20908522
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 331
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 20405
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 20736
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 963401
+        }
+      }
+    }
+  }
+}

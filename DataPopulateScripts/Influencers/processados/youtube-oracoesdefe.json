@@ -1,0 +1,91 @@
+{
+  "_number": 308,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCM9yWY5a1OZu5mJH_Uh0e3Q",
+    "username": "oracoesdefe",
+    "title": null,
+    "fullname": "Ora\u00e7\u00f5es de F\u00e9",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_liA3ypBkV8kZtwTUuFjocjEJ0wQau3Qq-bcQqSrsWXFw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.2,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.2,
+            "hs_value": 83.598508
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.17,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          },
+          {
+            "id": "is",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.72,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5135123
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2600
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 10276
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 12876
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 31589.5
+        }
+      }
+    }
+  }
+}

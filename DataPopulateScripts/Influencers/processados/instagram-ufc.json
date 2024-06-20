@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 445,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "22832340",
+    "username": "ufc",
+    "title": null,
+    "fullname": "UFC",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/22832340.jpg?w=150&till=1722470340&sign=08f9cf411c48225bc9f5bfbd8752f5ba",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 26.67,
+    "blogger_thematics": {
+      "data": [
+        1014,
+        1017
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 42489871
+    },
+    "engagement_avg": {
+      "value": 59972
+    },
+    "authentic_engagement": {
+      "value": 49588
+    }
+  }
+}

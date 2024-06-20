@@ -1,0 +1,91 @@
+{
+  "_number": 19,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCXooz9whNJZBRTHi9AqdjPw",
+    "username": "gusttavolimaoficial",
+    "title": null,
+    "fullname": "Gusttavo Lima Oficial",
+    "avatar_url": "https://yt3.googleusercontent.com/thbBswvhxqJH0FtQFmKOEVb_yFFSz6siX4hNJW9Fr_pRRndKJZxKvhl_H2Vk4Fx0GO6FOxVkng=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.76,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.76,
+            "hs_value": 1.343179
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.02,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          },
+          {
+            "id": "mx",
+            "code": null,
+            "prc": 0.45,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 20748568
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 112
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3603
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3715
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 30449
+        }
+      }
+    }
+  }
+}

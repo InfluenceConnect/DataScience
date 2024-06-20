@@ -1,0 +1,91 @@
+{
+  "_number": 915,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCE846aNmScq2DjqVdL9qiDg",
+    "username": "DragonsPitKennel",
+    "title": null,
+    "fullname": "Dragons Pit Kennel",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lJO4swjbWyml_QOyxhEV7z_bLRe96GyQnNtkQm69I7J9A=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.85,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.85,
+            "hs_value": 3.290885
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.72,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.37,
+            "hs_value": null
+          },
+          {
+            "id": "ua",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          },
+          {
+            "id": "bt",
+            "code": null,
+            "prc": 0.17,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2251110
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 41
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 4543
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 4584
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 62567
+        }
+      }
+    }
+  }
+}

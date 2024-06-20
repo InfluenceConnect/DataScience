@@ -1,0 +1,92 @@
+{
+  "_number": 687,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCfV1FFayeqmW7HzOETTGZhw",
+    "username": "canalparafusosolto",
+    "title": null,
+    "fullname": "Parafuso Solto",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mYe4dhoXHHqgoo7YHZUm49FHAF_KCRFt70fsNRtSJ39q4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.32,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.32,
+            "hs_value": 0.019328
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.92,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.74,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.37,
+            "hs_value": null
+          },
+          {
+            "id": "lu",
+            "code": null,
+            "prc": 0.18,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2775276
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 15
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 717
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 732
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 7614
+        }
+      }
+    }
+  }
+}

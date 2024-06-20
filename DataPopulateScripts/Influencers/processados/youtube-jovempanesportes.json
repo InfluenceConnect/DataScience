@@ -1,0 +1,91 @@
+{
+  "_number": 346,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCv-Nx8pSfG_LxbViMz14RWQ",
+    "username": "jovempanesportes",
+    "title": null,
+    "fullname": "Jovem Pan Esportes",
+    "avatar_url": "https://yt3.googleusercontent.com/wzem52kYULsQRi0p8W2L6tMwdjTlXrl-VCI2kJOtcCM20PnS9v5TEDNN3S6xl6nk4hRI0T884zg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.21,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.21,
+            "hs_value": 35.162977
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.18,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.67,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.64,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.51,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        22
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4690611
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 240
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5691
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 5931
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 180133
+        }
+      }
+    }
+  }
+}

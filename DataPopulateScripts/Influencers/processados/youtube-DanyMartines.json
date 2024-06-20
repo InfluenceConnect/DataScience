@@ -1,0 +1,92 @@
+{
+  "_number": 523,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC7CEVQbvZ6-uy6TRH_c6scg",
+    "username": "DanyMartines",
+    "title": null,
+    "fullname": "Dany Martines",
+    "avatar_url": "https://yt3.googleusercontent.com/CqVH7v6Wjaw8J8M5eDEnR3jZMS9h5dp_PFUjBq23FqtJmlhVDMW5K-NojuF1oMNpESwXCMZ4Faw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.61,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.61,
+            "hs_value": 0.054865
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.54,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.55,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.33,
+            "hs_value": null
+          },
+          {
+            "id": "be",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        7,
+        8
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3434956
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 12
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1036
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1048
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 20475
+        }
+      }
+    }
+  }
+}

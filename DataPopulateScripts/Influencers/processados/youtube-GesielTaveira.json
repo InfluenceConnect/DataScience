@@ -1,0 +1,91 @@
+{
+  "_number": 402,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCY5nGkuALqkKKOVhivryH3A",
+    "username": "GesielTaveira",
+    "title": null,
+    "fullname": "Gesiel Taveira",
+    "avatar_url": "https://yt3.googleusercontent.com/leBSJaAdZMlW10_VFmyaYJduGRMsSsSCLx-clivqD8mV6HZfAHSj5oLnBhduAhoOmV5t6lTc=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.95,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.95,
+            "hs_value": 39.587155
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.49,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.16,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4120881
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 681
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 9843
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 10524
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 95415
+        }
+      }
+    }
+  }
+}

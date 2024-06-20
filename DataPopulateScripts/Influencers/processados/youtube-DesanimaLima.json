@@ -1,0 +1,89 @@
+{
+  "_number": 975,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC12lrrdchOj_TjhucSc5rVQ",
+    "username": "DesanimaLima",
+    "title": null,
+    "fullname": "Desanima Lima",
+    "avatar_url": "https://yt3.googleusercontent.com/bP21TpFfz77hyb3rNR_i5sCrpYtZp3VBUjFPt8d4jL1P-aTZBrZlx0Yz7SpEZ5T7ZGVvtrB8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.98,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.98,
+            "hs_value": 0.89821
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.88,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.41,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2144799
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 60
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3654
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3714
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 25008
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 511,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCS0HnVAJqgJ3VZkluCZEbIQ",
+    "username": "Tacielo",
+    "title": null,
+    "fullname": "Tacielo",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n7gVRTEqRNB4da7vwtCXBqI75TTsl6rghbd7s4vlk7T18=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.14,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.14,
+            "hs_value": 3154.466065
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.15,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.52,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.21,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3494574
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 554
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 79010
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 79564
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 720666
+        }
+      }
+    }
+  }
+}

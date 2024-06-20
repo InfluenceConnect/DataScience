@@ -1,0 +1,91 @@
+{
+  "_number": 806,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC0f866RMRdL5mSVnipiOHxg",
+    "username": "canalgnt",
+    "title": null,
+    "fullname": "Canal GNT",
+    "avatar_url": "https://yt3.googleusercontent.com/6oHrSxX3Uq9xsMzlVJFq35VGzweqn3BT7a86QXlvY0Y1HHecB_fi6n1qrcdgDMxNorP3G53liQ=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 89.55,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 89.55,
+            "hs_value": 0.197732
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.09,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.45,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 1.13,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.8,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2471154
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 33
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1526
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1559
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 30754
+        }
+      }
+    }
+  }
+}

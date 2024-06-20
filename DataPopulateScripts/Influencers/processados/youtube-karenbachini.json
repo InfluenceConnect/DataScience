@@ -1,0 +1,92 @@
+{
+  "_number": 674,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCYcClChNM-0rjqCGobSfJ4A",
+    "username": "karenbachini",
+    "title": null,
+    "fullname": "Karen Bachini",
+    "avatar_url": "https://yt3.googleusercontent.com/e-gvUSBQiQw8opdxqNGpub_SXJY91mfXELnJuruzBfhBQjTPREmOYtpA6JF6D_bWh9FBQtei=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 95.74,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 95.74,
+            "hs_value": 19.191509
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.22,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.81,
+            "hs_value": null
+          },
+          {
+            "id": "pl",
+            "code": null,
+            "prc": 0.41,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.3,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        7,
+        8
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2825059
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 337
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 5723
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 6060
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 65289.5
+        }
+      }
+    }
+  }
+}

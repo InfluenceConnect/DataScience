@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 302,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "46864088",
+    "username": "kellyrowland",
+    "title": null,
+    "fullname": "Kelly Rowland",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/46864088.jpg?w=150&till=1722470340&sign=b9d406fc1e81853a3469e61ac9ccfd32",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 49.85,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 16511732
+    },
+    "engagement_avg": {
+      "value": 288419
+    },
+    "authentic_engagement": {
+      "value": 171569
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_number": 988,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCvgt4ph5fROR3Fo0_pBc43Q",
+    "username": "Deni",
+    "title": null,
+    "fullname": "Deni",
+    "avatar_url": "https://yt3.googleusercontent.com/3-AKtPRx4_5gLTYN5BiiFS5lbD49XMmX7aWabV2Ik5m6NkovfEN_XDmAcsu34BQg4SLU0qdR4Q=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.94,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.94,
+            "hs_value": 0.539838
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.6,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.59,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.14,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.09,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2120911
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 27
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1487
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1514
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 13833
+        }
+      }
+    }
+  }
+}

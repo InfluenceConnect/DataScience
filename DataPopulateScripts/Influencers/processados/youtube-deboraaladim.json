@@ -1,0 +1,91 @@
+{
+  "_number": 458,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCx7HKmnCIIbRBF2FjAoV0bg",
+    "username": "deboraaladim",
+    "title": null,
+    "fullname": "D\u00e9bora Aladim",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lFEtf74hQTl0uQmbVMrdocLyjP89VDf8t7L6UH963fYLMm=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.56,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.56,
+            "hs_value": 0.881183
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.96,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3754843
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 28
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1621
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1649
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 12300.5
+        }
+      }
+    }
+  }
+}

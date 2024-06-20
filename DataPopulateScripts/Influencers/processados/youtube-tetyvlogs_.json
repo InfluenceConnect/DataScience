@@ -1,0 +1,89 @@
+{
+  "_number": 393,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCGO0Inj7poLcK0JFJy9IO5A",
+    "username": "tetyvlogs_",
+    "title": null,
+    "fullname": "Tety Vlogs",
+    "avatar_url": "https://yt3.googleusercontent.com/16BhJyxFAIG_F_YKrtNRErlVrN2GLaUC2aTbKS92wB9b3euAjMzEbyF-HNRdxVT3GIyKa2jaVR8=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.53,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.53,
+            "hs_value": 139.191593
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.85,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.93,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4170552
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 104
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 17589
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 17693
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 143582.5
+        }
+      }
+    }
+  }
+}

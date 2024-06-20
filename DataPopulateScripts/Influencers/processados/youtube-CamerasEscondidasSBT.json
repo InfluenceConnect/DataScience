@@ -1,0 +1,92 @@
+{
+  "_number": 126,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC3d7Ix6GrtxESULE5Auj_Zg",
+    "username": "CamerasEscondidasSBT",
+    "title": null,
+    "fullname": "C\u00e2meras Escondidas Programa Silvio Santos",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mxxR8nxkYecBK_JCwCB1UHrjx6P6jl1H0XgGRGvawHdAU=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 80.41,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 80.41,
+            "hs_value": 27.553489
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 2.56,
+            "hs_value": null
+          },
+          {
+            "id": "in",
+            "code": null,
+            "prc": 1.74,
+            "hs_value": null
+          },
+          {
+            "id": "id",
+            "code": null,
+            "prc": 1.74,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        2,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9105017
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 149
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 3711
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 3860
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 391109.5
+        }
+      }
+    }
+  }
+}

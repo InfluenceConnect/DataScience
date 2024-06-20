@@ -1,0 +1,34 @@
+{
+  "_fh": "2c0e62cf3fe504eb2bcd3358e07050eb",
+  "_number": 10,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "26669533",
+    "username": "neymarjr",
+    "title": null,
+    "fullname": "Neymar Jr",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/26669533.jpg?w=150&till=1722470340&sign=a7b8391b0eaa4d39b69184d7a70a6731",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 60.58,
+    "blogger_thematics": {
+      "data": [
+        1013
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 221874032
+    },
+    "engagement_avg": {
+      "value": 2809534
+    },
+    "authentic_engagement": {
+      "value": 2293967
+    }
+  }
+}

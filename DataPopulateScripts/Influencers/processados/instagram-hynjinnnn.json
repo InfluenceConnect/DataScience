@@ -1,0 +1,32 @@
+{
+  "_fh": null,
+  "_number": 60,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "60847348822",
+    "username": "hynjinnnn",
+    "title": null,
+    "fullname": "hyunjin",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/60847348822.jpg?w=150&till=1722470340&sign=01aba882a1b20fcffea5e5f4ebb4606f",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 12.54,
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 21063499
+    },
+    "engagement_avg": {
+      "value": 2459206
+    },
+    "authentic_engagement": {
+      "value": 1810981
+    }
+  }
+}

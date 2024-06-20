@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 727,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "237513547",
+    "username": "calvinharris",
+    "title": null,
+    "fullname": "Calvin Harris",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/237513547.jpg?w=150&till=1722470340&sign=67d15211e9634a4e6c7522af705fbf1f",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 20.45,
+    "blogger_thematics": {
+      "data": [
+        1027,
+        1002
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 11371342
+    },
+    "engagement_avg": {
+      "value": 86472
+    },
+    "authentic_engagement": {
+      "value": 63691
+    }
+  }
+}

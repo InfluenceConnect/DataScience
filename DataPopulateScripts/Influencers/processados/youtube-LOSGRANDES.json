@@ -1,0 +1,89 @@
+{
+  "_number": 446,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCalUK7jVPsXndUhfQU-Zg3Q",
+    "username": "LOSGRANDES",
+    "title": null,
+    "fullname": "LOS GRANDES",
+    "avatar_url": "https://yt3.googleusercontent.com/eZdC-vKpHLt-4o2pTIGIgv4moMNlnXWO1jK7KTXaXQqkHY4nztSivTcRoMFvUInXCtJsWKh0Tw=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 98.64,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 98.64,
+            "hs_value": 0.001
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.48,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.13,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.09,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3809155
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 79
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1404
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1483
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 6987
+        }
+      }
+    }
+  }
+}

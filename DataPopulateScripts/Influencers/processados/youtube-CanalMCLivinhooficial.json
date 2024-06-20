@@ -1,0 +1,89 @@
+{
+  "_number": 571,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCuSargZazuHgL_ob-M9ckHQ",
+    "username": "CanalMCLivinhooficial",
+    "title": null,
+    "fullname": "Canal MC Livinho",
+    "avatar_url": "https://yt3.googleusercontent.com/_Kne8VtgJmzajCSf5pospWowBY5hCA70FhTnQ_-0jAqgg7f3VQ68IKeszQNVKzrp1w1MD2fGRTY=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.31,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.31,
+            "hs_value": 0.237151
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.17,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.29,
+            "hs_value": null
+          },
+          {
+            "id": "do",
+            "code": null,
+            "prc": 0.19,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3235062
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 14
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 502
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 516
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 3518
+        }
+      }
+    }
+  }
+}

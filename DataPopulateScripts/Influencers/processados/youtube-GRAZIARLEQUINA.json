@@ -1,0 +1,83 @@
+{
+  "_number": 392,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC53Zufzrm6SfD1vup52P1WA",
+    "username": "GRAZIARLEQUINA",
+    "title": null,
+    "fullname": "GRAZI ARLEQUINA",
+    "avatar_url": "https://yt3.googleusercontent.com/TD7qnmW83XVim-trMtyyHAlLmdBXcPUJ32w5CIYWUFq2Ex5gQz68ENhxhDNdy1plBroLXm15AoI=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 97.28,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 97.28,
+            "hs_value": 4.54808
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.36,
+            "hs_value": null
+          },
+          {
+            "id": "bt",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          },
+          {
+            "id": "fr",
+            "code": null,
+            "prc": 0.68,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4170552
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 68
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 18182
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 18250
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 262176
+        }
+      }
+    }
+  }
+}

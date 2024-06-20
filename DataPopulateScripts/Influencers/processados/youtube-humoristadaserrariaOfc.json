@@ -1,0 +1,86 @@
+{
+  "_number": 948,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCVF73fsH3BhHPkSG77VUIcw",
+    "username": "humoristadaserrariaOfc",
+    "title": null,
+    "fullname": "Humorista da Serraria Ofc",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mZfph9u4g4gGmG5yBzyRWhanaPM04D0PgHusbosq7rb2k=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 99.33,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 99.33,
+            "hs_value": 0.752794
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          },
+          {
+            "id": "zm",
+            "code": null,
+            "prc": 0.22,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        2
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2205112
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 24
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1698
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1722
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 55930
+        }
+      }
+    }
+  }
+}

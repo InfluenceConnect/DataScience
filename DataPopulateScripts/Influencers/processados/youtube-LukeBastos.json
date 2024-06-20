@@ -1,0 +1,89 @@
+{
+  "_number": 249,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCkarV40HevhJQcnuU5Wg4rw",
+    "username": "LukeBastos",
+    "title": null,
+    "fullname": "Lucas Bastos",
+    "avatar_url": "https://yt3.googleusercontent.com/h_ppAVvS9xAir29Kc7UXrvcIo2UfzRRqDd_61e2bo3Chr4orWG19S-5yxBH8L4urY878IEWjFIM=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.57,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.57,
+            "hs_value": 168.95906
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.26,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.69,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.34,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": null
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 5911671
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 100
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 7531
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 7631
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 150839
+        }
+      }
+    }
+  }
+}

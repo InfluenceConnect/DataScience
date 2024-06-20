@@ -1,0 +1,92 @@
+{
+  "_number": 933,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC_l6dh0591UQlh7Mo3xCaig",
+    "username": "NandoPinheiro",
+    "title": null,
+    "fullname": "Nando Pinheiro",
+    "avatar_url": "https://yt3.googleusercontent.com/i95Wt-M_X2LKA6BqmSvMmK5V-CQNyeNXPQK42P8ZYOuPmV1SNNKAoa7g1oAGNVCxSPB2w7Ht9A=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.29,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.29,
+            "hs_value": 0.002162
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 1.48,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.37,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 1.02,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.8,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        21,
+        9
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2235023
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 19
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 437
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 456
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 4321
+        }
+      }
+    }
+  }
+}

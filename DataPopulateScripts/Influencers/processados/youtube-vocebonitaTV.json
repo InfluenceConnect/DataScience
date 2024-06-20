@@ -1,0 +1,91 @@
+{
+  "_number": 661,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCxucJ9P3mLMneYypLZYn2uw",
+    "username": "vocebonitaTV",
+    "title": null,
+    "fullname": "Voc\u00ea Bonita",
+    "avatar_url": "https://yt3.googleusercontent.com/Zoj8igi4zmvf-Mi2JCl2gJWmsNfEfKLx1lSxEWGaItHVYu4L1KFL8Amk-ndFuCkOxZlsodCFTg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 88.36,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 88.36,
+            "hs_value": 0.001
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 4.65,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 2.33,
+            "hs_value": null
+          },
+          {
+            "id": "tr",
+            "code": null,
+            "prc": 2.33,
+            "hs_value": null
+          },
+          {
+            "id": "ad",
+            "code": null,
+            "prc": 2.33,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        14
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2855083
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 2
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 123
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 125
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 1980
+        }
+      }
+    }
+  }
+}

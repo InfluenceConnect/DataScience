@@ -1,0 +1,92 @@
+{
+  "_number": 164,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC2e5AMksbrJ-gKaPMfYiBnA",
+    "username": "IngridOharaTV",
+    "title": null,
+    "fullname": "Ingrid Ohara TV",
+    "avatar_url": "https://yt3.googleusercontent.com/5Fnj3lfgrJXh7GHnNkt-YVkrtcsMSkiDPGvnrP0kTNNwUzV87-aGNOWmknVCCmIsqn8kEDtrMg=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.3,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.3,
+            "hs_value": 11.869104
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.99,
+            "hs_value": null
+          },
+          {
+            "id": "ao",
+            "code": null,
+            "prc": 0.8,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.66,
+            "hs_value": null
+          },
+          {
+            "id": "za",
+            "code": null,
+            "prc": 0.53,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16,
+        15
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7564884
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 161
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 18007
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 18168
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 384360
+        }
+      }
+    }
+  }
+}

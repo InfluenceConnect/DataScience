@@ -1,0 +1,91 @@
+{
+  "_number": 868,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCmGD63MyNLl3niTac686-XQ",
+    "username": "SessaoNerdOficial",
+    "title": null,
+    "fullname": "Sess\u00e3o Nerd",
+    "avatar_url": "https://yt3.googleusercontent.com/WeO5G0U4GGXTyY3bZ3yvwp9atqxha1xJTqyfOIOQ95Idy1djSANTR7u5H13ZVABb0cKx08wO=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.79,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.79,
+            "hs_value": 1000.299426
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.21,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.03,
+            "hs_value": null
+          },
+          {
+            "id": "jp",
+            "code": null,
+            "prc": 0.36,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.12,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2334983
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 1600
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 61119
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 62719
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 516572
+        }
+      }
+    }
+  }
+}

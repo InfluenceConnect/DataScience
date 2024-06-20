@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 620,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "8638223024",
+    "username": "emerson.resolve",
+    "title": null,
+    "fullname": "Emerson Falkevicz - Resolve",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/8638223024.jpg?w=150&till=1722470340&sign=8b65ecee48fae6bc14edf3fd456a558e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 78.06,
+    "blogger_thematics": {
+      "data": [
+        1044
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 7332894
+    },
+    "engagement_avg": {
+      "value": 203005
+    },
+    "authentic_engagement": {
+      "value": 160114
+    }
+  }
+}

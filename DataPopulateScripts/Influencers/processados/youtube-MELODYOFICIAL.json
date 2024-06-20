@@ -1,0 +1,91 @@
+{
+  "_number": 440,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCEAyAWDPVDQoi6gAz7a1NHg",
+    "username": "MELODYOFICIAL",
+    "title": null,
+    "fullname": "MELODY OFICIAL",
+    "avatar_url": "https://yt3.googleusercontent.com/vIXCXKp_nz6nwff6HIcu1hZElHijQRa6A1fJq94mew2TrpaTF6yK-dHggCAMnJ8x3j0N9m01Jzs=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 94.07,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 94.07,
+            "hs_value": 111.560101
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 2.02,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.94,
+            "hs_value": null
+          },
+          {
+            "id": "af",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 0.27,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        17
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3834935
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 95
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1040
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1135
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 26751
+        }
+      }
+    }
+  }
+}

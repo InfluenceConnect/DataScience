@@ -1,0 +1,92 @@
+{
+  "_number": 658,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCGfrC6R2PSMeXv4hdhONB6Q",
+    "username": "GrowthTV",
+    "title": null,
+    "fullname": "Growth TV",
+    "avatar_url": "https://yt3.googleusercontent.com/Q7tFqUFJ9yTQeYC8U2B2vW4lCbzL8UZcubPng-vynEfw1_UYQaES1TOdhh0YNhaxG1iyBTYZUj4=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.1,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.1,
+            "hs_value": 18.492806
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 1.83,
+            "hs_value": null
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 0.54,
+            "hs_value": null
+          },
+          {
+            "id": "gb",
+            "code": null,
+            "prc": 0.31,
+            "hs_value": null
+          },
+          {
+            "id": "es",
+            "code": null,
+            "prc": 0.23,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        12,
+        4
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 2861224
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 158
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 11553
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 11711
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 110348
+        }
+      }
+    }
+  }
+}

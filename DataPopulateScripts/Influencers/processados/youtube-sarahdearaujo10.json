@@ -1,0 +1,85 @@
+{
+  "_number": 112,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UC2ML8NFIkVD-leB1f_jYCdw",
+    "username": "sarahdearaujo10",
+    "title": null,
+    "fullname": "Sarah de Ara\u00fajo",
+    "avatar_url": "https://yt3.googleusercontent.com/citKzW-UZWg-0LG8574AOFFQMtxd0Ulerv2gEt6pBbSexLQb1pLmwa5BFMNICLyV9HtqAzaW=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 96.25,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 96.25,
+            "hs_value": 0.033932
+          },
+          {
+            "id": "ar",
+            "code": null,
+            "prc": 1.25,
+            "hs_value": null
+          },
+          {
+            "id": "eg",
+            "code": null,
+            "prc": 1.25,
+            "hs_value": null
+          },
+          {
+            "id": "sa",
+            "code": null,
+            "prc": 1.25,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        16
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 9761426
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 8
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1089
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1097
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 151244
+        }
+      }
+    }
+  }
+}

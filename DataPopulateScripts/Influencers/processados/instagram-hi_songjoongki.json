@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 161,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "45260083444",
+    "username": "hi_songjoongki",
+    "title": null,
+    "fullname": "\u1109\u1169\u11bc\u110c\u116e\u11bc\u1100\u1175 songjoongki official",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/45260083444.jpg?w=150&till=1722470340&sign=550bd124fddf9ae54ea880f818e1603e",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "id",
+    "audience_geo_country_1_prc": 22.15,
+    "blogger_thematics": {
+      "data": [
+        1032
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 12063758
+    },
+    "engagement_avg": {
+      "value": 1015515
+    },
+    "authentic_engagement": {
+      "value": 846241
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 781,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "1931200392",
+    "username": "blakegray",
+    "title": null,
+    "fullname": "Blake Gray",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/1931200392.jpg?w=150&till=1722470340&sign=2af2dda32297d5362c66b10d7614aec8",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 29.52,
+    "blogger_thematics": {
+      "data": [
+        1041
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4459089
+    },
+    "engagement_avg": {
+      "value": 190998
+    },
+    "authentic_engagement": {
+      "value": 113860
+    }
+  }
+}

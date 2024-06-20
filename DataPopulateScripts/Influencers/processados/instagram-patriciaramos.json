@@ -1,0 +1,34 @@
+{
+  "_fh": null,
+  "_number": 995,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "290179611",
+    "username": "patriciaramos",
+    "title": null,
+    "fullname": "Patri\u0301cia Ramos",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/290179611.jpg?w=150&till=1722470340&sign=6635f460312c91b0d21d5b054e7a4540",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 85.9,
+    "blogger_thematics": {
+      "data": [
+        1020
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 4810437
+    },
+    "engagement_avg": {
+      "value": 106460
+    },
+    "authentic_engagement": {
+      "value": 74685
+    }
+  }
+}

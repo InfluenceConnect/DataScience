@@ -1,0 +1,35 @@
+{
+  "_fh": null,
+  "_number": 307,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "198945880",
+    "username": "schwarzenegger",
+    "title": null,
+    "fullname": "Arnold Schwarzenegger",
+    "avatar_url": "https://cdn.hypeauditor.com/img/instagram/user/198945880.jpg?w=150&till=1722470340&sign=133b513891a970309cb8459280aee62a",
+    "is_verified": true
+  },
+  "features": {
+    "audience_geo_country_1_code": "us",
+    "audience_geo_country_1_prc": 20.82,
+    "blogger_thematics": {
+      "data": [
+        1032,
+        1023
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 26315377
+    },
+    "engagement_avg": {
+      "value": 177116
+    },
+    "authentic_engagement": {
+      "value": 139730
+    }
+  }
+}

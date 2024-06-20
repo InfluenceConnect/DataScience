@@ -1,0 +1,91 @@
+{
+  "_number": 444,
+  "_delta": null,
+  "basic": {
+    "id": null,
+    "social_id": "UCKDjjeeBmdaiicey2nImISw",
+    "username": "brasilparalelo",
+    "title": null,
+    "fullname": "Brasil Paralelo",
+    "avatar_url": "https://yt3.googleusercontent.com/bfo3JYgwO_BZzCfyy3lRz5hmAVn2uqR7ol0hBujyAcymFQTk1yJtg0NbeMDWa8dafxK8TS5qf1Y=s900-c-k-c0x00ffffff-no-rj",
+    "is_verified": false
+  },
+  "features": {
+    "audience_geo_country_1_code": "br",
+    "audience_geo_country_1_prc": 93.22,
+    "audience_geo": {
+      "data": {
+        "countries": [
+          {
+            "id": "br",
+            "code": null,
+            "prc": 93.22,
+            "hs_value": 0.164479
+          },
+          {
+            "id": "us",
+            "code": null,
+            "prc": 1.63,
+            "hs_value": null
+          },
+          {
+            "id": "pt",
+            "code": null,
+            "prc": 0.75,
+            "hs_value": null
+          },
+          {
+            "id": "de",
+            "code": null,
+            "prc": 0.63,
+            "hs_value": null
+          },
+          {
+            "id": "it",
+            "code": null,
+            "prc": 0.5,
+            "hs_value": null
+          }
+        ]
+      }
+    },
+    "blogger_thematics": {
+      "data": [
+        19
+      ]
+    }
+  },
+  "metrics": {
+    "subscribers_count": {
+      "value": 3810862
+    },
+    "comments_avg": {
+      "performance": {
+        "30d": {
+          "value": 60
+        }
+      }
+    },
+    "likes_avg": {
+      "performance": {
+        "30d": {
+          "value": 1833
+        }
+      }
+    },
+    "engagement_avg": {
+      "performance": {
+        "30d": {
+          "value": 1893
+        }
+      }
+    },
+    "video_views_avg": {
+      "performance": {
+        "30d": {
+          "value": 12271
+        }
+      }
+    }
+  }
+}
