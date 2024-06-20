@@ -12,7 +12,7 @@ api_base_url = f"http://localhost:8001/influenceconnect/influencers"
 # Dicionário de mapeamento de estado
 state_mapping = {
     "br": list(range(1, 28)),  # Estados do Brasil de 1 a 27
-    "outro": [28]  # Estado 28 para outros países
+    "outro": [28]  #gringos
 }
 
 # Lista de domínios de e-mail para escolha aleatória
@@ -40,31 +40,32 @@ niche_mapping = {
     "outros": 18
 }
 
-# Função para gerar data de nascimento aleatória a partir de 1930-01-01
+# Função para gerar data de nascimento aleatória a partir de 1930
 def generate_birthdate():
     start_date = datetime(1930, 1, 1)
     end_date = datetime.now() - timedelta(days=365 * 18)  # Menos de 18 anos
     birth_date = start_date + timedelta(seconds=random.randint(0, int((end_date - start_date).total_seconds())))
     return birth_date.strftime("%Y-%m-%d")
 
-# Função para gerar e-mail aleatório seguindo um padrão básico
+# Função para gerar e-mail aleatório
 def generate_email(username):
     domain = random.choice(email_domains)
     return f"{username}@{domain}"
 
 # Função para enviar dados para a API
 def send_to_api(username, avatar_url, geo_country, niches, platform):
-    # Gerar dados aleatórios conforme especificações
+    # chamando a funcao para gerar dados aleatorios
     birthdate = generate_birthdate()
     email = generate_email(username)
 
-    # Escolher estado aleatoriamente com base no país
+    # escolha do estado com base na geolocalizacao , escolha do estado é aleatoria
+    #se for gringo coloca ele fora do brasil. 
     state_id = random.choice(state_mapping.get(geo_country.lower(), [28]))
 
-    # Mapear os nomes dos nichos para IDs usando o dicionário de mapeamento
+    # Mapear os nomes dos nichos para IDs usando o dicionário de mapeamento 
     niche_ids = [niche_mapping.get(niche.lower(), 18) for niche in niches]
 
-    # Preparar dados no formato esperado pela API
+    # arrumando os dados na formatacao esperada para a api 
     if platform == "instagram":
         social_media_id = 2
         link = f"https://www.instagram.com/{username}"
@@ -72,13 +73,13 @@ def send_to_api(username, avatar_url, geo_country, niches, platform):
         social_media_id = 3
         link = f"https://www.youtube.com/{username}"
     else:
-        return  # Caso a plataforma não seja reconhecida, não faz nada
+        return  
 
     data = {
         "email": email,
         "name": username,
-        "password": "12345678Aa!",  # Senha fixa como exemplo
-        "cpf": "111.111.111-11",  # CPF fixo como exemplo
+        "password": "12345678Aa!",  
+        "cpf": "111.111.111-11",  
         "profilePhoto": avatar_url,
         "stateId": state_id,
         "birthdate": birthdate,
@@ -92,10 +93,10 @@ def send_to_api(username, avatar_url, geo_country, niches, platform):
     # Cabeçalhos da requisição
     headers = {
         'Content-Type': 'application/json',
-        'Origin': 'http://localhost:5173'  # Altere para o domínio onde seu script está rodando
+        'Origin': 'http://localhost:5173'  # gambiarra para simular que sou o site de origem 
     }
 
-    # Enviar requisição POST para a API
+    # requisicao post pra api louca
     try:
         response = requests.post(api_base_url, json=data, headers=headers)
         if response.status_code == 201:
@@ -105,7 +106,7 @@ def send_to_api(username, avatar_url, geo_country, niches, platform):
     except requests.exceptions.RequestException as e:
         print(f"Erro na requisição: {e}")
 
-# Função para processar os arquivos
+# processamento dos arquivos
 def process_files(input_directory):
     for filename in os.listdir(input_directory):
         if filename.endswith(".json"):
